@@ -69,12 +69,20 @@ if pregunta and material:
             res = client.chat.completions.create(
                 model="llama-3.1-8b-instant",
                 messages=[
-                    {"role": "system", "content": "Eres Profesor de Farmacología Veterinaria. Tu respuesta debe ser técnica, basada en las guías y NO dar respuestas genéricas como 'consulte a su veterinario'."},
-                    {"role": "user", "content": f"MATERIAL DISPONIBLE:\n{contexto_relevante}\n\nPREGUNTA DEL ALUMNO: {pregunta}"}
+                    {"role": "system", "content": "Eres Profesor de Farmacología Veterinaria. Responde usando SOLO el material provisto. Si la información no está en el material, indícalo."},
+                    {"role": "user", "content": f"MATERIAL DE CÁTEDRA:\n{contexto_relevante}\n\nPREGUNTA DEL ALUMNO: {pregunta}"}
                 ],
                 temperature=0.0
             )
+            
+            # --- MOSTRAR RESPUESTA ---
             st.subheader("📌 Respuesta de la Cátedra:")
             st.write(res.choices[0].message.content)
-        except:
+            
+            # --- MOSTRAR FUENTES (ESTO TE DA TRANQUILIDAD) ---
+            with st.expander("🔍 Ver fuentes de las guías utilizadas"):
+                st.write("El asistente extrajo información de los siguientes fragmentos:")
+                st.info(contexto_relevante)
+                
+        except Exception as e:
             st.error("Error de conexión. Intenta de nuevo.")
