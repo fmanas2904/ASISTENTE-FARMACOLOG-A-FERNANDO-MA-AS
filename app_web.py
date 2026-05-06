@@ -68,11 +68,11 @@ pregunta = st.text_input("Escribe tu duda técnica aquí:")
 if pregunta and index:
     with st.spinner("Analizando guías de cátedra..."):
         q = modelo.encode([pregunta], normalize_embeddings=True)
-        scores, idx = index.search(np.array(q).astype("float32"), k=12)
+        scores, idx = index.search(np.array(q).astype("float32"), k=20)
         
         contexto_lista = []
         for i, score in zip(idx[0], scores[0]):
-            if i != -1 and score > 0.18:
+            if i != -1 and score > 0.10:
                 contexto_lista.append(f"ARCHIVO: {chunks[i]['doc']}\nCONTENIDO: {chunks[i]['texto']}")
         
         if contexto_lista:
