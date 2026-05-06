@@ -39,50 +39,63 @@ else:
     st.error("No se encontraron guías en la carpeta 'documentos'.")
 
 # --- BUSCADOR Y CONSULTA ---
-# --- BUSCADOR Y CONSULTA MEJORADO ---
-pregunta = st.text_input("Escribe tu duda técnica:")
+# --- BUSCADOR Y CONSULTA REFORZADO ---
+pregunta = st.text_input("Escribe tu duda técnica (ej: mecanismo de glucocorticoides):")
 
 if pregunta and material:
-    with st.spinner("Buscando en todas las guías..."):
-        # Buscamos coincidencias de forma más amplia
-        palabras_pregunta = pregunta.lower().replace("?", "").split()
-        contexto_relevante = ""
+    with st.spinner("Buscando en las guías de la cátedra..."):
+        # Limpieza de pregunta para búsqueda
+        palabras_pregunta = pregunta.lower().replace("?", "").replace("¿", "").split()
         
-        # Ordenamos fragmentos por relevancia (cuántas palabras coinciden)
+        # Puntuación por relevancia
         puntuados = []
         for f in material:
+            # Buscamos coincidencias de palabras completas
             coincidencias = sum(1 for p in palabras_pregunta if p in f["texto"].lower())
             if coincidencias > 0:
                 puntuados.append((coincidencias, f))
         
+        # Ordenar y seleccionar los mejores 15 (equilibrio entre contexto y velocidad)
         puntuados.sort(key=lambda x: x[0], reverse=True)
+        fragmentos_finales = puntuados[:15]
         
-        # Tomamos los 20 mejores fragmentos de cualquier guía
-        for _, f in puntuados[:30]:
-            contexto_relevante += f"\n--- De {f['fuente']} ---\n{f['texto']}\n"
+        contexto_relevante = ""
+        for _, f in fragmentos_finales:
+            contexto_relevante += f"\n--- FUENTE: {f['fuente']} ---\n{f['texto']}\n"
 
         if not contexto_relevante:
-            # Si no hay nada, mandamos un resumen de las primeras guías
-            contexto_relevante = "\n".join([f["texto"] for f in material[:5]])
+            contexto_relevante = "No se encontraron fragmentos específicos. Usa el conocimiento general solo para indicar que no figura en las guías."
 
         try:
+            # Llamada al modelo 70b con instrucciones estrictas
             res = client.chat.completions.create(
                 model="llama-3.3-70b-versatile",
                 messages=[
-                    {"role": "system", "content": "Eres Profesor de Farmacología Veterinaria. Responde usando SOLO el material provisto. Si la información no está en el material, indícalo."},
+                    {
+                        "role": "system", 
+                        "content": (
+                            "Eres un Asistente Académico de Farmacología Veterinaria extremadamente riguroso. "
+                            "Tu única fuente de verdad es el MATERIAL DE CÁTEDRA provisto. "
+                            "REGLAS CRÍTICAS:\n"
+                            "1. Si la respuesta no está en el material, di: 'Esta información no figura en las guías actuales'.\n"
+                            "2. PROHIBIDO inventar prodrogas, mecanismos o ejemplos que no estén escritos en el texto.\n"
+                            "3. Usa terminología técnica y mantén un tono profesional docente.\n"
+                            "4. Si encuentras palabras con errores de tildes (ej. 'accin'), corrígelas en tu respuesta (ej. 'acción')."
+                        )
+                    },
                     {"role": "user", "content": f"MATERIAL DE CÁTEDRA:\n{contexto_relevante}\n\nPREGUNTA DEL ALUMNO: {pregunta}"}
                 ],
-                temperature=0.1
+                temperature=0.0 # Cero creatividad para evitar errores médicos
             )
             
             # --- MOSTRAR RESPUESTA ---
             st.subheader("📌 Respuesta de la Cátedra:")
             st.write(res.choices[0].message.content)
             
-            # --- MOSTRAR FUENTES (ESTO TE DA TRANQUILIDAD) ---
-            with st.expander("🔍 Ver fuentes de las guías utilizadas"):
-                st.write("El asistente extrajo información de los siguientes fragmentos:")
+            # --- MOSTRAR FUENTES ---
+            with st.expander("🔍 Ver fragmentos originales analizados"):
+                st.write("El asistente utilizó estos párrafos para construir la respuesta:")
                 st.info(contexto_relevante)
                 
         except Exception as e:
-            st.error("Error de conexión. Intenta de nuevo.")
+            st.error("Error de conexión con el servidor de IA. Por favor, intenta de nuevo en unos segundos.")
