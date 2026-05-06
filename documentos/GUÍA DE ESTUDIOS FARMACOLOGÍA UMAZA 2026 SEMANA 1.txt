@@ -1,0 +1,675 @@
+
+	
+
+GUÍA DE ESTUDIO FARMACOLOGÍA Y TERAPÉUTICA
+Esta guía está diseñada para acompañarte semana a semana en el aprendizaje de Farmacología. Su propósito es que la leas antes de cada clase teórica y llegues con una idea previa de los conceptos centrales, de modo que puedas aprovechar mejor la explicación docente, relacionar los temas y participar activamente.
+Cada semana encontrarás:
+* Conceptos esenciales en lenguaje claro, pensados para que comprendas lo indispensable antes de la clase.
+* Tablas, esquemas e íconos que resaltan ideas importantes, advertencias clínicas y relaciones entre fármacos.
+* Errores frecuentes y checklists para autoevaluarte y evitar confusiones comunes en la práctica profesional.
+* Bibliografía sugerida, por si querés profundizar más allá del contenido mínimo.
+Luego de la clase teórica, aplicarás estos conocimientos en la actividad práctica correspondiente, donde analizarás casos reales, calcularás dosis, resolverás problemas clínicos y aprenderás a tomar decisiones terapéuticas fundamentadas.
+Es importante recordar que esta guía no reemplaza la lectura de los libros y materiales recomendados, que constituyen la fuente primaria y más completa para el estudio profundo de la asignatura. Su objetivo es facilitar tu preparación, orientar tu lectura y ayudarte a integrar los contenidos.
+Usada antes y después de cada clase, la guía te permitirá construir una base sólida para comprender la lógica farmacológica y utilizar los fármacos de manera segura y profesional.
+
+
+Contenido
+MÓDULO 1: Principios Generales, Farmacocinética y Farmacodinamia	4
+1. Introducción al módulo	4
+Parte A: Farmacotecnia y Matemática Médica	4
+1. Conceptos fundamentales	4
+2. Formas farmacéuticas y vías de administración	5
+3. Taller de matemáticas: cálculo de dosis	5
+Parte B: Farmacocinética (ADME)	6
+1. Absorción	7
+2. Distribución	8
+3. Metabolismo (biotransformación)	10
+4. Eliminación	13
+5. Integración de los procesos ADME y parámetros farmacocinéticos clave	17
+Parte C: Farmacodinamia y receptores	21
+1. Mecanismos de acción INESPECÍFICOS	21
+2. Mecanismos de acción ESPECÍFICOS	22
+Actividades de autoevaluación del módulo	25
+?? Resumen en 10 puntos	25
+?? Errores clínicos frecuentes	26
+?? Checklist de examen	26
+Referencias	26
+?? TRABAJO PRÁCTICO INTEGRADO	27
+III. Actividad 1 – Cálculo de dosis y formas farmacéuticas	28
+IV. Actividad 2 – Vías de administración	28
+V. Actividad 3 – Mecanismo de acción y farmacodinamia	29
+VI. Actividad 4 – Potencia y eficacia	29
+VII. Actividad 5 – Farmacocinética básica	30
+VIII. Actividad 6 – Caso clínico integrador	30
+IX. Discusión final	31
+
+
+
+SEMANA 1- MÓDULO 1: Principios Generales, Farmacocinética y Farmacodinamia 
+Introducción a la Farmacología
+Temas: Farmacotecnia, Farmacocinética y Farmacodinamia. Cálculo de dosis.
+1. Introducción al módulo
+Bienvenidos. Este primer módulo constituye los cimientos sobre los que se construye todo el razonamiento terapéutico veterinario. Muchos errores en la clínica diaria —desde la ineficacia de un tratamiento hasta intoxicaciones fatales— no surgen de desconocer la fisiopatología compleja, sino de errores básicos en:
+* La Prescripción y el cálculo matemático de la dosis.
+* La Farmacocinética: Ignorar cómo las diferencias de especie (gato vs. perro) o el estado de salud (falla renal/hepática) alteran el destino del fármaco en el cuerpo.
+* La Farmacodinamia: Desconocer los mecanismos de acción y los tiempos biológicos de respuesta.
+
+Objetivos Generales del Módulo:
+* Confeccionar recetas y realizar cálculos de dosis sin errores.
+* Dominar los procesos de ADME (Absorción, Distribución, Metabolismo, Eliminación).
+* Ajustar dosis en situaciones fisiológicas (neonatos, gerontes) y patológicas (insuficiencia cardíaca, hepática o renal).
+* Interpretar curvas dosis-respuesta y diferenciar los tipos de mecanismos de acción farmacológica y la diversidad de receptores celulares.
+
+Parte A: Farmacotecnia y Matemática Médica
+¿Qué y cuánto administramos?
+1. Conceptos fundamentales
+El lenguaje técnico es la primera barrera. Diferencie:
+Fármaco (Droga o Principio Activo): Sustancia química pura con estructura conocida que produce una respuesta farmacológica.
+Medicamento: El fármaco acondicionado para su administración. Es la suma de uno o más principios activos, con el agregado de excipientes, empleados para darles forma, consistencia, olor y sabor, con la finalidad de facilitar su administración (Principio activo + Excipientes).
+Excipiente: Sustancia inactiva farmacológicamente (vehículo, estabilizante) pero determinante en la Biodisponibilidad. Un cambio en el excipiente puede alterar la absorción.
+Xenobiótico: Cualquier sustancia extraña al organismo (incluye fármacos y tóxicos).
+2. Formas farmacéuticas y vías de administración
+Las diferencias entre especies influyen directamente en la elección de la forma farmacéutica. En rumiantes, el ambiente ruminal puede inactivar ciertos fármacos, favoreciendo formulaciones parenterales o bolos intrarruminales de liberación lenta. En felinos, algunas tabletas pueden causar esofagitis si no se administran con agua. En equinos, el transporte activo intestinal (que evita la absorción) puede disminuir la biodisponibilidad de fármacos, incluso lipofílicos.
+La elección de la vía dicta la latencia (inicio) y la intensidad del efecto.
+En el siguiente código encontrará la guía de Formas Farmacéuticas, vías de Administración y cálculo de dosis.
+
+
+3. Taller de matemáticas: cálculo de dosis
+La ecuación fundamental para la práctica clínica:
+
+Volumen (ml) =   Peso (kg) X Dosis (mg/kg)
+                                  Concentración (mg/ml)
+
+Conversión de Porcentajes (%): La Regla de Oro
+Muchos inyectables vienen al %. 
+El dato que necesitamos es ¿cuántos mg tengo en 1 ml?
+El error más común Y GRAVE es no saber convertir el % a mg/ml.
+Concepto: 1% significa 1 g en 100 ml               10 mg/ml.
+1g_____________________100 ml
+1000 mg________________100 ml
+10 mg__________________1 ml
+
+Regla rápida: Multiplique el % por 10.
+2%                20 mg/ml (Ej: Xilacina).
+10%                   100 mg/ml (Ej: Oxitetraciclina).
+0,5%                  5 mg/ml (Ej: Ivermectina Pour-on).
+
+Parte B: Farmacocinética (ADME)
+Estudio del curso temporal de las concentraciones del fármaco en el organismo. Estudia el tránsito intraorgánico de las drogas y las leyes que lo rigen. 
+En algunos textos, se agrupan en cinco siglas: LADME, que representan los procesos de Liberación (de la droga desde el medicamento), Absorción, Distribución, Metabolismo y Eliminación. Los cuatro procesos más importantes para nuestro curso son los que pueden ser representados como ADME.
+Al final de la sección que describe los procesos farmacocinéticos (ADME) hallará algunas formas matemáticas de cuantificarlos. A esas formas, las llamamos parámetros farmacocinéticos, e incluyen F (fracción de absorción), área bajo la curva (ABC), Cmax y Tmax, Vd (volumen de distribución), t1/2 (vida media plasmática), Cl (Clearance o aclaramiento), entre otros. 
+Para que un fármaco pueda alcanzar los distintos compartimentos del organismo, es necesario que atraviese membranas biológicas. En términos generales, este proceso se produce a través de mecanismos clásicos, como la difusión pasiva, la difusión facilitada, el transporte activo, el pasaje por poros de membrana o la pinocitosis.
+Cada fármaco posee una estructura físico-química propia que determina, entre otras características, su grado de liposolubilidad, es decir, su capacidad para disolverse en medios lipídicos. Esta propiedad depende de la presencia y distribución de grupos químicos polares y no polares dentro de la molécula, y constituye una característica intrínseca del fármaco. En términos generales, cuanto mayor es la liposolubilidad, mayor es la afinidad del fármaco por las membranas biológicas, que están formadas principalmente por lípidos.
+Sin embargo, el comportamiento de un fármaco en el organismo no depende únicamente de su estructura química, sino también de su grado de ionización. Muchos fármacos pueden encontrarse en forma ionizada o no ionizada según el pH del medio en el que se encuentren. La fracción no ionizada es la que presenta mayor liposolubilidad y, por lo tanto, atraviesa con mayor facilidad las membranas biológicas, mientras que la fracción ionizada es más hidrosoluble y difunde con mayor dificultad a través de las mismas.
+La liposolubilidad tiene una importancia central en farmacología, ya que condiciona procesos fundamentales como la absorción, la distribución y, en muchos casos, la eliminación de los fármacos. ES IMPORTANTE ACLARAR QUE UN FÁRMACO DE MAYOR LIPOSOLUBILIDAD NO ES NECESARIAMENTE MÁS EFECTIVO. Por este motivo, comprender la relación entre estructura química, ionización y liposolubilidad resulta clave para interpretar el comportamiento de los fármacos en el organismo.
+
+1. Absorción 
+La absorción es el proceso por el cual una droga llega desde el sitio de administración hasta la circulación sistémica.
+En la mayoría de los casos, la absorción ocurre principalmente por difusión pasiva de la fracción no ionizada y liposoluble del fármaco. Este proceso depende tanto del pKa de la droga como del pH del medio en el que se encuentra, ya que estas variables determinan el grado de ionización de la molécula y, por lo tanto, su capacidad para atravesar membranas biológicas.
+La biodisponibilidad se define como la fracción de la dosis administrada que alcanza la circulación sistémica en forma inalterada. Las drogas administradas por vía endovenosa, por definición, no requieren un proceso de absorción, ya que ingresan de manera inmediata y completa al torrente sanguíneo. Por este motivo, la vía endovenosa es la única que genera una biodisponibilidad absoluta (100%).
+La absorción de un fármaco no solo determina cuánta cantidad de droga alcanza la circulación sistémica, sino también con qué velocidad lo hace. Estos aspectos pueden describirse mediante distintos parámetros farmacocinéticos, entre los que se destacan la fracción de absorción (F), la concentración plasmática máxima (Cmax) y el tiempo necesario para alcanzarla (Tmax).
+La fracción de absorción (F) representa la biodisponibilidad, ya que compara la fracción de la dosis administrada que llega a la circulación sistémica en forma inalterada por una vía determinada versus lo que habría ocurrido si la administramos por vía endovenosa. La Cmax refleja la mayor concentración plasmática alcanzada por el fármaco y se asocia tanto con la intensidad del efecto farmacológico como con el riesgo de toxicidad. El Tmax, por su parte, representa el tiempo que tarda el fármaco en alcanzar dicha concentración máxima y se vincula con la velocidad de absorción y el inicio del efecto clínico.
+Si bien existen otros parámetros que describen el perfil concentración–tiempo del fármaco, como el área bajo la curva (ABC o AUC), estos integran no solo la absorción, sino también la distribución y la eliminación, por lo que su análisis resulta más apropiado en un enfoque farmacocinético integrador.
+En el caso de las drogas administradas por vía oral, la biodisponibilidad puede verse reducida por el denominado efecto de primer paso hepático, que ocurre cuando el fármaco absorbido desde el tracto gastrointestinal es metabolizado en el hígado antes de alcanzar la circulación sistémica.
+La absorción también depende de la superficie de absorción, la cual está determinada por la vía de administración y su grado de irrigación. En general, las drogas se absorberán más rápidamente cuanto mayor sea el flujo sanguíneo en la superficie de absorción. Por este motivo, la absorción suele ser más rápida por vía intramuscular que por vía subcutánea.
+Diversos factores fisiológicos influyen de manera significativa sobre la absorción, entre ellos la motilidad gastrointestinal, la perfusión tisular y la microbiota intestinal. En situaciones de hipovolemia o shock, la absorción de fármacos administrados por vía subcutánea o intramuscular se reduce de forma marcada debido a la disminución del flujo sanguíneo periférico. Asimismo, los vómitos y las diarreas afectan directamente la absorción de drogas administradas por vía oral.
+Si bien la difusión pasiva es el mecanismo predominante, algunas drogas pueden absorberse mediante transporte activo o difusión facilitada, especialmente cuando presentan similitud estructural con sustancias endógenas.
+Las formas farmacéuticas influyen también sobre la velocidad de absorción. En términos generales, las formas sólidas se absorben más lentamente que las formas líquidas; y dentro de estas, las suspensiones presentan una absorción más lenta que las soluciones.
+
+Ejemplo clínico breve
+Un perro ingresa a la consulta con un cuadro de gastroenteritis aguda, presentando vómitos, diarrea y signos de deshidratación moderada a severa. En este contexto, la administración de un antibiótico por vía oral resulta poco confiable, ya que la alteración de la motilidad gastrointestinal y la pérdida de contenido intestinal pueden reducir significativamente su absorción y biodisponibilidad.
+Si además el paciente presenta hipovolemia, la administración del mismo fármaco por vía subcutánea o intramuscular tampoco garantiza una absorción adecuada, debido a la disminución de la perfusión tisular. En esta situación clínica, la vía endovenosa se convierte en la opción de elección, ya que asegura una biodisponibilidad completa y un inicio de acción rápido, independientemente de las alteraciones gastrointestinales o hemodinámicas presentes.
+2. Distribución 
+Una vez que el fármaco alcanza la circulación sistémica, se distribuye por el organismo a través del torrente sanguíneo, alcanzando en primer lugar aquellos tejidos mejor irrigados. La distribución no es uniforme ni instantánea, y depende tanto de las propiedades fisicoquímicas del fármaco como del estado fisiológico o patológico del paciente.
+Factores que influyen en la distribución
+La distribución de un fármaco está condicionada por múltiples factores, entre los que se destacan:
+* el flujo sanguíneo regional,
+* la permeabilidad capilar,
+* la liposolubilidad del fármaco,
+* la unión a proteínas plasmáticas,
+* la afinidad por determinados tejidos,
+* y las características del paciente.
+Desde el punto de vista clínico, el estado fisiopatológico del paciente puede modificar de manera significativa este proceso. En situaciones de hipoproteinemia, aumenta la fracción libre de aquellos fármacos altamente unidos a proteínas plasmáticas, incrementando el riesgo de efectos adversos y toxicidad. En los neonatos, la mayor proporción de agua corporal total favorece una mayor distribución de los fármacos hidrosolubles. En los animales obesos, los fármacos lipofílicos pueden acumularse en el tejido adiposo, prolongando su permanencia en el organismo.
+
+Unión a proteínas plasmáticas (UPP)
+En la sangre, el fármaco puede encontrarse en forma libre, disuelto en el plasma, o unido a proteínas plasmáticas (UPP). La unión ocurre principalmente con:
+* Albúmina, que fija preferentemente fármacos de carácter ácido.
+* ??-glicoproteína ácida, que une con mayor afinidad fármacos de carácter básico.
+Solo la fracción libre del fármaco es farmacológicamente activa: puede atravesar membranas biológicas, distribuirse hacia los tejidos, unirse a su receptor, ser metabolizada y eliminada. La fracción unida actúa como un reservorio reversible, en equilibrio dinámico con la fracción libre.
+Desde el punto de vista clínico, en condiciones como la desnutrición, las nefropatías o las hepatopatías, la disminución de proteínas plasmáticas conduce a un aumento de la fracción libre del fármaco, con el consiguiente incremento del efecto farmacológico y del riesgo de toxicidad.
+
+Parámetro farmacocinético integrado: Volumen de distribución (Vd)
+El volumen de distribución aparente (Vd) es un parámetro farmacocinético que permite describir la extensión de la distribución de un fármaco en el organismo. Se define como un volumen teórico que relaciona la cantidad total de fármaco presente en el organismo con su concentración plasmática. No corresponde a un volumen anatómico real, sino que refleja la tendencia del fármaco a permanecer en el compartimento vascular o a distribuirse hacia los tejidos.
+* Un Vd bajo (menor a 0,3 L/kg) indica que el fármaco se encuentra principalmente en el compartimento vascular, lo que suele asociarse a una alta unión a proteínas plasmáticas o a una baja penetración tisular.
+* Un Vd elevado (mayor a 1 L/kg) sugiere una amplia distribución extravascular, con importante pasaje y fijación en tejidos.
+En términos generales, los fármacos con Vd elevado suelen presentar características que favorecen su distribución tisular, como la liposolubilidad, aunque este parámetro también puede verse influenciado por mecanismos de fijación tisular específicos o atrapamiento intracelular.
+
+Claves clínicas de la distribución
+* ? UPP ? ? fracción libre ? ? efecto inmediato
+* ? UPP ? ? fracción libre ? ?? ? riesgo de toxicidad
+* ? Vd ? mayor fijación tisular ? ? vida media
+* ? Vd ? fármaco “confinado” a la sangre
+
+Ejemplo clínico integrado – Distribución y Vd
+Un perro adulto con nefropatía crónica presenta hipoproteinemia y requiere tratamiento con un fármaco altamente unido a proteínas plasmáticas. En este paciente, la disminución de albúmina provoca un aumento de la fracción libre del fármaco, lo que incrementa el riesgo de efectos adversos y toxicidad, aun cuando se administren dosis consideradas seguras en animales sanos.
+Por otro lado, un perro obeso tratado con un fármaco lipofílico presenta una marcada distribución hacia el tejido adiposo, con un volumen de distribución elevado. Esta característica favorece la acumulación del fármaco y una vida media prolongada, lo que obliga a ajustar el esquema de dosificación, especialmente en tratamientos prolongados.
+3. Metabolismo (biotransformación)
+El metabolismo es el proceso mediante el cual las drogas son transformadas químicamente en el organismo, con el objetivo principal de convertirlas en compuestos más hidrosolubles, facilitando así su eliminación. Este proceso ocurre principalmente en el hígado, aunque otros tejidos como el riñón, el intestino o el pulmón también pueden contribuir en menor medida.
+La metabolización no siempre conduce a la inactivación del fármaco. En algunos casos puede generar metabolitos activos, y ciertos fármacos se administran como profármacos, requiriendo del metabolismo para convertirse en su forma farmacológicamente activa. Asimismo, no todas las drogas atraviesan necesariamente ambas fases del metabolismo hepático.
+
+Fases del metabolismo hepático
+Clásicamente, el metabolismo hepático se describe en dos fases funcionales, que no siempre ocurren de manera secuencial ni obligatoria.
+?? Fase I – Biotransformación
+Está mediada principalmente por el sistema del citocromo P450 (CYP450) e incluye reacciones de:
+* oxidación,
+* reducción,
+* hidrólisis.
+Estas reacciones pueden:
+* inactivar un fármaco,
+* activar un profármaco,
+* o generar metabolitos con actividad farmacológica propia.
+La Fase I suele introducir o exponer grupos funcionales en la molécula, preparando al fármaco para su posterior conjugación.
+
+?? Fase II – Conjugación o síntesis
+Consiste en la unión del fármaco o de su metabolito de Fase I a moléculas endógenas hidrosolubles, como:
+* ácido glucurónico,
+* sulfatos,
+* acetilos,
+* aminoácidos, entre otros.
+La conjugación incrementa notablemente la hidrosolubilidad, facilitando la excreción renal o biliar. En general, los metabolitos de Fase II carecen de actividad farmacológica, aunque existen excepciones.
+
+Parámetro farmacocinético integrado: Clearance hepático (Clh)
+El metabolismo hepático se relaciona directamente con el clearance hepático, que expresa la capacidad del hígado para eliminar un fármaco de la circulación mediante su transformación metabólica.
+El clearance hepático depende de:
+* la actividad enzimática hepática,
+* el flujo sanguíneo hepático,
+* y la fracción libre del fármaco (no unida a proteínas plasmáticas).
+Alteraciones en cualquiera de estos factores pueden modificar la concentración plasmática del fármaco y su vida media, con consecuencias clínicas relevantes.
+
+Factores que modifican el metabolismo
+El metabolismo de los fármacos no es constante y puede variar según múltiples variables:
+?? Especie
+Existen diferencias interespecíficas críticas, particularmente relevantes en veterinaria:
+* Gatos
+Presentan un déficit en la glucuronidación, lo que limita la Fase II para numerosas drogas.
+* ?? Riesgo elevado de toxicidad con aspirina, paracetamol y compuestos fenólicos.
+?? Vida media de la aspirina:
+o Gato ? 40 horas
+o Perro ? 8 horas
+* Perros
+Presentan una capacidad limitada de acetilación, lo que se asocia a un mayor riesgo de toxicidad con sulfonamidas.
+
+?? Edad
+* Neonatos: sistemas enzimáticos inmaduros ? metabolismo reducido.
+* Animales gerontes: posible disminución de la capacidad metabólica.
+
+?? Inducción e inhibición enzimática
+La actividad del sistema CYP450 puede modificarse por la administración concomitante de otros fármacos:
+* Inductores enzimáticos (ej. fenobarbital)
+? ? metabolismo
+? ? concentraciones plasmáticas
+? ? efecto terapéutico
+* Inhibidores enzimáticos (ej. cimetidina)
+? ? metabolismo
+? ? concentraciones plasmáticas
+? ?? ? riesgo de toxicidad
+
+Claves clínicas del metabolismo
+* Metabolismo ? ? ? vida media ? ? riesgo de acumulación
+* Metabolismo ? ? ? concentraciones plasmáticas ? posible falla terapéutica
+* Profármacos requieren metabolismo para ser activos
+* Diferencias de especie condicionan la seguridad del tratamiento
+
+Ejemplo clínico integrado – Metabolismo y toxicidad
+Un gato adulto recibe paracetamol por error terapéutico. Debido a su déficit en la glucuronidación, el fármaco no puede ser adecuadamente conjugado en la Fase II del metabolismo hepático. Como consecuencia, se prolonga su vida media, aumentan las concentraciones plasmáticas y se acumulan metabolitos tóxicos, desencadenando un cuadro grave de intoxicación.
+En contraste, un perro tratado crónicamente con fenobarbital presenta una inducción del sistema CYP450, lo que acelera su propio metabolismo (autoinducción enzimática). En este contexto, después de un tiempo de tratamiento, dosis habituales pueden resultar insuficientes para alcanzar concentraciones terapéuticas, requiriendo ajustes del esquema de tratamiento.
+4. Eliminación
+La eliminación es el proceso mediante el cual el fármaco abandona el organismo. Ocurre principalmente por dos vías:
+* vía renal, a través de la orina,
+* vía biliar, a través de la bilis y las heces.
+Estas vías representan los mecanismos predominantes de eliminación. No obstante, en menor medida, algunos fármacos o sus metabolitos pueden eliminarse por otras vías, como la leche, el sudor, las lágrimas o el aire expirado. Si bien estas rutas suelen ser cuantitativamente despreciables desde el punto de vista farmacocinético, adquieren relevancia clínica y sanitaria en situaciones particulares, como la exposición de crías lactantes o la presencia de residuos en alimentos de origen animal.
+La eliminación es un determinante central de la duración del efecto farmacológico, la vida media y el riesgo de acumulación y toxicidad.
+
+A. Excreción renal
+El riñón elimina los fármacos mediante tres mecanismos secuenciales, que actúan a lo largo de la nefrona.
+?? Filtración glomerular
+Es un proceso pasivo que ocurre a nivel del glomérulo. Se filtran:
+* fármacos libres (no unidos a proteínas),
+* de bajo peso molecular.
+La filtración depende directamente de la tasa de filtrado glomerular (TFG). En situaciones de insuficiencia renal, la disminución de la TFG reduce la eliminación del fármaco, favoreciendo su acumulación plasmática.
+
+?? Secreción tubular activa
+Es un proceso activo que ocurre principalmente en el túbulo proximal, mediante transportadores específicos que bombean fármacos desde la sangre hacia la luz tubular, incluso en contra de gradiente.
+Este mecanismo:
+* es saturable,
+* puede presentar competencia entre fármacos.
+?? Ejemplo clásico: el probenecid compite con la penicilina por los transportadores tubulares, reduciendo su secreción renal y prolongando su vida media.
+
+?? Reabsorción tubular pasiva
+Ocurre principalmente en el túbulo distal y es un proceso pasivo. Los fármacos:
+* liposolubles,
+* no ionizados,
+pueden difundirse nuevamente desde la orina hacia la sangre, reduciendo su eliminación.
+
+?? Atrapamiento iónico (maniobra clínica)
+El atrapamiento iónico es una estrategia terapéutica utilizada para acelerar la eliminación renal de ciertos fármacos.
+* Para ácidos débiles (ej. aspirina, fenobarbital):
+?? se alcaliniza la orina (ej. bicarbonato),
+? el fármaco se ioniza,
+? no puede reabsorberse,
+? queda “atrapado” en la orina y se elimina.
+Esta maniobra es especialmente útil en el manejo de intoxicaciones.
+
+B. Excreción biliar y hepática
+Los fármacos de:
+* alto peso molecular, o
+* metabolizados en Fase II (conjugados con ácido glucurónico, sulfato, etc.),
+pueden ser transportados activamente desde el hígado hacia la bilis, alcanzando luego el intestino y eliminándose por las heces.
+?? Circulación enterohepática
+Una vez en el intestino, la microbiota intestinal puede hidrolizar los conjugados, liberando nuevamente el fármaco original, generalmente lipofílico, que puede ser reabsorbido y retornar al hígado.
+?? Consecuencia clínica:
+* se genera un ciclo enterohepático,
+* se prolonga la vida media,
+* aumenta la permanencia del fármaco en el organismo.
+Ejemplos clásicos: doxiciclina, estrógenos.
+
+C. Parámetros farmacocinéticos integrados de la eliminación
+?? Clearance (Cl)
+El clearance es el volumen de plasma que queda completamente depurado de fármaco por unidad de tiempo. Representa la capacidad global del organismo para eliminar un fármaco, integrando los procesos de metabolismo y excreción.
+
+?? Vida media plasmática (t½)
+La vida media es el tiempo necesario para que la concentración plasmática del fármaco disminuya al 50%. Depende principalmente de:
+* el clearance,
+* el volumen de distribución.
+?? Relación clave:
+* ? clearance ? ? vida media
+* ? clearance ? ? vida media
+
+?? Ajuste en insuficiencia orgánica
+En situaciones de insuficiencia renal o hepática, la disminución del clearance provoca un aumento de la vida media y el riesgo de acumulación. En estos casos, es necesario:
+* reducir la dosis, o
+* aumentar el intervalo entre dosis.
+
+Claves clínicas de la eliminación
+* La fracción libre del fármaco es la que se elimina.
+* La insuficiencia renal prolonga la vida media de fármacos renales.
+* La circulación enterohepática prolonga la duración del efecto.
+* El atrapamiento iónico puede ser útil en intoxicaciones.
+* La eliminación por leche puede generar exposición de crías y residuos en alimentos.
+
+Ejemplo clínico integrado – Eliminación y ajuste de dosis
+Un perro geriátrico con insuficiencia renal crónica recibe un fármaco cuya eliminación es predominantemente renal. Debido a la disminución de la TFG, el clearance renal del fármaco se reduce, lo que provoca un aumento de su vida media y un riesgo elevado de acumulación y toxicidad si se mantiene el esquema de dosificación habitual.
+En este contexto, el tratamiento debe ajustarse mediante la reducción de la dosis o el aumento del intervalo entre administraciones, a fin de evitar concentraciones plasmáticas excesivas.
+Por otro lado, una vaca lechera tratada con un fármaco liposoluble puede eliminar pequeñas cantidades del mismo a través de la leche, lo que, aunque farmacocinéticamente despreciable para el animal, adquiere relevancia sanitaria por la presencia de residuos y la necesidad de respetar los tiempos de retiro.
+
+5. Integración de los procesos ADME y parámetros farmacocinéticos clave
+La farmacocinética estudia el recorrido que sigue un fármaco en el organismo desde su administración hasta su eliminación, a través de los procesos de absorción, distribución, metabolismo y eliminación (ADME).
+Estos procesos pueden describirse mediante parámetros farmacocinéticos, los cuales permiten cuantificar el comportamiento del fármaco y comprender su impacto clínico. Las expresiones matemáticas de dichos parámetros deben interpretarse siempre a la luz de la fisiología y del estado del paciente.
+
+1. Absorción: cuánto y cuán rápido llega el fármaco
+Concentración plasmática máxima (Cmax)
+Es la mayor concentración plasmática alcanzada tras la administración del fármaco.
+?? Interpretación clínica
+* Se asocia con la intensidad del efecto
+* Se relaciona con el riesgo de toxicidad
+
+Tiempo a la Cmax (Tmax)
+Es el tiempo necesario para alcanzar la concentración plasmática máxima.
+?? Interpretación clínica
+* Refleja la velocidad de absorción
+* Se vincula con el inicio del efecto farmacológico
+
+Área bajo la curva (AUC / ABC)
+Representa la exposición total del organismo al fármaco.
+Fórmula conceptual:
+AUC=?_0^???C(t)"?" dt?
+
+Figura. Curvas concentración plasmática–tiempo tras la administración de un mismo fármaco por vía endovenosa (EV) y por una vía no endovenosa. El área bajo la curva (ABC) representa la exposición sistémica total. La vía EV presenta un ABC mayor, que se utiliza como referencia para el cálculo de la fracción de absorción (F).
+
+?? Interpretación clínica
+* AUC ? ? mayor exposición sistémica
+* Permite comparar biodisponibilidad entre vías o formulaciones
+
+Biodisponibilidad / Fracción de absorción (F)
+La biodisponibilidad expresa la fracción de la dosis administrada que alcanza la circulación sistémica en forma inalterada.
+Fórmula:
+F=(AUC_("v" "?"  ?"a extravascular" ))/(AUC_"EV"  )
+
+?? Interpretación clínica
+* F = 1 (100%) ? vía endovenosa
+* F < 1 ? absorción incompleta y/o efecto de primer paso
+
+2. Distribución: hacia dónde va el fármaco
+Volumen de distribución aparente (Vd)
+El volumen de distribución es un volumen teórico que relaciona la cantidad total de fármaco en el organismo con su concentración plasmática.
+Fórmula:
+V_d=D/C_0 
+
+Donde D es la dosis total administrada y C0 es la concentración plasmática obtenida
+?? Interpretación clínica
+* Vd bajo ? fármaco confinado al compartimento vascular
+* Vd alto ? amplia distribución tisular
+* Vd elevado suele asociarse a ? vida media
+
+3. Metabolismo: cómo se transforma el fármaco
+Clearance hepático (Clh)
+El clearance hepático expresa la capacidad del hígado para eliminar un fármaco mediante metabolismo.
+Fórmula conceptual:
+Cl_h=Q_h×E_h
+
+donde:
+* Q_h= flujo sanguíneo hepático
+* E_h= coeficiente de extracción hepática
+?? Interpretación clínica
+* Fármacos de alto E ? dependen del flujo hepático
+* Fármacos de bajo E ? dependen de la capacidad metabólica
+
+4. Eliminación: cómo y cuánto tiempo permanece el fármaco
+Clearance total (Cl)
+El clearance total es el volumen de plasma completamente depurado de fármaco por unidad de tiempo.
+Fórmula:
+Cl=("Velocidad de eliminaci" "o"  ?"n" )/C_("plasm" "a"  ?"tica" ) 
+
+También:
+Cl=D/AUC
+
+(en administración EV).
+?? Interpretación clínica
+* Cl ? ? ? concentraciones plasmáticas
+* Cl ? ? ? vida media y riesgo de acumulación
+
+Vida media (t½)
+Es el tiempo necesario para que la concentración plasmática del fármaco disminuya al 50%.
+Fórmula:
+t_(1/2)=(0,693×V_d)/Cl
+
+?? Interpretación clínica
+* ? Vd ? ? t½
+* ? Cl ? ? t½
+* Determina el intervalo de dosificación y el tiempo para alcanzar el estado estacionario
+
+5. Integración final de los parámetros
+ProcesoParámetroFórmula claveSignificado clínicoAbsorciónFAUC_EVx / AUC_EVCuánto llegaAbsorciónCmax—Intensidad / ToxicidadAbsorciónTmax—VelocidadDistribuciónVdD / C?Alcance tisularMetabolismoClhQ × ECapacidad hepáticaEliminaciónClD / AUCCapacidad de eliminaciónEliminaciónt½0,693·Vd / ClDuración
+Parte C: Farmacodinamia y receptores
+La farmacodinamia estudia qué le hace el fármaco al organismo. Analiza las acciones, los efectos y los mecanismos de acción por los cuales una droga produce una respuesta biológica.
+Los fármacos pueden actuar mediante mecanismos inespecíficos o mecanismos específicos, dependiendo de si interactúan o no con estructuras moleculares definidas del organismo.
+La curva dosis–respuesta permite analizar:
+* Eficacia (efecto máximo alcanzable)
+* Potencia (dosis necesaria para producir un efecto)
+* Margen terapéutico (seguridad)
+?? La potencia no implica mayor eficacia, solo menor dosis requerida.
+La desensibilización y la taquifilaxia son fenómenos frecuentes tras exposición repetida, especialmente con agonistas adrenérgicos y opioides.
+
+1. Mecanismos de acción INESPECÍFICOS
+(No dependen de receptores ni de interacciones moleculares selectivas)
+El efecto farmacológico se debe a propiedades físico-químicas del fármaco.
+?? Principales mecanismos inespecíficos
+a. Acción osmótica
+El fármaco genera un gradiente osmótico que moviliza agua.
+Ejemplos:
+* Manitol (diurético osmótico)
+* Laxantes osmóticos
+b. Acción neutralizante
+Reacción química directa que neutraliza una sustancia.
+Ejemplos:
+* Antiácidos (neutralización del HCl gástrico)
+c. Acción lubricante o protectora
+Forman una barrera física sobre mucosas o tejidos.
+Ejemplos:
+* Protectores gástricos
+* Laxantes lubricantes
+d. Adsorción
+Fijan toxinas o sustancias en su superficie.
+Ejemplo:
+* Carbón activado
+?? Clave conceptual:
+Estos mecanismos no presentan saturación, ni afinidad, ni antagonismo clásico.
+
+2. Mecanismos de acción ESPECÍFICOS
+(Involucran interacción con blancos moleculares definidos)
+El fármaco actúa uniéndose o interfiriendo con una estructura biológica específica.
+
+?? A. Interacción con ENZIMAS
+El fármaco inhibe una enzima.
+Ejemplos:
+* Inhibidores de la ciclooxigenasa (AINEs)
+* Inhibidores de la anhidrasa carbónica
+* Anticolinesterásicos
+?? El efecto depende de la actividad enzimática basal del tejido.
+
+?? B. Interacción con CANALES IÓNICOS
+El fármaco modula la apertura o cierre de canales iónicos.
+Ejemplos:
+* Bloqueantes de canales de sodio
+* Moduladores de canales de calcio
+* Canales de cloro asociados a GABA
+Ejemplos:
+* Anestésicos locales
+
+?? C. Interacción con TRANSPORTADORES DE MEMBRANA
+El fármaco bloquea transportadores de membrana.
+Ejemplos:
+* Bloque del cotransporte de 2Cl, Na y K que produce Furosemida en el Asa de Henle (efecto diurético)
+
+?? D. Interacción con RECEPTORES
+(Mecanismo específico más frecuente, pero no el único)
+El fármaco se une a un receptor biológico, iniciando una cascada de señalización.
+
+3. Las cuatro superfamilias de receptores
+La estructura del receptor determina la velocidad de la respuesta clínica.
+?? TIPO 1: Canales iónicos activados por ligando (Ionotrópicos)
+Mecanismo:
+El receptor es parte del canal. La unión del fármaco abre o cierra el canal.
+Velocidad: Milisegundos (respuesta hiper-rápida).
+Ejemplos:
+* Receptor nicotínico (placa motora)
+* Receptor GABA-A (entrada de Cl?, sedación)
+
+?? TIPO 2: Receptores acoplados a proteína G (Metabotrópicos)
+Mecanismo:
+Fármaco ? receptor ? proteína G ? enzima efectora ? segundos mensajeros (AMPc, IP?, Ca²?).
+Velocidad: Segundos a minutos.
+Ejemplos:
+* Receptores adrenérgicos
+* Receptores muscarínicos
+* Receptores opioides
+
+?? TIPO 3: Receptores ligados a enzimas
+Mecanismo:
+El receptor posee actividad enzimática propia (ej. tirosina-quinasa).
+Velocidad: Minutos.
+Ejemplos:
+* Receptor de insulina
+* Factores de crecimiento
+
+?? TIPO 4: Receptores nucleares (intracelulares)
+Mecanismo:
+El fármaco liposoluble atraviesa la membrana, se une al receptor y regula la transcripción génica.
+Velocidad: Horas a días (latencia prolongada).
+Ejemplos:
+* Glucocorticoides
+* Hormonas tiroideas
+* Hormonas sexuales
+
+4. Propiedades de la interacción droga–receptor
+* Afinidad: capacidad de unirse al receptor.
+* Eficacia (actividad intrínseca): capacidad de generar respuesta biológica.
+
+5. Clasificación de los fármacos según su acción
+* Agonista completo: máxima eficacia (100% del efecto).
+* Agonista parcial: eficacia submáxima; puede antagonizar a un agonista completo.
+* Antagonista competitivo: afinidad sin eficacia; su efecto se revierte aumentando el agonista.
+* Antagonista no competitivo: unión alostérica o irreversible; reduce la eficacia máxima (aplasta la curva).
+
+Actividades de autoevaluación del módulo
+Ejercicio 1: Cálculo en Grandes Animales
+Debe sedar a un equino de 450 kg con Xilacina al 10%. Dosis: 1,1 mg/kg.
+Convierta la concentración a mg/ml.
+Calcule el volumen final a inyectar.
+Si usara por error Xilacina al 2% (de pequeños animales) con ese mismo volumen, ¿estaría subdosificando o sobredosificando?
+Ejercicio 2: El Gato y la Aspirina
+Un propietario medica a su gato con aspirina "de humanos" cada 8 horas (régimen canino). El gato llega con signos de toxicidad.
+Explique la base metabólica de esta intoxicación (Enzima y Fase involucrada).
+¿La aspirina en el gato sigue cinética de primer orden o de orden cero a dosis altas? ¿Qué implica esto para su acumulación?
+Ejercicio 3: Farmacodinamia Clínica
+Usted tiene un paciente en shock anafiláctico (riesgo de muerte inminente).
+Opción A: Dexametasona (Receptor Nuclear).
+Opción B: Adrenalina (Receptor Acoplado a Proteína G).
+Pregunta: ¿Cuál administra primero y por qué? Fundamente su respuesta basándose en el tipo de receptor y la velocidad de transducción de señal.
+?? Resumen en 10 puntos
+• Conceptos fundamentales de fármaco y medicamento.
+• Comprensión del proceso LADME.
+• Importancia de la vía de administración.
+• Cálculo correcto de dosis y conversiones.
+• Rol de la biodisponibilidad.
+• Conceptos de distribución y Vd.
+• Metabolismo hepático básico.
+• Excreción renal y atrapamiento iónico.
+• Vida media y ajustes de dosis.
+• Aplicación clínica de los conceptos.
+?? Errores clínicos frecuentes
+• Confundir porcentajes con mg/ml.
+• Usar vía SC en pacientes en shock.
+• No ajustar dosis en falla renal/hepática.
+• Ignorar hipoproteinemia en fármacos con alta UPP.
+• Subestimar efecto de primer paso en vía oral.
+?? Checklist de examen
+• ¿Calculo adecuadamente dosis y volúmenes?
+• ¿Seguro?
+• ¿Conozco el significado y puedo explicar cada uno de los procesos ADME?
+• ¿Conozco el significado de cada uno de los parámetros farmacocinéticos?
+• ¿Comprendo interacción por unión a proteínas?
+• ¿Comprendo el significado del proceso de ionización y atrape iónico?
+
+Referencias
+Boothe, D.M. Small Animal Clinical Pharmacology and Therapeutics, 2nd ed., Elsevier.
+Papich, M.G. Saunders Handbook of Veterinary Drugs, 5th ed., Elsevier.
+Riviere, J.E., & Papich, M.G. Veterinary Pharmacology and Therapeutics, 10th ed., Wiley-Blackwell.
+Lees, P., Cunningham, F., & Elliott, J. Veterinary Pharmacology and Therapeutics.
+Maddison, J., Page, S., & Church, D. Small Animal Clinical Pharmacology.
+
+?? TRABAJO PRÁCTICO INTEGRADO
+
+Bases de la Terapéutica Farmacológica Veterinaria
+Carrera: Medicina Veterinaria
+Asignatura: Farmacología
+Duración: 3 horas
+Modalidad: Trabajo grupal + discusión guiada
+Integra contenidos de:
+* Formas farmacéuticas y cálculo de dosis
+* Farmacodinamia y prescripción racional
+* Farmacocinética aplicada
+
+I. Fundamentación
+La prescripción racional en medicina veterinaria requiere integrar tres dimensiones fundamentales del uso de medicamentos:
+1?? Cálculo correcto de la dosis según peso y concentración del producto.
+2?? Comprensión del efecto farmacológico (farmacodinamia).
+3?? Comprensión del comportamiento del fármaco en el organismo (farmacocinética).
+Errores en cualquiera de estos niveles pueden conducir a:
+* fracaso terapéutico
+* toxicidad
+* desarrollo de resistencia antimicrobiana.
+Este trabajo práctico integra estos conceptos mediante problemas clínicos progresivos, simulando decisiones terapéuticas reales.
+
+II. Objetivos
+Al finalizar el trabajo práctico el estudiante será capaz de:
+* Calcular dosis y volumen de administración correctamente.
+* Seleccionar la vía de administración apropiada.
+* Interpretar conceptos farmacodinámicos básicos.
+* Analizar parámetros farmacocinéticos relevantes.
+* Diseñar esquemas terapéuticos racionales.
+
+III. Actividad 1 – Cálculo de dosis y formas farmacéuticas
+?? Caso clínico
+Canino mestizo
+Edad: 4 años
+Peso: 18 kg
+Diagnóstico:
+Piodermia bacteriana superficial.
+Tratamiento indicado:
+Antibiótico a 20 mg/kg cada 12 horas.
+Presentaciones disponibles:
+* comprimidos de 200 mg
+* solución inyectable 100 mg/ml
+
+Consignas
+1?? Calcule la dosis por administración.
+2?? Calcule la dosis total diaria.
+3?? Determine cuántos comprimidos debería recibir el animal por toma.
+4?? Si se utilizara la forma inyectable:
+* calcular el volumen a administrar por dosis.
+5?? Discuta cuál forma farmacéutica sería más apropiada en este paciente ambulatorio.
+
+IV. Actividad 2 – Vías de administración
+Indique una ventaja y una desventaja de cada vía:
+VíaVentajaDesventajaOralIntramuscularSubcutáneaLuego responda:
+1?? ¿Qué vía podría ser problemática en un animal con vómitos?
+2?? ¿Qué vía podría ser peligrosa en un animal agresivo?
+
+V. Actividad 3 – Mecanismo de acción y farmacodinamia
+Clasifique los siguientes fármacos según su mecanismo de acción:
+EjemploTipo de mecanismoAntiácido que neutraliza ácido gástricoAnestésico local que bloquea canales de Na?Laxante osmóticoAgonista ?? broncodilatadorCarbón activado intestinal
+VI. Actividad 4 – Potencia y eficacia
+Se comparan dos analgésicos veterinarios.
+Ambos alcanzan el mismo efecto máximo, pero:
+* Fármaco A lo logra con dosis menores.
+* Fármaco B requiere dosis mayores.
+Consignas:
+1?? ¿Cuál es más potente?
+2?? ¿Cuál es más eficaz?
+3?? ¿La mayor potencia implica mayor seguridad? Justifique.
+
+VII. Actividad 5 – Farmacocinética básica
+Se administran dos formulaciones del mismo fármaco por vía oral.
+ParámetroFármaco AFármaco BCmaxAltaModeradaTmaxCortoProlongadoABCSimilarSimilarConsignas:
+1?? ¿Cuál se absorbe más rápido?
+2?? ¿Tienen igual biodisponibilidad? Justifique.
+3?? ¿En qué situaciones clínicas podría preferirse cada formulación?
+
+VIII. Actividad 6 – Caso clínico integrador
+?? Paciente canino
+Labrador
+Edad: 6 años
+Peso: 32 kg
+Diagnóstico presuntivo:
+Infección urinaria bacteriana.
+Tratamiento instaurado previamente:
+Antimicrobiano X
+* dosis: 10 mg/kg
+* vía: oral
+* intervalo: cada 24 h
+Luego de 72 horas no hay mejoría clínica.
+
+Información farmacocinética del antimicrobiano
+Vida media: 4 horas
+Biodisponibilidad oral: 50 %
+Tipo de antimicrobiano:
+Tiempo-dependiente
+Concentración mínima eficaz (CME):
+4 µg/ml
+
+Consignas
+1?? Analice el esquema terapéutico instaurado.
+2?? Calcule cuántas vidas medias transcurren entre dosis.
+3?? Explique por qué el intervalo de 24 h podría ser inadecuado.
+4?? ¿Qué implicancias tiene una biodisponibilidad del 50 %?
+5?? Proponga un nuevo esquema posológico justificando:
+* dosis
+* intervalo
+* vía de administración
+
+IX. Discusión final
+En grupos discutir:
+1?? ¿Qué tipo de error puede producir más daño?
+* error de dosis
+* error de vía
+* error de intervalo
+2?? ¿Por qué un fármaco correcto puede fracasar clínicamente?
+3?? ¿Qué rol cumple la farmacología en la medicina basada en evidencia?
+GUÍA DE ESTUDIO FARMACOLOGÍA Y TERAPÉUTICA
+Fernando Mañas 
+-2026-
+
+2
+
+

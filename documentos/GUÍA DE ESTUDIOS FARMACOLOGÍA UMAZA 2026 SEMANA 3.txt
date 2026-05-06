@@ -1,0 +1,1049 @@
+
+	
+
+
+Contenido
+SEMANA 3- MÓDULO 2. Farmacología del Sistema Nervioso. Segunda parte: Farmacología del Sistema Nervioso Central (depresores y estimulantes)	3
+1. Introducción y conceptos básicos	3
+2. Tranquilizantes	4
+A. Fenotiazinas (Tranquilizantes Mayores)	4
+B. Benzodiacepinas (Tranquilizantes Menores)	7
+C. Agonistas Alfa-2 Adrenérgicos	10
+3. Anestésicos generales inyectables	13
+A. Barbitúricos (Tiopental Sódico)	13
+B. Alquilfenoles (Propofol)	16
+C. Anestésicos Disociativos (Ketamina / Tiletamina)	18
+Cuadro comparativo anestésicos inyectables	21
+Ejemplos de protocolos anestésicos inyectables	22
+4. Anestesia inhalatoria	25
+a. La Máquina de Anestesia (Componentes Básicos)	25
+b. Propiedades Físico-Químicas Clave	26
+c. Mecanismo de acción	27
+d. Isofluorano	27
+e. Sevofluorano	29
+5. Estimulantes del SNC (analépticos)	31
+6. Cuadro resumen de acciones de los depresores del SNC	34
+7. Autoevaluación	35
+8.?? Resumen en 10 puntos	35
+9.?? Errores clínicos frecuentes	35
+10.?? Checklist de examen	36
+11.?? Bibliografía recomendada	36
+?? TRABAJO PRÁCTICO Nº 3	37
+
+
+SEMANA 3- MÓDULO 2. Farmacología del Sistema Nervioso. Segunda parte: Farmacología del Sistema Nervioso Central (depresores y estimulantes)
+Tema: Tranquilizantes, Sedantes, Anestésicos Generales (Fijos e Inhalatorios) y Estimulantes.
+Asignatura: Farmacología 
+Semana: 3
+
+1. Introducción y conceptos básicos
+La anestesia veterinaria moderna se basa en el concepto de anestesia balanceada, que consiste en el uso combinado de distintos fármacos con el objetivo de alcanzar la denominada Tríada Anestésica:
+* Inconsciencia (hipnosis)
+* Analgesia
+* Relajación muscular
+Este enfoque permite minimizar las dosis individuales de cada fármaco y, en consecuencia, reducir la toxicidad y los efectos adversos, especialmente en pacientes geriátricos, neonatos o clínicamente comprometidos.
+?? Concepto clave:
+La anestesia balanceada deriva del principio de “mínima depresión necesaria”. En lugar de administrar dosis elevadas de un único agente, se emplean dosis bajas de múltiples fármacos que actúan en diferentes puntos del eje nociceptivo y del sistema nervioso central.
+En medicina veterinaria, este enfoque ha demostrado reducir de manera significativa la mortalidad anestésica, particularmente en pacientes de riesgo.
+
+La tríada anestésica y sus limitaciones farmacológicas
+Los componentes de la tríada anestésica no siempre pueden lograrse con un solo fármaco. De hecho, muchos anestésicos presentan acciones parciales sobre alguno de sus componentes:
+* Propofol induce hipnosis profunda, pero carece de analgesia.
+* Ketamina aporta una analgesia somática eficaz, pero no genera una relajación muscular adecuada cuando se utiliza como único agente.
+Por este motivo, la combinación racional de fármacos resulta fundamental para lograr una anestesia segura y efectiva.
+
+Etapas del protocolo anestésico
+La elaboración de un protocolo anestésico racional debe contemplar cuatro etapas bien definidas:
+1. Premedicación (preanestesia):
+Se tranquiliza o seda al animal con el objetivo de facilitar el manejo, reducir el estrés y disminuir la dosis requerida de anestésicos posteriores.
+2. Inducción:
+Consiste en llevar al paciente al plano anestésico deseado, generalmente mediante el uso de anestésicos inyectables.
+3. Mantenimiento:
+Se emplean anestésicos inyectables y/o inhalatorios para sostener el plano anestésico adecuado durante el procedimiento.
+4. Recuperación:
+El paciente emerge del plano anestésico, habitualmente sin la administración de fármacos adicionales, aunque bajo monitoreo clínico estricto.
+
+Aclaración terminológica fundamental
+Tranquilizantes vs. Sedantes
+Antes de abordar los distintos grupos farmacológicos, es necesario aclarar una confusión frecuente en la práctica clínica: la diferencia entre tranquilizantes y sedantes.
+CaracterísticaTRANQUILIZANTE (Neuroléptico / Ataráxico)SEDANTEEstado de conscienciaAnimal despierto, tranquilo, indiferente al entornoDepresión del SNC, somnolencia. Respuesta a estímulosConservada. Puede reaccionar ante dolor o ruidosDisminuida. Difícil de despertar (“atontado”)Analgesia? No poseeVariable (algunos sí, otros no)EjemploAcepromazinaXilazina, Dexmedetomidina?? Clave clínica:
+Un animal tranquilizado puede morder si se lo estimula, mientras que un animal sedado presenta una respuesta disminuida al entorno.
+
+2. Tranquilizantes
+A. Fenotiazinas (Tranquilizantes Mayores)
+Los tranquilizantes mayores son fármacos depresores del sistema nervioso central que inducen un estado de calma, indiferencia al entorno y disminución de la ansiedad, sin producir pérdida de la consciencia. En anestesia veterinaria se utilizan principalmente durante la premedicación, con el objetivo de facilitar el manejo del paciente y reducir la dosis necesaria de otros anestésicos. Estos tranquilizantes no inducen sueño profundo ni analgesia, por lo que nunca deben utilizarse como único agente en procedimientos dolorosos.
+Droga patrón: Acepromazina
+(Maleato de acepromazina)
+La acepromazina es el tranquilizante mayor más utilizado en medicina veterinaria. Produce un estado de tranquilidad y apatía frente al entorno, sin pérdida de la consciencia, y constituye un pilar clásico de la premedicación anestésica.
+
+Efectos farmacológicos principales
+* ¿Aporta analgesia? ? No
+Nunca debe emplearse sola en procedimientos dolorosos.
+* ¿Aporta relajación muscular?
+? No significativa.
+* Efecto principal:
+Tranquilización, disminución del estrés y de la reactividad al ambiente.
+
+Mecanismo de acción (multirreceptor)
+La acepromazina presenta un perfil farmacológico complejo, actuando como antagonista sobre varios tipos de receptores. Esta acción inespecífica explica tanto su utilidad clínica como sus efectos adversos.
+?? Bloqueo dopaminérgico (D2)
+* A nivel del sistema límbico y ganglios basales.
+* Responsable del efecto tranquilizante (neuroléptico).
+?? Bloqueo adrenérgico ?1 (periférico)
+* Produce vasodilatación periférica.
+* Explica la hipotensión arterial asociada al fármaco.
+?? Bloqueo histaminérgico (H1)
+* Contribuye al efecto sedante leve.
+* Explica su utilidad para disminuir la cinetosis (mareo por movimiento), ya que el bloqueo H1 reduce la estimulación del centro del vómito.
+?? Bloqueo serotoninérgico (5-HT)
+* Contribuye a la estabilización conductual y a la reducción de la ansiedad.
+* Refuerza el efecto tranquilizante central.
+?? Bloqueo muscarínico leve (M1)
+* Poco relevante clínicamente.
+* Puede contribuir a sequedad leve de mucosas, pero no es un efecto predominante como en los anticolinérgicos clásicos.
+?? Clave docente:
+La acepromazina no es selectiva. Su acción multirreceptor explica por qué tranquiliza bien, pero también por qué puede generar hipotensión y otros efectos indeseables.
+
+Especies y vías de administración
+* Especies:
+Caninos, felinos y equinos.
+* Vías de administración:
+o IV (administración lenta)
+o IM
+o SC
+o Oral
+La vía intravenosa permite un inicio de acción rápido, pero incrementa el riesgo de hipotensión si se administra de forma brusca.
+
+Consideraciones clínicas y precauciones
+?? Hipotensión arterial
+El bloqueo de receptores ?1 produce vasodilatación periférica marcada.
+Está contraindicada o debe usarse con extrema precaución en:
+* shock,
+* deshidratación,
+* hemorragia,
+* pacientes geriátricos o debilitados.
+?? Razas sensibles
+* Bóxer y razas gigantes (ej. Gran Danés) presentan hipersensibilidad al fármaco.
+?? Utilizar dosis mínimas o considerar alternativas.
+?? Epilepsia
+* Disminuye el umbral convulsivo.
+* ?? Usar con precaución en pacientes epilépticos.
+?? Duración prolongada e irreversible
+* No posee antagonista específico.
+* La tranquilización puede ser prolongada e impredecible en algunos pacientes.
+
+Rol clínico en anestesia balanceada
+La acepromazina es útil en la premedicación anestésica porque:
+* reduce ansiedad y estrés,
+* facilita el manejo,
+* disminuye la dosis de anestésicos generales.
+Sin embargo, no aporta analgesia ni relajación muscular, por lo que siempre debe combinarse con:
+* analgésicos (opioides, AINEs),
+* sedantes,
+* anestésicos generales, según el caso.
+
+Clave clínica final
+Un animal tranquilizado con acepromazina está despierto, no siente menos dolor y puede reaccionar ante estímulos nocivos. Su principal ventaja es la reducción del estrés; su principal limitación, la ausencia de analgesia y la hipotensión.
+
+B. Benzodiacepinas (Tranquilizantes Menores)
+Tranquilizantes menores
+Las benzodiacepinas son fármacos depresores del sistema nervioso central que producen ansiólisis, sedación leve y una excelente relajación muscular de origen central, sin generar pérdida de la consciencia. En anestesia veterinaria se consideran tranquilizantes menores y se utilizan principalmente en la premedicación, la inducción y el manejo de urgencias neurológicas.
+A diferencia de otros depresores del SNC, las benzodiacepinas presentan un amplio margen de seguridad cardiovascular, lo que las convierte en una opción especialmente valiosa en neonatos, gerontes y pacientes críticos.
+
+Drogas representativas
+* Diazepam 
+* Midazolam
+* Zolazepam (usualmente en combinación con tiletamina)
+
+Efectos farmacológicos principales
+* ¿Aporta analgesia? ? No 
+No deben utilizarse como único agente en procedimientos dolorosos.
+* ¿Aporta relajación muscular? ? Sí, excelente
+Relajación muscular central, muy marcada.
+* Efectos predominantes:
+Ansiólisis, sedación leve, anticonvulsivante y relajación muscular.
+
+Mecanismo de acción
+Las benzodiacepinas actúan como moduladores alostéricos positivos del receptor GABA-A.
+* Se unen a un sitio específico del receptor GABA-A, distinto del sitio del GABA.
+* Aumentan la frecuencia de apertura del canal de cloro (Cl?).
+* Esto produce hiperpolarización de la neurona, disminuyendo su excitabilidad.
+?? Clave farmacológica:
+Las benzodiacepinas no activan el receptor por sí solas; potencian la acción del GABA endógeno, lo que explica su alto perfil de seguridad.
+
+Especies y perfil de seguridad
+* Especies: Todas.
+* Son especialmente útiles en:
+o Neonatos
+o Gerontes
+o Pacientes con compromiso cardiovascular
+o Pacientes críticos o neurológicos
+No producen depresión cardiovascular significativa a dosis terapéuticas.
+
+Vías de administración y particularidades
+?? Diazepam
+* Vías:
+o IV (administración estricta, muy lenta)
+o Intra-rectal (urgencias convulsivas)
+* ? No IM: doloroso y absorción errática.
+* ? No mezclar con otros fármacos en la jeringa (precipita).
+* Alta liposolubilidad ? inicio rápido, pero redistribución rápida.
+?? Midazolam
+* Vías: IV, IM o SC.
+* No doloroso, absorción más predecible.
+* Preferido en la práctica anestésica moderna.
+?? Zolazepam
+* Se utiliza combinado con tiletamina.
+* Aporta relajación muscular que compensa la rigidez inducida por la tiletamina.
+
+Consideraciones clínicas importantes
+?? Anticonvulsivante
+* Las benzodiacepinas son la droga de elección en urgencias convulsivas.
+* Diazepam IV o rectal es el tratamiento inicial estándar del status epilepticus.
+?? Excitación paradójica
+* En animales sanos, jóvenes y sin dolor, pueden producir excitación, desinhibición o agitación.
+?? Felinos – Advertencia importante
+* El diazepam por vía oral se ha asociado a necrosis hepática aguda idiosincrásica en gatos.
+* ?? Contraindicado por vía oral en felinos.
+
+Rol clínico en anestesia balanceada
+Las benzodiacepinas son especialmente útiles para:
+* mejorar la relajación muscular,
+* reducir la dosis de anestésicos generales,
+* inducir anestesia en pacientes de riesgo,
+* manejar convulsiones perioperatorias.
+Sin embargo:
+* no aportan analgesia,
+* y su sedación aislada es impredecible.
+
+Clave clínica final
+Las benzodiacepinas son fármacos seguros y versátiles, ideales para pacientes de riesgo, pero nunca deben confundirse con analgésicos ni utilizarse solas en procedimientos dolorosos.
+
+C. Agonistas Alfa-2 Adrenérgicos
+Sedantes y analgésicos centrales
+Los agonistas ?2 adrenérgicos son fármacos depresores del sistema nervioso central ampliamente utilizados en medicina veterinaria como sedantes, analgésicos y miorrelajantes. Constituyen uno de los pilares de la premedicación anestésica, especialmente en procedimientos dolorosos, debido a su potente efecto analgésico.
+Drogas representativas
+* Xilazina
+* Medetomidina
+* Dexmedetomidina
+
+Efectos farmacológicos principales
+* ¿Aporta analgesia? ? Sí, excelente
+Particularmente analgesia visceral.
+* ¿Aporta relajación muscular? ? Sí
+* Otros efectos:
+Sedación profunda, disminución de la respuesta al estrés y al dolor.
+
+Mecanismo de acción
+Los agonistas ?2 actúan mediante la estimulación de receptores ?2 presinápticos en el sistema nervioso central.
+* Inhiben la liberación de noradrenalina.
+* Disminuyen el tono simpático central.
+* Producen sedación, analgesia y miorrelajación.
+?? Clave farmacológica:
+El efecto sedante y analgésico depende directamente del grado de selectividad por receptores ?2.
+
+Especies y vías de administración
+* Xilazina:
+Equinos, bovinos (extremadamente sensibles), caninos y felinos.
+* Medetomidina / Dexmedetomidina:
+Principalmente pequeños animales y equinos.
+* Vías de administración:
+o SC
+o IM
+o SC
+
+Consideraciones clínicas generales
+?? Efectos cardiovasculares
+* Vasoconstricción periférica inicial (?1 residual).
+* Seguida de bradicardia marcada e hipotensión.
+* Disminución del gasto cardíaco.
+?? Emesis
+* Muy eméticos en perros y gatos, especialmente xilazina.
+?? Reversibilidad
+* Poseen antagonistas específicos:
+o Yohimbina
+o Atipamezol
+Esto permite un control preciso del tiempo de sedación, una ventaja clave frente a otros tranquilizantes.
+
+Importancia de la selectividad ?2 / ?1
+Los agonistas ?2 no son equivalentes. Su perfil clínico varía notablemente según su selectividad por receptores ?2 frente a ?1.
+La estimulación indeseada de receptores ?1 se asocia a:
+* mayor vasoconstricción periférica,
+* mayor compromiso cardiovascular,
+* mayor incidencia de efectos adversos.
+
+?? Comparativa de selectividad
+Xilazina vs Medetomidina / Dexmedetomidina
+CaracterísticaXilazina
+Baja selectividad ? 1,6:1Medetomidina / Dexmedetomidina 
+Alta selectividad ? 1600–1800:1Potencia sedante/analgésicaAdecuada, requiere dosis altasMuy alta, dosis muy bajas (µg/kg)Efecto cardiovascularMayor compromiso: vasoconstricción ?1 marcada, hipertensión inicial y bradicardia compensatoriaMás estable hemodinámicamente (bradicardia central esperable, menor efecto ?1)MiorrelajaciónBuena, pero frecuente ataxiaBuena, generalmente con menos ataxiaEmesisMuy frecuente en perros y gatosMenos frecuente y menos intensaReversibilidadReversible, pero menos predecibleAltamente reversible (atipamezol)CostoBajoMás elevadoUso preferidoBovinos, equinos, protocolos de bajo costoPequeños animales, pacientes críticos, protocolos modernos
+Disponibilidad de agonistas ?2 en Medicina Veterinaria (Argentina)
+Los agonistas ?2 se encuentran ampliamente disponibles en el mercado veterinario argentino.
+1. Xilazina
+* Disponibilidad: Excelente.
+* Costo: Bajo.
+* Uso principal:
+Sedación y analgesia en bovinos y equinos; uso cada vez más limitado en pequeños animales por riesgo emético y cardiovascular.
+2. Medetomidina
+* Disponibilidad: Buena.
+* Marcas: DETOMIDINA / DETOR (Richmond Vet Pharma).
+* Uso:
+Sedación y analgesia en perros, gatos y caballos.
+3. Dexmedetomidina
+* Disponibilidad: Muy buena y creciente.
+* Marcas: OVERDEX (Over), DEXDOMITOR (Zoetis).
+* Uso principal:
+Considerada el estándar de oro para sedación y premedicación en caninos y felinos, especialmente en pacientes geriátricos o con compromiso sistémico.
+4. Detomidina y Romifidina
+* Disponibilidad: Buena.
+* Uso principal: Equinos.
+* Ventajas específicas:
+o Romifidina: menor ataxia.
+o Detomidina: mayor potencia y duración.
+
+Clave clínica final
+Los agonistas ?2 son fármacos extremadamente útiles, pero no inocuos. Su selección debe basarse en la especie, el estado cardiovascular y la posibilidad de reversión.
+
+3. Anestésicos generales inyectables
+Los anestésicos generales inyectables se utilizan principalmente durante la fase de inducción, con el objetivo de llevar al paciente desde un estado de consciencia hasta el plano anestésico deseado, de manera rápida y controlada. Muchos de estos fármacos también pueden emplearse para el mantenimiento anestésico en procedimientos breves.
+A. Barbitúricos (Tiopental Sódico)
+El tiopental sódico es un barbitúrico de acción ultracorta que actúa como hipnótico, históricamente muy utilizado para la inducción anestésica intravenosa.
+Mecanismo de acción
+El tiopental sódico es un barbitúrico que actúa como modulador alostérico positivo del receptor GABA-A en el sistema nervioso central. Su acción principal consiste en potenciar la neurotransmisión inhibitoria mediada por GABA, facilitando la entrada de iones cloruro (Cl?) a la neurona y produciendo hiperpolarización neuronal.
+A diferencia de las benzodiacepinas, el tiopental presenta un mecanismo menos dependiente del GABA endógeno. Mientras que las benzodiacepinas solo potencian la acción del GABA presente en la sinapsis, el tiopental:
+* Prolonga la duración de apertura del canal de Cl? asociado al receptor GABA-A.
+* A dosis más altas, puede activar directamente el receptor GABA-A, incluso en ausencia de GABA.
+Como consecuencia, el tiopental produce una depresión del sistema nervioso central más profunda y dosis-dependiente, sin un verdadero efecto techo.
+?? Implicancia clínica:
+Este mecanismo explica por qué el tiopental es un hipnótico eficaz para la inducción anestésica, pero también por qué posee un margen de seguridad menor que las benzodiacepinas, con riesgo de depresión respiratoria y cardiovascular a dosis elevadas.
+Además, el tiopental no aporta analgesia y puede inducir hiperalgesia a dosis subhipnóticas, por lo que debe integrarse siempre dentro de un protocolo de anestesia balanceada.
+
+Efectos farmacológicos principales
+* Tipo: Hipnótico.
+* ¿Aporta analgesia? ? No
+A dosis bajas puede incluso ser hiperalgésico.
+* ¿Aporta relajación muscular?
+? Sí, moderada.
+* Efecto principal:
+Inducción rápida de la inconsciencia.
+
+Vía de administración
+* Vía: IV estricta.
+?? Advertencia clínica:
+El tiopental posee un pH altamente alcalino, por lo que la extravasación puede provocar necrosis perivascular severa. La administración debe ser lenta y con correcta verificación de la vía intravenosa.
+
+El fenómeno de redistribución
+(Concepto farmacocinético clave)
+Una característica fundamental del tiopental es que, si bien posee una vida media de eliminación prolongada (horas), el paciente despierta rápidamente, generalmente en 10–15 minutos. Este aparente “contraste” se explica por el fenómeno de redistribución.
+Fases del fenómeno de redistribución
+?? Fase 1 – Cerebro (inducción)
+* Tras la administración IV, el tiopental se distribuye rápidamente hacia los órganos más irrigados, principalmente el cerebro.
+* Se alcanza una concentración suficiente para producir inconsciencia.
+?? Fase 2 – Músculo (despertar)
+* A medida que la droga difunde desde la sangre hacia tejidos menos irrigados, como el músculo, la concentración plasmática disminuye.
+* Al bajar la concentración en sangre, el tiopental sale del cerebro, y el animal despierta, aun cuando el fármaco no ha sido eliminado del organismo.
+?? Fase 3 – Grasa (acumulación)
+* Posteriormente, el fármaco se redistribuye hacia el tejido adiposo, donde puede acumularse.
+* Desde allí se libera lentamente y se elimina por metabolismo hepático, contribuyendo a una recuperación prolongada tras dosis repetidas.
+?? Clave farmacocinética:
+El despertar del paciente no depende de la eliminación, sino de la redistribución del fármaco fuera del SNC.
+
+Implicancias clínicas del fenómeno de redistribución
+?? Razas magras (ej. Galgos)
+* Poseen escasa grasa corporal.
+* El tiopental no cuenta con un “reservorio” adiposo adecuado.
+* El sistema se satura rápidamente, y la droga permanece más tiempo en tejidos activos.
+?? Esto se traduce en recuperaciones prolongadas y riesgo de sobredosificación.
+?? Dosis repetidas
+* La administración repetida o en infusión puede llevar a acumulación, prolongando de manera marcada la recuperación anestésica.
+
+Rol clínico actual
+Si bien el tiopental ha sido ampliamente utilizado, su empleo ha disminuido en favor de agentes con:
+* mejor perfil de seguridad,
+* recuperación más predecible,
+* menor riesgo tisular.
+Sin embargo, su estudio sigue siendo fundamental para comprender:
+* la farmacocinética de los anestésicos IV,
+* y el concepto de redistribución, aplicable a muchos otros fármacos liposolubles.
+
+Clave clínica final
+El tiopental “despierta rápido” no porque se elimine rápido, sino porque abandona el cerebro rápidamente por redistribución hacia otros tejidos.
+B. Alquilfenoles (Propofol)
+El propofol es un anestésico general inyectable perteneciente al grupo de los alquilfenoles, ampliamente utilizado en medicina veterinaria para la inducción anestésica y, en procedimientos breves o mediante infusión continua, para el mantenimiento anestésico. Se caracteriza por un inicio de acción rápido, una anestesia suave y una recuperación clara y predecible.
+
+Efectos farmacológicos principales
+* Tipo: Hipnótico.
+* ¿Aporta analgesia? ? No
+Debe combinarse siempre con analgésicos.
+* ¿Aporta relajación muscular?
+? Sí, leve a moderada.
+* Efecto principal:
+Inducción rápida de la inconsciencia.
+
+Mecanismo de acción
+El propofol actúa principalmente sobre el receptor GABA-A, pero con un perfil farmacodinámico distinto al de las benzodiacepinas.
+* Es un potente modulador alostérico positivo del receptor GABA-A, aumentando la conductancia del canal de iones cloruro (Cl?) y produciendo hiperpolarización neuronal.
+* A diferencia de las benzodiacepinas, el propofol no depende exclusivamente del GABA endógeno:
+o Potencia intensamente la acción del GABA presente.
+o Puede activar directamente el receptor GABA-A, incluso en ausencia de GABA, especialmente a concentraciones clínicas.
+* Además, inhibe corrientes excitatorias (receptores NMDA y canales de sodio), lo que contribuye a su potente efecto hipnótico.
+Como consecuencia, el propofol produce una depresión rápida, profunda y dosis-dependiente del sistema nervioso central, sin un verdadero efecto techo.
+?? Implicancia clínica:
+Este mecanismo explica su gran eficacia como hipnótico, pero también el riesgo de apnea y depresión cardiovascular si se administra de forma rápida o en pacientes hipovolémicos.
+
+Vía de administración
+* Vía: IV lenta y titulada.
+?? Advertencia clínica:
+La administración rápida de propofol puede provocar apnea transitoria, por lo que la dosis debe administrarse progresivamente, evaluando la profundidad anestésica.
+
+Farmacocinética y recuperación
+Una de las principales ventajas del propofol es su rápido metabolismo, tanto hepático como extrahepático (pulmones y otros tejidos), lo que explica:
+* inicio rápido de acción,
+* mínima acumulación,
+* recuperación “limpia” y predecible, incluso tras infusiones prolongadas.
+?? A diferencia del tiopental, el despertar con propofol depende más de la eliminación que de la redistribución, reduciendo recuperaciones prolongadas y desorientación postanestésica.
+
+Consideraciones clínicas importantes
+Depresión respiratoria
+* La apnea es el efecto adverso más frecuente.
+* Riesgo aumentado con:
+o administración rápida,
+o dosis elevadas,
+o pacientes hipovolémicos, gerontes o debilitados.
+ Efectos cardiovasculares
+* Produce vasodilatación periférica y leve depresión miocárdica.
+* Puede generar hipotensión, especialmente en pacientes críticos.
+?? Uso en felinos
+* En gatos, el metabolismo del propofol depende en parte de la glucuronidación hepática, proceso limitado en esta especie.
+* El uso repetido durante varios días consecutivos puede inducir estrés oxidativo eritrocitario, con formación de cuerpos de Heinz.
+* ?? No se recomienda su uso repetido o prolongado en felinos.
+
+?? Farmacología avanzada: excipiente lipídico
+El propofol se formula en una emulsión lipídica, lo que:
+* facilita su administración intravenosa,
+* pero favorece el crecimiento bacteriano.
+?? Implicancia práctica:
+* Las ampollas que no son multidosis deben desecharse a las 6 horas de abiertas.
+* Es imprescindible una técnica aséptica estricta.
+
+Rol clínico en anestesia balanceada
+El propofol es uno de los agentes de inducción más utilizados en la actualidad debido a:
+* su rapidez,
+* la calidad de la recuperación,
+* su versatilidad en múltiples especies.
+Sin embargo:
+* no aporta analgesia,
+* y su seguridad depende de la titulación correcta y del monitoreo anestésico.
+
+Clave clínica final
+El propofol no solo potencia al GABA: puede activar directamente el receptor GABA-A, lo que explica su excelente efecto hipnótico… y la apnea si se administra sin cuidado.
+
+C. Anestésicos Disociativos (Ketamina / Tiletamina)
+Los anestésicos disociativos constituyen un grupo particular de anestésicos generales que producen un estado denominado anestesia disociativa, caracterizado por la desconexión funcional entre el tálamo y la corteza cerebral. El paciente aparenta estar despierto, pero se encuentra disociado del entorno y del estímulo doloroso.
+Las drogas prototipo de este grupo son la ketamina y la tiletamina.
+
+Efectos farmacológicos principales
+* Tipo: Anestésico disociativo.
+* ¿Aporta analgesia? ? Sí
+Principalmente analgesia somática (piel, músculo).
+* ¿Aporta relajación muscular? ? No
+Produce rigidez muscular y catalepsia.
+* Estado anestésico:
+Ojos abiertos, reflejos conservados, aumento del tono muscular.
+
+Mecanismo de acción (clave conceptual)
+La ketamina y la tiletamina actúan principalmente como antagonistas no competitivos de los receptores NMDA (N-metil-D-aspartato), que forman parte del sistema glutamatérgico excitatorio.
+* Bloquean la transmisión excitatoria mediada por glutamato.
+* Interrumpen la integración sensorial a nivel tálamo-cortical.
+* Generan un estado de disociación entre percepción y conciencia.
+?? Clave farmacológica:
+A diferencia de barbitúricos y propofol, los disociativos no inducen anestesia potenciando GABA, sino bloqueando la excitación glutamatérgica.
+Además, presentan efectos secundarios sobre:
+* receptores opioides (analgesia),
+* receptores monoaminérgicos,
+* canales de sodio.
+
+Vías de administración
+* IV
+* IM
+La vía IM es particularmente útil en animales agresivos o difíciles de manejar, debido a su buena absorción.
+
+Farmacocinética y características clínicas
+* Alta liposolubilidad ? inicio rápido de acción.
+* Metabolismo hepático.
+* Producción de metabolitos activos (especialmente en ketamina).
+* Recuperación variable según dosis y combinación farmacológica.
+
+Consideraciones clínicas importantes
+?? Estado disociativo
+* Ojos abiertos.
+* Reflejos palpebrales y laríngeos parcialmente conservados.
+* Puede generar experiencias disociativas y excitación durante la recuperación si se usa sola.
+?? Rigidez muscular y catalepsia
+* No produce relajación muscular.
+* ?? Debe combinarse siempre con:
+o benzodiacepinas,
+o agonistas ?2,
+o o relajantes musculares.
+?? Efectos cardiovasculares
+* Estimula el sistema simpático:
+o ? frecuencia cardíaca,
+o ? presión arterial,
+o ? gasto cardíaco.
+* Útil en pacientes hipovolémicos o en shock.
+* ? Precaución en cardiopatías, hipertensión severa.
+?? Presión intracraneana
+* Puede aumentar la presión intracraneana e intraocular.
+* Contraindicada en:
+o traumatismo craneoencefálico,
+o glaucoma,
+o patologías neurológicas con hipertensión intracraneana.
+
+Ketamina vs Tiletamina
+* Ketamina
+o Uso amplio en múltiples especies.
+o Frecuente en protocolos balanceados.
+* Tiletamina
+o Se utiliza casi exclusivamente en combinación con zolazepam.
+o La benzodiacepina compensa la rigidez muscular.
+o Anestesia más profunda y prolongada.
+
+Rol clínico en anestesia balanceada
+Los anestésicos disociativos son especialmente útiles cuando se busca:
+* analgesia somática potente,
+* mantenimiento de reflejos respiratorios,
+* soporte cardiovascular.
+Sin embargo:
+* no inducen una anestesia “suave”,
+* generan recuperaciones agitadas si no se combinan adecuadamente.
+
+Clave clínica final
+La ketamina no “duerme” al paciente: lo disocia. Analgesia sí, relajación no… y por eso nunca debe usarse sola.
+
+* Tipo: Disociativo (desconecta tálamo de corteza). Antagonista NMDA.
+* ¿Aporta Analgesia? SÍ (Somática).
+* ¿Aporta Relajación Muscular? NO. Provoca Rigidez (Catalepsia).
+* Vías de Administración: IV, IM.
+* Consideraciones Clínicas: Ojos abiertos. Estimula corazón (taquicardia/hipertensión). Aumenta presión intracraneana.
+
+Cuadro comparativo anestésicos inyectables
+Anestésicos generales inyectables
+CaracterísticaTiopental sódicoPropofolKetamina / TiletaminaGrupo farmacológicoBarbitúricoAlquilfenolAnestésicos disociativosTipo de anestesiaHipnóticaHipnóticaDisociativaConcepto centralInduce sueño profundo por depresión del SNCInduce sueño profundo por depresión del SNCProduce disociación tálamo-corticalMecanismo principalPotenciador GABA-A (? duración apertura Cl?; puede activar receptor a dosis altas)Potente modulador GABA-A (puede activar directamente el receptor)Antagonista no competitivo NMDA (? excitación glutamatérgica)Dependencia de GABA endógenoParcialBajaNo¿Hipnosis / inconsciencia?SíSíNo en sentido clásico¿Analgesia?No (puede ser hiperalgésico)NoSí (principalmente somática)¿Relajación muscular?ModeradaLeve-moderadaNo (rigidez, catalepsia)Estado ocularOjos cerradosOjos cerradosOjos abiertosReflejosAbolidosAbolidosParcialmente conservadosEfecto cardiovascularDepresorDepresor (vasodilatación)Estimulante (? FC, ? PA)Fenómeno claveRedistribuciónEliminación rápidaDisociación SNCRecuperaciónRápida inicialmente, prolongable por acumulaciónLimpia y predecibleVariable, puede ser excitadaUso típicoInducción (cada vez menos usado)Inducción estándar actualInducción y anestesia balanceadaDebe combinarse conAnalgésicosAnalgésicosRelajantes musculares / sedantes y analgésicos (a nivel visceral)
+Ejemplos de protocolos anestésicos inyectables 
+?? 1. Protocolo CORRECTO en CANINOS
+Anestesia balanceada inyectable (bolo + mantenimiento)
+Premedicación
+* Acepromazina
+* Opioide (morfina o metadona)
+Inducción (bolo IV)
+* Propofol
+* Midazolam (co-inductor)
+Mantenimiento
+* Propofol en bolos intermitentes o infusión continua (CRI)
+* Refuerzo analgésico: opioide según duración del procedimiento
+Análisis farmacológico
+* Propofol mantiene la hipnosis.
+* Opioide sostiene la analgesia.
+* Benzodiacepina contribuye con la relajación muscular y reduce requerimientos de propofol.
+? Resultado
+* Tríada anestésica completa durante toda la cirugía.
+* Recuperación predecible y limpia.
+
+?? 2. Protocolo CORRECTO en EQUINOS
+Anestesia inyectable de campo (bolo + mantenimiento)
+Premedicación
+* Xilazina
+Inducción (bolo IV)
+* Ketamina
+* Diazepam
+Mantenimiento
+* Dosis repetidas de ketamina + ?2 
+o
+* Infusión continua (CRI) de:
+o Ketamina
+o Xilazina (o detomidina)
+Análisis farmacológico
+* Ketamina
+o Mantiene analgesia somática y estado disociativo.
+* ?2
+o Mantiene sedación profunda, relajación muscular y analgesia visceral.
+* Benzodiacepina
+o Contribuye con la relajación muscular.
+? Resultado
+* Anestesia estable para procedimientos de campo.
+* Buen control del dolor y del movimiento.
+* Recuperación aceptable si se titula correctamente.
+
+?? 3. Protocolo INCORRECTO por ejemplo en FELINOS
+Ejemplo de anestesia no balanceada (error frecuente en la práctica)
+Premedicación
+* Acepromazina
+Inducción
+* Ketamina sola (IM o IV)
+“Mantenimiento”
+* Refuerzos repetidos de ketamina sola
+
+Análisis farmacológico (por qué sigue siendo incorrecto)
+?? Acepromazina
+* Aporta tranquilización.
+* ? No aporta analgesia.
+* ? No aporta relajación muscular significativa.
+* ? No es reversible.
+?? Ketamina
+* Aporta analgesia somática.
+* Produce anestesia disociativa.
+* ? No aporta relajación muscular.
+* Mantiene reflejos y tono muscular.
+
+? ¿Qué pilares de la anestesia balanceada fallan?
+Pilar¿Está cubierto?MotivoAnalgesia?? ParcialSolo somática, no visceralRelajación muscular?Ketamina induce rigidez, acepromacina no aporta relajación muscular Control del plano?Refuerzos empeoran la disociación
+?? Resultado clínico típico
+* Rigidez muscular marcada.
+* Ojos abiertos.
+* Movimientos bruscos ante estímulos.
+* Dificultad para intubar o manipular.
+* Recuperación prolongada y disforia.
+* Riesgo elevado para el paciente y el operador.
+?? Error conceptual clave:
+Agregar acepromazina no corrige la rigidez ni la falta de hipnosis de la ketamina. Solo “calma” al animal, pero no completa la tríada anestésica.
+
+4. Anestesia inhalatoria
+Los anestésicos inhalatorios son líquidos volátiles que se vaporizan y se administran en forma gaseosa a través de los pulmones. Constituyen el gold standard para el mantenimiento anestésico prolongado, debido a que permiten un control fino de la profundidad anestésica, una rápida modificación del plano anestésico y una eliminación independiente del hígado y el riñón.
+a. La Máquina de Anestesia (Componentes Básicos)
+Componentes básicos
+Para administrar anestésicos inhalatorios se requiere un equipo que cumpla cuatro funciones fundamentales:
+1. Fuente de oxígeno
+El oxígeno actúa como gas transportador.
+?? El anestésico inhalatorio nunca se administra puro, sino siempre diluido en oxígeno al 100%.
+
+2. Vaporizador de precisión
+Es el corazón farmacológico de la máquina.
+* Convierte el anestésico líquido (ej. isofluorano) en vapor.
+* Permite administrar una concentración exacta y constante (ej. 2%).
+* Cada anestésico posee su vaporizador específico y calibrado.
+?? Clave clínica:
+Los vaporizadores no son intercambiables entre drogas.
+
+3. Circuito respiratorio
+Conduce la mezcla anestésica hacia el paciente y transporta el aire espirado de regreso al sistema.
+?? Sistema circular (rebreathing):
+* El aire espirado se reutiliza.
+* Requiere un canister con cal sodada, que absorbe el CO? exhalado.
+* Evita la hipercapnia y la intoxicación por CO?.
+
+4. Sistema de evacuación de gases (scavenging)
+* Elimina el exceso de gas anestésico.
+* Protege al equipo quirúrgico de la anestesia crónica ocupacional.
+
+b. Propiedades Físico-Químicas Clave
+Para comprender el comportamiento clínico de los anestésicos inhalatorios, se utilizan dos parámetros fundamentales:
+1. CAM (Concentración Alveolar Mínima) 
+?? Indicador de POTENCIA
+Definición:
+Es la concentración del anestésico en el alvéolo pulmonar necesaria para que el 50% de los pacientes no se mueva frente a un estímulo doloroso supramaximal (incisión quirúrgica).
+* Es el equivalente inhalatorio de la DE??.
+* Cuanto menor la CAM, mayor la potencia (necesito menos gas).
+Ejemplos:
+* Isofluorano: CAM ? 1,3% (perro/gato).
+* Sevofluorano: CAM ? 2,3% ? menos potente.
+2. Coeficiente de Solubilidad Sangre/Gas (Coef. de Ostwald) 
+?? Indicador de VELOCIDAD
+Definición:
+Expresa cuánto “prefiere” el anestésico permanecer disuelto en la sangre en lugar de pasar al cerebro.
+* Coeficiente bajo ? inducción y recuperación rápidas.
+* Coeficiente alto ? inducción y recuperación lentas.
+?? Analogía clínica:
+* Gas muy soluble ? se “disuelve” en la sangre como azúcar en té ? tarda en llegar al cerebro.
+* Gas poco soluble ? la sangre se satura rápido ? el gas “escapa” al cerebro.
+Clínica:
+* Isofluorano y sevofluorano: coeficientes bajos ? rápidos.
+* Éter (histórico): coeficiente alto ? muy lento.
+
+c. Mecanismo de acción
+?? Mecanismo de acción (concepto común)
+A diferencia de los anestésicos inyectables clásicos, los anestésicos inhalatorios no actúan sobre un único receptor, sino que ejercen una acción multimodal sobre la excitabilidad neuronal.
+En términos generales, isofluorano y sevofluorano:
+* Potencian la neurotransmisión inhibitoria, principalmente:
+o Receptores GABA-A
+o Receptores de glicina
+* Inhiben la neurotransmisión excitatoria:
+o Receptores NMDA
+o Canales de sodio y calcio dependientes de voltaje
+* Hiperpolarizan la neurona y reducen la transmisión sináptica a nivel cortical, talámico y medular.
+?? Clave conceptual:
+Los inhalatorios no “duermen” al cerebro desde un solo receptor, sino que bajan globalmente el volumen del SNC.
+
+d. Isofluorano
+Anestésico inhalatorio estándar
+El isofluorano es un anestésico inhalatorio halogenado ampliamente utilizado en medicina veterinaria y considerado el estándar clásico para el mantenimiento anestésico. Se caracteriza por su buena potencia, bajo metabolismo y alta seguridad clínica, lo que lo convierte en una opción confiable para procedimientos prolongados y para pacientes con compromiso hepático o renal.
+
+Características generales
+* Líquido volátil halogenado.
+* Olor pungente e irritante.
+* La inducción con máscara puede provocar:
+o tos,
+o apnea,
+o contención respiratoria.
+?? Por este motivo, el isofluorano no se recomienda para inducción inhalatoria, y se utiliza casi exclusivamente para el mantenimiento anestésico luego de una inducción inyectable.
+
+Farmacodinamia
+* Hipnosis: Sí.
+* Analgesia: Pobre a moderada.
+El efecto analgésico desaparece rápidamente al suspender el gas.
+* Relajación muscular: Buena.
+Como todos los anestésicos inhalatorios, el isofluorano no debe considerarse un analgésico clínicamente confiable, por lo que el control del dolor debe lograrse mediante otros fármacos dentro de un esquema de anestesia balanceada.
+
+Efectos cardiovasculares y respiratorios
+* Produce vasodilatación periférica dosis-dependiente.
+* Puede generar hipotensión arterial, especialmente a concentraciones elevadas.
+* Mantiene relativamente bien el gasto cardíaco.
+* Deprime la ventilación de forma dosis-dependiente.
+?? La profundidad anestésica se controla fácilmente ajustando la concentración inspirada en el vaporizador.
+
+Metabolismo y eliminación
+* Metabolismo hepático mínimo (< 0,2%).
+* La gran mayoría del fármaco se elimina inalterado por vía pulmonar.
+? Ventaja clínica clave:
+Es especialmente seguro en:
+* pacientes geriátricos,
+* insuficiencia renal,
+* insuficiencia hepática.
+
+Propiedades físico-químicas relevantes
+* CAM (Concentración Alveolar Mínima): ? 1,3% en perro y gato.
+? Mayor potencia que el sevofluorano.
+* Coeficiente de solubilidad sangre/gas: Bajo.
+? Inducción y recuperación rápidas, aunque algo más lentas que con sevofluorano.
+
+Rol clínico en anestesia veterinaria
+El isofluorano es ideal para:
+* mantenimiento anestésico prolongado,
+* procedimientos quirúrgicos mayores,
+* pacientes con compromiso metabólico.
+Su principal ventaja es la estabilidad y seguridad, con la limitación de no ser adecuado para inducción inhalatoria por su carácter irritante.
+
+Clave clínica final
+El isofluorano es potente, estable y seguro: un excelente gas para mantener, aunque poco amigable para inducir.
+
+e. Sevofluorano
+Anestésico inhalatorio moderno
+El sevofluorano es un anestésico inhalatorio halogenado de uso extendido en medicina veterinaria moderna, especialmente valorado por su rápida inducción, excelente control del plano anestésico y recuperación muy veloz. Su perfil físico-químico lo convierte en una opción particularmente útil en pacientes pediátricos, felinos y animales difíciles de inducir.
+
+Características generales
+* Líquido volátil halogenado.
+* Olor agradable y no irritante, a diferencia del isofluorano.
+* Permite inducción inhalatoria con máscara, aunque en la práctica veterinaria se utiliza principalmente para mantenimiento tras inducción inyectable.
+?? Esta característica lo hace especialmente útil en animales pequeños o pacientes en los que la canalización intravenosa resulta dificultosa.
+
+Farmacodinamia
+* Hipnosis: Sí.
+* Analgesia: Pobre.
+La analgesia desaparece rápidamente al suspender el gas.
+* Relajación muscular: Buena.
+Como ocurre con todos los anestésicos inhalatorios, no debe considerarse un analgésico, y el control del dolor debe lograrse mediante otros fármacos dentro de un esquema de anestesia balanceada.
+
+Efectos cardiovasculares y respiratorios
+* Produce vasodilatación periférica dosis-dependiente.
+* Puede generar hipotensión, aunque generalmente con un perfil hemodinámico algo más estable que el isofluorano.
+* Deprime la ventilación de forma dosis-dependiente.
+?? El plano anestésico se regula fácilmente ajustando la concentración inspirada mediante el vaporizador.
+
+Metabolismo y eliminación
+* Presenta un metabolismo hepático mayor que el isofluorano (? 2–5%).
+* El resto se elimina inalterado por vía pulmonar.
+* Los metabolitos generados rara vez tienen relevancia clínica en animales sanos.
+
+Propiedades físico-químicas relevantes
+* CAM (Concentración Alveolar Mínima): ? 2,3% en perro y gato.
+? Menor potencia que el isofluorano.
+* Coeficiente de solubilidad sangre/gas: Muy bajo.
+? Inducción y recuperación muy rápidas.
+?? Clave clínica:
+Aunque es menos potente (CAM más alta), el sevofluorano permite ajustes rápidos y precisos del plano anestésico.
+
+Rol clínico en anestesia veterinaria
+El sevofluorano es especialmente útil en:
+* pacientes pediátricos,
+* felinos,
+* inducciones inhalatorias,
+* procedimientos que requieren recuperaciones muy rápidas y suaves.
+Su principal limitación es el mayor costo en comparación con el isofluorano.
+
+Clave clínica final
+El sevofluorano no es “mejor” que el isofluorano: es más rápido y más amigable, a costa de menor potencia y mayor costo.
+
+
+5. Estimulantes del SNC (analépticos)
+A. Estimulantes Corticales (Metilxantinas)
+Drogas representativas
+* Aminofilina
+* Teofilina
+* Cafeína
+
+Mecanismo de acción
+Las metilxantinas actúan mediante dos mecanismos principales:
+1. Antagonismo de los receptores de adenosina
+o La adenosina actúa como un freno fisiológico del SNC.
+o Al bloquearla, se incrementa la actividad neuronal cortical.
+2. Inhibición de la fosfodiesterasa (PDE)
+o Aumenta los niveles intracelulares de AMPc.
+o Produce relajación del músculo liso bronquial y estimulación central.
+?? Resultado farmacológico:
+Estimulación cortical leve a moderada + broncodilatación.
+
+Usos clínicos principales
+Broncodilatadores
+* Tratamiento del asma y enfermedades respiratorias obstructivas.
+* Uso más frecuente de teofilina y aminofilina.
+?? Estimulación cortical
+* Revertir excesiva profundidad anestésica inducida por hipnóticos.
+* Estados de depresión leve del SNC.
+
+Consideraciones clínicas
+* Margen terapéutico relativamente estrecho.
+* A dosis altas pueden producir:
+o taquicardia,
+o excitación,
+o temblores,
+o convulsiones.
+
+B. Estimulantes Bulbares (Respiratorios)
+Droga patrón: Doxapram
+
+Mecanismo de acción
+El doxapram actúa en forma dependiente de la dosis:
+* Dosis bajas:
+o Estimula los quimiorreceptores carotídeos, aumentando el estímulo respiratorio reflejo.
+* Dosis altas:
+o Estimula directamente el centro respiratorio bulbar, bloqueando los receptores del GABA.
+?? Produce un aumento rápido de la frecuencia y profundidad respiratoria.
+
+Usos clínicos
+Apnea anestésica
+* Reversión de apneas asociadas a:
+o propofol,
+o tiopental sódico.
+?? Neonatología
+* Reanimación de neonatos tras cesárea.
+* Uso clásico: 1–2 gotas sublinguales.
+
+Advertencias clínicas
+* No reemplaza la ventilación asistida.
+* Puede inducir:
+o excitación,
+o convulsiones,
+o hipertensión, si se usa de manera indiscriminada.
+
+B. Estimulantes medulares
+Estricnina
+?? IMPORTANTE: fármaco histórico y tóxico. Valor principalmente docente.
+
+Mecanismo de acción
+La estricnina actúa como antagonista competitivo de los receptores de glicina a nivel de la médula espinal.
+* La glicina es un neurotransmisor inhibitorio medular.
+* Al bloquearla:
+o se elimina la inhibición fisiológica,
+o se produce hiperexcitabilidad refleja.
+?? El resultado es una estimulación extrema de la médula espinal.
+
+Efectos farmacológicos
+* Incremento exagerado de los reflejos espinales.
+* Espasmos musculares intensos.
+* Convulsiones tónico-clónicas desencadenadas por estímulos mínimos.
+
+Uso clínico
+? No tiene uso terapéutico actual en medicina veterinaria.
+?? Su importancia es:
+* histórica,
+* toxicológica,
+* y didáctica, para comprender el rol de la glicina como neurotransmisor inhibitorio medular.
+
+Importancia toxicológica
+* La intoxicación por estricnina produce:
+o convulsiones severas,
+o rigidez extrema,
+o muerte por asfixia.
+* Es un ejemplo clásico de antagonismo de neurotransmisión inhibitoria.
+
+
+6. Cuadro resumen de acciones de los depresores del SNC
+DrogaGrupoAnalgesiaRelajación Musc.VíasEfecto Principal / RiesgoAcepromacinaTranquilizanteNONOIV, IM, SCHipotensión.DiazepamSedanteNOSÍ (+++)IV, RectalSeguro. Excitación paradójica.XilacinaSedanteSÍSÍ (++)IV, IMBradicardia. Vómito.TiopentalHipnóticoNOSÍ (+)IV EstrictoRedistribución en delgados.PropofolHipnóticoNOSÍ (+)IVApnea. Hipotensión.KetaminaDisociativoSÍNO (Rigidez)IV, IMTaquicardia. Ojos abiertos.IsofluoranoInhalatorioLeveSÍPulmonarHipotensión (Vasodilatación).
+7. Autoevaluación
+1. Redistribución: Explique por qué un Galgo se recupera mucho más lento de una dosis de Tiopental que un Labrador. ¿Qué fase de la farmacocinética está alterada?
+2. Inhalatoria: Usted tiene dos vaporizadores, uno de Isofluorano y otro de Sevoflurano.
+o ¿Cuál debe abrir a mayor porcentaje para mantener anestesiado a un perro? (Relacione con la CAM).
+o Si el paciente se despierta en medio de la cirugía, ¿con cuál logrará profundizarlo más rápido? (Relacione con Coeficiente de Solubilidad).
+3. Neonatos: ¿Cuál es la indicación precisa del Doxapram en una cesárea y por qué vía se administra a los cachorros?
+
+8.?? Resumen en 10 puntos
+• Concepto de anestesia balanceada y tríada anestésica (hipnosis, analgesia, relajación).
+• Rol de la premedicación para disminuir estrés, dosis de anestésicos y complicaciones.
+• Características principales de fenotiazinas, benzodiacepinas y agonistas alfa-2.
+• Efectos cardiovasculares y respiratorios de los anestésicos inyectables de inducción.
+• Particularidades de tiopental, propofol y ketamina/tiletamina en pequeños animales.
+• Principios básicos de funcionamiento de la máquina de anestesia y del vaporizador.
+• Relación entre solubilidad, CAM y velocidad de inducción/recuperación de los inhalatorios.
+• Uso racional de estimulantes del SNC (metilxantinas, doxapram) en contexto anestésico.
+• Importancia de adaptar protocolos a especie, estado clínico y tipo de procedimiento.
+
+9.?? Errores clínicos frecuentes
+• Premedicar con acepromacina a pacientes hipovolémicos o muy geriátricos sin ajustar dosis.
+• Usar agonistas alfa-2 en pacientes con cardiopatía descompensada sin monitorización adecuada.
+• Inducir con dosis completas de tiopental o propofol en pacientes hipotensos o hipoproteinémicos.
+• Ignorar el tiempo de ayuno y el riesgo de regurgitación en rumiantes y braquicéfalos.
+• Confiar solo en la profundidad aparente y no monitorear parámetros básicos (FC, FR, PA, mucosas).
+• No reducir la concentración de anestésico inhalatorio cuando se asocian opioides o alfa-2.
+• Utilizar doxapram para “compensar” una anestesia muy profunda en lugar de ajustar el plano.
+• Olvidar la reposición de fluidos en anestesias prolongadas.
+• No anticipar la analgesia posoperatoria al planificar el protocolo anestésico.
+• No registrar el protocolo utilizado, dosis y eventos durante la anestesia en la historia clínica.
+
+10.?? Checklist de examen
+• ¿Puedo explicar la tríada anestésica y el concepto de anestesia balanceada?
+• ¿Distingo indicaciones, ventajas y contraindicaciones de fenotiazinas, benzodiacepinas y alfa-2?
+• ¿Sé elegir un agente de inducción apropiado según especie, estado clínico y procedimiento?
+• ¿Comprendo las principales diferencias entre tiopental, propofol y ketamina/tiletamina?
+• ¿Puedo describir los componentes básicos de la máquina de anestesia y su función?
+• ¿Entiendo qué es la CAM y cómo se modifica por edad, temperatura y uso de otros fármacos?
+• ¿Reconozco signos de anestesia demasiado superficial o demasiado profunda?
+• ¿Soy capaz de identificar situaciones en las que NO debo usar determinados fármacos?
+• ¿Puedo planificar un esquema analgésico perioperatorio básico?
+• ¿Sería capaz de registrar de forma ordenada un protocolo anestésico?
+
+11.?? Bibliografía recomendada
+• Boothe DM. Small Animal Clinical Pharmacology and Therapeutics. Elsevier.
+• Papich MG. Saunders Handbook of Veterinary Drugs. 5th ed.
+• Riviere JE, Papich MG. Veterinary Pharmacology and Therapeutics. Wiley-Blackwell.
+• Grimm KA, Lamont LA, Tranquilli WJ, Greene SA, Robertson SA. Veterinary Anesthesia and Analgesia.
+• Thurmon JC, Tranquilli WJ, Benson GJ. Lumb & Jones’ Veterinary Anesthesia.
+• Flecknell P. Laboratory Animal Anaesthesia.
+
+
+?? TRABAJO PRÁCTICO Nº 3
+Farmacología Veterinaria
+Carrera: Veterinaria
+Asignatura: Farmacología y terapéutica
+Semana: 3
+Tema: Tranquilizantes, anestésicos generales y principios de anestesia inhalatoria
+Duración: 2–3 horas
+Modalidad: Presencial – trabajo grupal + discusión guiada
+
+I. Fundamentación del Trabajo Práctico
+La anestesia general es una intervención farmacológica compleja que involucra la depresión controlada del sistema nervioso central, con repercusiones directas sobre los sistemas cardiovascular, respiratorio y metabólico.
+La correcta planificación anestésica requiere integrar conocimientos de farmacodinamia, farmacocinética, especie, estado clínico del paciente y características del procedimiento quirúrgico.
+En particular, el uso de anestésicos inhalatorios introduce conceptos específicos como la Concentración Alveolar Mínima (CAM) y el coeficiente de partición sangre/gas (coeficiente de Ostwald), fundamentales para comprender la potencia, la velocidad de inducción y recuperación anestésica.
+Este trabajo práctico busca que el estudiante diseñe protocolos anestésicos racionales, fundamentando cada decisión farmacológica en función del paciente y del procedimiento, y aplicando conceptos modernos de anestesia veterinaria.
+
+II. Objetivos
+Objetivo general
+• Aplicar criterios farmacológicos y clínicos para el diseño racional de protocolos de anestesia general en medicina veterinaria.
+Objetivos específicos
+Al finalizar el trabajo práctico, el estudiante será capaz de:
+• Diferenciar tranquilización, sedación y anestesia general.
+• Diseñar protocolos anestésicos completos (premedicación, inducción, mantenimiento y analgesia).
+• Comprender y aplicar el concepto de CAM.
+• Analizar la influencia del coeficiente de Ostwald en la inducción y recuperación anestésica.
+• Reconocer riesgos anestésicos según especie y condición clínica.
+
+III. Contenidos involucrados
+• Tranquilizantes y sedantes.
+• Anestesia general inyectable e inhalatoria.
+• Premedicación, inducción y mantenimiento.
+• Analgesia intra y postoperatoria.
+• Concentración Alveolar Mínima (CAM).
+• Coeficiente de partición sangre/gas (coeficiente de Ostwald).
+• Consideraciones interespecíficas en anestesia.
+
+IV. Actividades prácticas
+
+?? Actividad 1 – Diferenciación conceptual
+Defina brevemente y diferencie:
+a) Tranquilización
+b) Sedación
+c) Anestesia general
+d) Analgesia
+e) Hipnosis
+Consigna adicional:
+?? Indique cuáles de estos estados implican pérdida de conciencia y cuáles no.
+
+?? Actividad 2 – Anestesia inhalatoria: CAM y coeficiente de Ostwald
+Responda y justifique:
+a) ¿Qué es la Concentración Alveolar Mínima (CAM)?
+b) ¿Qué relación existe entre CAM y potencia anestésica?
+c) ¿Qué representa el coeficiente de partición sangre/gas (coeficiente de Ostwald)?
+d) ¿Cómo influye este coeficiente en:
+* la velocidad de inducción?
+* la velocidad de recuperación anestésica?
+Consigna integradora:
+?? Compare un anestésico con CAM baja y coeficiente sangre/gas alto versus uno con CAM más alta y coeficiente bajo.
+
+V. Situaciones problema clínicas
+(Los tres casos son independientes)
+?? En todos los casos deberá plantearse anestesia general.
+?? No está permitido el uso de anestésicos locales.
+
+?? CASO 1 – Canino adulto con comorbilidades leves
+Situación clínica
+Canino mestizo, macho castrado
+• Edad: 8 años
+• Peso: 30 kg
+Antecedentes relevantes
+• Sobrepeso moderado
+• Soplo cardíaco grado II/VI (sin signos de insuficiencia)
+Procedimiento quirúrgico
+Esplenectomía programada.
+Consignas – Caso 1
+a) Diseñe un protocolo de premedicación, indicando los fármacos seleccionados y su justificación.
+b) Indique un agente de inducción anestésica adecuado y fundamente su elección.
+c) Describa cómo realizaría el mantenimiento de la anestesia general, indicando el tipo de anestésico inhalatorio y relacionándolo con CAM y coeficiente de Ostwald.
+d) Proponga un esquema de analgesia intra y postoperatoria, justificando la elección.
+
+?? CASO 2 – Felino joven sano
+Situación clínica
+Felino europeo, hembra
+• Edad: 1 año
+• Peso: 4 kg
+Estado general
+Paciente clínicamente sano (ASA I).
+Procedimiento quirúrgico
+Ovariohisterectomía electiva.
+Consignas – Caso 2
+a) Diseñe un protocolo de premedicación apropiado para felinos.
+b) Seleccione un agente de inducción anestésica adecuado y justifique su elección.
+c) Indique cómo realizaría el mantenimiento anestésico, considerando ventajas del anestésico inhalatorio elegido.
+d) Analice precauciones farmacológicas específicas en felinos que deban considerarse.
+
+?? CASO 3 – Equino adulto sano
+Situación clínica
+Equino macho
+• Edad: 5 años
+• Peso estimado: 480 kg
+Estado general
+Buen estado corporal, sin antecedentes patológicos.
+Procedimiento quirúrgico
+Castración quirúrgica bajo anestesia general.
+Consignas – Caso 3
+a) Diseñe un protocolo de premedicación adecuado para equinos.
+b) Seleccione un agente de inducción anestésica y fundamente su elección.
+c) Indique cómo realizaría el mantenimiento de la anestesia general
+d) Analice riesgos anestésicos particulares en equinos y cómo el protocolo propuesto contribuye a minimizarlos.
+
+VI. Consigna integradora final
+Explique brevemente:
+Por qué el conocimiento de la CAM y del coeficiente de partición sangre/gas es fundamental para el manejo seguro y racional de la anestesia general en distintas especies animales.
+
+VII. Criterios de evaluación
+Se evaluará:
+? Coherencia del protocolo anestésico
+? Correcta integración farmacológica
+? Aplicación de CAM y coeficiente de Ostwald
+? Razonamiento clínico interespecífico
+? Claridad conceptual y terminológica
+
+GUÍA DE ESTUDIO FARMACOLOGÍA Y TERAPÉUTICA
+Fernando Mañas 
+-2026-
+
+2
+
+

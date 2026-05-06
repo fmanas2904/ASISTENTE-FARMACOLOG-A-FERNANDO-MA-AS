@@ -1,0 +1,843 @@
+
+	
+
+
+Contenido
+SEMANA 10- MÓDULO 4: Farmacología de Sistemas: Cardio–Renal y Terapéutica del Medio Interno	3
+1. Introducción y objetivos	3
+2. Farmacología cardiovascular	3
+a. Inotrópicos Positivos (Fuerza)	3
+b. Vasodilatadores	4
+c. Principios clínicos de uso	4
+3. Farmacología renal: diuréticos	5
+a. Diuréticos de Asa (Alta Eficacia)	5
+b. Tiazidas (Eficacia Media)	6
+c. Ahorradores de Potasio (Eficacia Baja)	6
+d. Inhibidores de la Anhidrasa Carbónica	7
+e. Osmóticos	8
+f. Esquema resumen comparativo	8
+4. Fluidoterapia	9
+a. Principios generales	9
+b. Componentes del cálculo de volumen	10
+c. Velocidades de administración	11
+d. Recursos farmacológicos en fluidoterapia	15
+e. Vías de administración	19
+f. Concepto clave de cierre	21
+g. Fluidoterapia – Resumen práctico	21
+5. Actividades de autoevaluación	24
+?? 6. Resumen en 10 puntos	24
+?? 7. Errores clínicos frecuentes (versión integrada)	25
+?? 8. Checklist de examen (versión integrada)	25
+?? 9. Bibliografía recomendada	25
+TRABAJO PRÁCTICO 10	26
+
+
+SEMANA 10- MÓDULO 4: Farmacología de Sistemas: Cardio–Renal y Terapéutica del Medio Interno
+Tema: Cardiovascular, Diuréticos y Terapéutica de Fluidos (Estándares Modernos AAHA/AAFP).
+
+1. Introducción y objetivos
+El corazón y el riñón funcionan como una pareja hemodinámica indisoluble. La falla de uno arrastra al otro.
+Además, abordaremos la Fluidoterapia no como una receta de cocina, sino como la prescripción de un fármaco endovenoso que requiere titulación precisa.
+Objetivos de la Semana:
+1. Cardio: Manejar la tríada de la Insuficiencia Cardíaca (Inotrópico + Vasodilatador + Diurético).
+2. Renal: Explicar el mecanismo molecular de cada grupo de diuréticos.
+3. Fluidos (Cálculo): Calcular el volumen total (Déficit + Mantenimiento + Pérdidas).
+4. Fluidos: Diferenciar la velocidad de reanimación (bolos) de la de mantenimiento y anestesia según las guías actuales.
+
+2. Farmacología cardiovascular
+El tratamiento moderno de la insuficiencia cardíaca se basa en corregir tres ejes fisiopatológicos:
+?? Fuerza de contracción (inotropismo)
+?? Carga hemodinámica (pre y poscarga)
+?? Activación neurohormonal maladaptativa (RAAS)
+Por eso, el abordaje clásico es la tríada terapéutica:
+Inotrópico + Vasodilatador + Diurético
+
+a. Inotrópicos Positivos (Fuerza)
+(Aumentan la fuerza de contracción miocárdica)
+FármacoMecanismo de acciónUso clínico principalPimobendanInodilatador: 
+• Sensibiliza la Troponina C al Ca²? ? ? fuerza 
+• Inhibe Fosfodiesterasa III ? ? AMPc ? vasodilataciónEstándar de oro en perros con insuficiencia mitral degenerativa o miocardiopatía dilatadaDigoxinaInhibe la Na?/K?-ATPasa ? ? Na? intracelular ? disminuye la actividad del intercambiador Na?/Ca²?, que normalmente elimina Ca²? ? retención de Ca²? intracelular ? ? fuerza de contracciónControl de frecuencia en fibrilación auricular. Margen terapéutico estrechoDobutaminaAgonista ??-adrenérgico ? ? AMPc ? ? Ca²? intracelularShock cardiogénico agudo. Uso IV en terapia intensiva?? Nota didáctica clave (Digoxina):
+La digoxina no hace entrar calcio, sino que impide que salga, al frenar el intercambiador Na?/Ca²?.
+
+b. Vasodilatadores
+(Disminuyen pre y poscarga ? “descargan” al corazón)
+Fármaco?????? Mecanismo?????? Uso clínicoEnalapril / BenazeprilIECA: inhiben la formación de Angiotensina II ? ? vasoconstricción y ? aldosteronaInsuficiencia cardíaca en perros y gatos. Efecto cardio- y nefroprotector (antiproteinúrico)AmlodipinaBloqueante de canales de Ca²? tipo L (acción vascular predominante)Hipertensión arterial sistémica, especialmente en gatos con ERC?? Concepto clínico:
+Los IECA no son solo vasodilatadores: modulan la activación crónica del RAAS, uno de los principales motores de progresión de la falla cardíaca.
+
+c. Principios clínicos de uso
+• La insuficiencia cardíaca crónica rara vez se maneja con una sola droga
+• El pimobendan mejora calidad y expectativa de vida en perros
+• La digoxina no es un inotrópico de primera línea, sino un fármaco antiarrítmico funcional
+• La elección y combinación deben adaptarse a:
+* Tipo de cardiopatía
+* Presión arterial
+* Función renal
+* Presencia de arritmias
+
+3. Farmacología renal: diuréticos
+Los diuréticos modifican la excreción renal de sodio y agua.
+?? Donde va el sodio, el agua lo sigue.
+En clínica no se eligen “por potencia”, sino por:
+* Sitio de acción
+* Estado hemodinámico
+* Electrolitos
+* Objetivo terapéutico (descongestión, control de presión, efecto hormonal)
+
+a. Diuréticos de Asa (Alta Eficacia)
+Fármaco prototipo: Furosemida
+* Sitio de acción: Rama ascendente gruesa del Asa de Henle
+Reabsorción normal: ~25% del Na? filtrado
+* Mecanismo de acción
+Inhibe el cotransportador Na? / K? / 2Cl? (NKCC2) ? ? reabsorción de NaCl ? ? diuresis masiva
+Además:
+? excreción de K? y Ca²?
+Vasodilatación venosa temprana (útil en edema pulmonar)
+* Usos clínicos
+Edema agudo de pulmón (emergencia)
+Insuficiencia cardíaca congestiva
+Derrames cavitarios
+Hiperkalemia
+* Efectos adversos
+Hipokalemia
+Deshidratación / azotemia prerrenal
+Ototoxicidad (altas dosis IV)
+Activación del RAAS (uso crónico)
+* ?? Concepto clave:
+Es el diurético más potente, pero también el que más activa mecanismos compensadores.
+Fármaco: Furosemida.
+Sitio: Rama ascendente gruesa del Asa de Henle.
+Mecanismo: Inhibe al co-transportador Na+/K+/2Cl-.
+Uso: Edema Agudo de Pulmón (Emergencia) e Insuficiencia Cardíaca.
+b. Tiazidas (Eficacia Media)
+	Fármaco prototipo: Hidroclorotiazida
+      • Sitio de acción: Túbulo contorneado distal
+      • Reabsorción normal: ~5–10% del Na?
+Mecanismo
+Inhibe el cotransportador Na? / Cl? (NCC)
+      Usos clínicos
+      • Hipertensión arterial
+      • Edema leve/moderado. En veterinaria útil para edema de ubre.
+      • Prevención de urolitiasis por oxalato de calcio (? calciuria)
+      Efectos adversos
+      • Hipokalemia
+      • Hiponatremia
+      • No útil en insuficiencia renal avanzada
+      ?? Perla clínica:
+      Potencian el efecto de la furosemida ? “bloqueo secuencial del nefrón”
+* Fármaco: Hidroclorotiazida.
+* Sitio: Túbulo Contorneado Distal.
+* Mecanismo: Inhibe al co-transportador Na+/Cl-.
+* Uso: Hipertensión, prevención de cálculos de oxalato.
+c. Ahorradores de Potasio (Eficacia Baja)
+(BAJA EFICACIA – ALTO VALOR HORMONAL)
+Fármaco prototipo: Espironolactona
+• Sitio de acción: Túbulo colector
+Mecanismo
+Antagonista competitivo de la Aldosterona ?
+? reabsorción de Na?
+? excreción de K?
+? fibrosis miocárdica
+Usos clínicos
+• Insuficiencia cardíaca crónica
+• Hiperaldosteronismo
+• Asociación con furosemida (cardioprotección)
+Efectos adversos
+• Hiperkalemia (raro en monoterapia)
+• Efectos endocrinos (poco relevantes en vet)
+?? Concepto clave:
+No se usa por su diuresis, sino por su efecto antialdosterónico.
+* Fármaco: Espironolactona.
+* Sitio: Túbulo Colector.
+* Mecanismo: Antagonista competitivo de la Aldosterona.
+* Uso: Se combina con Furosemida por su efecto Antifibrótico cardíaco.
+d. Inhibidores de la Anhidrasa Carbónica
+Fármaco: Acetazolamida
+• Sitio: Túbulo proximal
+Mecanismo
+Inhibe la Anhidrasa Carbónica ? ? reabsorción de HCO?? ?
+?? bicarbonato plasmático
+?? pH urinario (orina alcalina)
+Usos clínicos
+• Glaucoma (? producción de humor acuoso)
+• Alcalosis metabólica
+• Coadyuvante anticonvulsivo
+Efectos adversos
+• Acidosis metabólica
+• Hipokalemia
+• Diuresis débil
+
+* Fármaco: Acetazolamida.
+* Sitio: Túbulo Proximal.
+* Uso: Glaucoma. Alcaliniza la orina.
+e. Osmóticos
+Fármaco: Manitol
+Mecanismo
+Molécula osmóticamente activa ? retiene agua en el túbulo renal
+No se reabsorbe
+Usos clínicos
+• Edema cerebral
+• Disminución de presión intracraneana
+• Prevención de daño renal agudo
+?? Contraindicación absoluta
+• Insuficiencia cardíaca
+• Edema pulmonar
+• Anuria
+?? Concepto clave:
+Primero expande volumen ? si el corazón no puede manejarlo, mata.
+* Fármaco: Manitol.
+* Mecanismo: Retención osmótica de agua.
+* Uso: Edema Cerebral. Contraindicado en Falla Cardíaca.
+
+f. Esquema resumen comparativo
+GrupoPotenciaUso principalAsa (Furosemida)??????Edema pulmonar, ICTiazidas????HTA, combinaciónEspironolactona??IC crónica (hormonal)Acetazolamida??Glaucoma, pHManitol??????Edema cerebral
+?? ERRORES CLÍNICOS FRECUENTES
+• Usar manitol en pacientes cardíacos
+• No monitorear potasio
+• Subir furosemida sin evaluar RAAS
+• Usar tiazidas en IR avanzada
+• Pensar que “más diuresis = mejor”
+4. Fluidoterapia
+Corrección del Medio Interno y del Equilibrio Ácido–Base
+(Enfoque moderno AAHA / AAFP)
+?? La fluidoterapia no es una receta fija, sino la prescripción de un fármaco endovenoso que debe ajustarse en volumen, velocidad y tipo según el estado hemodinámico del paciente.
+Las fórmulas son herramientas de estimación inicial, pero nunca reemplazan la reevaluación clínica continua.
+Se trata de la prescripción de un fármaco endovenoso, con:
+* indicación,
+* dosis (ml/kg),
+* velocidad,
+* composición,
+* y efectos adversos.
+Un error en el fluido empeora al paciente, aunque esté “bien hidratado”.
+a. Principios generales
+Todo plan de fluidoterapia responde a tres preguntas:
+1. ¿Cuánto volumen necesita?
+2. ¿A qué velocidad?
+3. ¿Qué tipo de fluido corrige mejor el trastorno ácido–base y electrolítico?
+?? El objetivo NO es “pasar líquidos”, sino:
+* Restaurar perfusión tisular
+* Corregir deshidratación
+* Mantener volemia
+* Evitar sobrecarga hídrica
+?? El corazón, el riñón y el endotelio vascular limitan la velocidad segura de administración.
+?? Cuando el cálculo matemático da tasas altas, manda la fisiología, no los números.
+
+b. Componentes del cálculo de volumen
+Estimación clínica del déficit de hidratación
+?? El porcentaje de deshidratación se estima combinando varios signos clínicos.
+Ningún signo aislado es diagnóstico.
+?? Tabla de estimación clínica del déficit hídrico
+% Deshidratación (aprox.)Signos clínicos predominantes< 5% (leve)Sin signos evidentes. Puede haber leve disminución de la ingesta.5–6%Pérdida leve de turgencia cutánea. Mucosas apenas secas.7–8%Turgencia cutánea claramente disminuida, mucosas secas, ojos levemente hundidos.9–10%Pliegue cutáneo persistente, mucosas muy secas, ojos hundidos, letargia.10–12%Signos de hipovolemia: pulso débil, taquicardia, tiempo de relleno capilar prolongado.> 12%Shock hipovolémico: colapso, extremidades frías, hipotensión, riesgo vital inmediato.
+El volumen total diario a reponer se estima como:
+Volumen total = Déficit + Mantenimiento + Pérdidas continuas
+
+Déficit: cantidad de agua perdida como consecuencia de la deshidratación.
+
+      Déficit (ml) = Peso (kg) × % deshidratación × 10
+
+(Recordar: cada 1 % de deshidratación equivale aproximadamente a 10 ml/kg de agua corporal)
+Ejemplo:
+* Perro 20 kg
+* Deshidratación 7 %
+20×7×10=1400" ml" 
+
+?? Representa lo que ya se perdió y debe reponerse lenta y controladamente (12–24 h en pacientes estables).
+
+?? 2. Mantenimiento
+Agua necesaria para cubrir pérdidas fisiológicas normales (orina, respiración, transpiración, etc.).
+Valores orientativos diarios:
+* Perro: 40–60 ml/kg/día
+* Gato: 30–45 ml/kg/día
+Expresado por hora (en pacientes estables):
+* Perros: 2–4 ml/kg/h
+* Gatos: 1–2 ml/kg/h
+?? Importante:
+?? El mantenimiento NO corrige el déficit.
+“El mantenimiento fisiológico del perro es ~50 ml/kg/día.
+En pacientes hospitalizados estables se utilizan tasas horarias de 2–4 ml/kg/h como rangos operativos, que deben ajustarse según evolución clínica.
+Mantener 4 ml/kg/h durante 24 h no representa mantenimiento fisiológico puro y solo se justifica transitoriamente.”
+
+?? 3. Pérdidas continuas
+Vómitos, diarrea, drenajes, poliuria.
+?? Se estiman y se suman dinámicamente.
+
+c. Velocidades de administración
+Principio central
+El volumen se calcula, pero la velocidad se titula
+
+?? a. Reanimación en shock (Resucitación)
+Objetivo: restaurar perfusión rápidamente, pero sin sobrecargar.
+Estrategia moderna: bolos fraccionados
+EspecieDosis total teóricaBolo inicial (15 min)Perro80–90 ml/kg20 ml/kgGato50–55 ml/kg10–15 ml/kg?? Reevaluar entre bolos:
+* Tiempo de relleno capilar
+* Pulso
+* Presión arterial
+* Auscultación pulmonar
+
+?? b. Paciente hospitalizado estable (sin shock)
+Velocidades orientativas:
+* Perros: 2–4 ml/kg/h
+* Gatos: 1–2 ml/kg/h
+?? Estas tasas:
+* NO son mantenimiento “puro”
+* Incluyen parte de la reposición del déficit
+* Se ajustan según evolución clínica
+
+?? c. Reposición del déficit (Concepto clave)
+En deshidrataciones moderadas a severas (? 8–10%):
+?? No se debe sumar linealmente:
+Déficit / 24 h + mantenimiento
+Porque esto puede arrojar tasas fisiológicamente inseguras.
+
+?? Estrategia correcta (fraccionada)
+1?? Primeras 6–8 horas
+* Tasa máxima segura:
+o Perros: hasta 4 ml/kg/h
+o Gatos: hasta 2 ml/kg/h
+* Objetivo: restaurar volumen intravascular
+* El mantenimiento queda funcionalmente incluido
+2?? Horas siguientes
+* El déficit restante se repone progresivamente
+* Se reduce la tasa conforme mejora el paciente
+3?? Transición a mantenimiento
+* Cuando el paciente:
+o Orina normalmente
+o Mejora turgencia
+o Comienza a beber
+* Se baja a tasas de mantenimiento reales
+
+?? Ejemplo práctico integrado
+Paciente: Perro 50 kg, 10% deshidratación
+Déficit:
+50 × 10 x 10 = 5000 ml
+?? Si se intentara reponer en 24 h + mantenimiento:
+* La tasa superaría 6 ml/kg/h
+?? Número correcto, enfoque incorrecto
+Manejo correcto:
+* Primeras 8 h: 4 ml/kg/h ? 200 ml/h
+* Volumen dado: 1600 ml
+* Déficit restante: 3400 ml
+* Reposición progresiva en las siguientes 16 h
+* Ajuste según respuesta clínica
+
+?? Conceptos clave 
+* Las fórmulas orientan, no ordenan
+* Si la cuenta supera los límites seguros ? se fracciona
+* El mantenimiento no siempre se “suma”
+* La reevaluación clínica manda sobre la matemática
+* La sobrecarga hídrica mata tan rápido como la hipovolemia
+
+En la práctica clínica, la velocidad de administración puede programarse en bomba de infusión o calcularse manualmente utilizando el sistema de goteo.
+El cálculo depende del tipo de equipo:
+* Macrogotero: 15–20 gotas = 1 ml (según fabricante)
+* Microgotero: 60 gotas = 1 ml
+?? Siempre verificar el factor de goteo impreso en el equipo.
+
+?? Fórmula general
+"Gotas/minuto"=("Volumen (ml/h)" ×"factor de goteo" )/60
+
+
+?? Ejemplo 1 – Macrogotero (20 gotas/ml)
+Paciente: perro 20 kg
+Velocidad indicada: 80 ml/h
+(80×20)/60=26,6
+
+?? Ajustar a 27 gotas por minuto
+
+?? Ejemplo 2 – Microgotero (60 gotas/ml)
+Mismo paciente, misma velocidad (80 ml/h)
+(80×60)/60=80
+
+?? Ajustar a 80 gotas por minuto
+
+?? Regla práctica útil
+Con microgotero (60 gotas/ml):
+?? Las gotas por minuto son numéricamente iguales a los ml/h.
+Ejemplo:
+* 25 ml/h ? 25 gotas/min
+* 80 ml/h ? 80 gotas/min
+Muy útil en pacientes pequeños.
+
+?? Errores frecuentes
+* No verificar el factor real del equipo.
+* Calcular ml/kg/h pero no convertir a gotas/min.
+* No reevaluar el flujo (cambios de posición del paciente modifican el goteo).
+* No considerar que el goteo manual es menos preciso que la bomba.
+
+d. Recursos farmacológicos en fluidoterapia
+La fluidoterapia es una intervención farmacológica endovenosa.
+La elección del fluido determina efectos sobre:
+* volemia
+* equilibrio ácido–base
+* osmolaridad
+* electrolitos
+* compartimentos corporales
+
+1. Cristaloides isotónicos
+Son soluciones acuosas de bajo peso molecular que se distribuyen rápidamente entre el espacio intravascular e intersticial.
+Solo ?25% permanece en el intravascular a la hora de administrados.
+
+?? a. Solución Fisiológica (NaCl 0,9%)
+Composición (mEq/L):
+* Na? 154
+* Cl? 154
+Características clave:
+* Isotónica
+* No contiene buffer
+* Alta carga de cloro ? acidificante
+* No aporta K? ni Ca²?
+Efecto ácido–base:
+* Produce acidosis metabólica hiperclorémica por disminución de la diferencia de iones fuertes.
+Indicaciones clínicas:
+* Alcalosis metabólica hipoclorémica (vómitos)
+* Hiperkalemia
+* Enfermedad de Addison
+* Diluyente de drogas y transfusiones
+Desventajas:
+?? Uso prolongado ? acidosis, vasoconstricción renal
+
+?? b. Ringer (sin lactato)
+Composición:
+* Na?
+* Cl?
+* K?
+* Ca²?
+Características:
+* Isotónica
+* Más balanceada que la fisiológica
+* Sin buffer ? levemente acidificante
+Indicaciones:
+* Reposición de fluidos con necesidad de K? o Ca²?
+* Alternativa cuando no se desea efecto alcalinizante
+
+?? c. Ringer Lactato
+Composición:
+* Na?
+* Cl?
+* K?
+* Ca²?
+* Lactato
+Características:
+* Cristaloide balanceado
+* Fluido más “fisiológico”
+* Contiene buffer metabólico
+Mecanismo ácido–base:
+?? El lactato se metaboliza en hígado ? bicarbonato
+Indicaciones:
+* Acidosis metabólica (diarrea)
+* Shock
+* Cirugía
+* Fluidoterapia general de elección
+Contraindicaciones relativas:
+?? Insuficiencia hepática grave
+?? Hipercalcemia
+
+?? d. Soluciones con Dextrosa
+?? Dextrosa al 5% (D5W)
+Características:
+* Isotónica en bolsa
+* Se comporta como agua libre tras metabolizarse
+Indicaciones:
+* Hipoglucemia
+* Corrección de hipernatremia
+* Vehículo de fármacos
+?? No sirve para expansión de volumen
+
+2. Soluciones hipertónicas
+Generan movimiento osmótico rápido de agua hacia el espacio intravascular.
+
+?? A. Cloruro de Sodio Hipertónico (NaCl 7,2–7,5%)
+Características:
+* Altamente hipertónico
+* Pequeño volumen, gran efecto hemodinámico
+Mecanismo:
+?? Aumenta osmolaridad plasmática ? atrae agua desde el intersticio e intracelular
+Indicaciones:
+* Shock hipovolémico (especialmente en grandes animales)
+* Trauma
+* Edema cerebral
+Dosis:
+* 3–5 ml/kg IV lento
+?? Siempre debe seguirse de cristaloides isotónicos
+Contraindicaciones:
+* Deshidratación severa
+* Hipernatremia
+* Insuficiencia renal grave
+
+?? b. Dextrosa Hipertónica (25–50%)
+Indicaciones:
+* Hipoglucemia severa
+* Insulinoma
+* Neonatos
+?? Administrar siempre diluida o por vía central
+?? Riesgo de flebitis y necrosis tisular
+
+3. Coloides
+Contienen moléculas de alto peso molecular que permanecen en el intravascular y aumentan la presión oncótica.
+
+?? A. Dextran (Dextran 40 / Dextran 70)
+Mecanismo:
+* Expansión plasmática
+* Aumenta presión oncótica
+* Reduce agregación eritrocitaria
+Indicaciones:
+* Shock hipovolémico
+* Hipoalbuminemia
+* Hipoproteinemia
+Efectos adversos:
+?? Coagulopatías
+?? Anafilaxia
+?? Sobrecarga circulatoria
+
+?? b. Hidroxietil Almidón (HES – uso cada vez más restringido)
+Características:
+* Potente expansor plasmático
+?? Asociado a:
+* Lesión renal
+* Coagulopatías
+* Aumento de mortalidad
+?? Actualmente el uso de coloides sintéticos es cada vez más restringido, priorizándose cristaloides balanceados y, en casos seleccionados, albúmina.
+
+?? c. Albúmina (humana o canina)
+Indicaciones:
+* Hipoalbuminemia severa
+* Edema por baja presión oncótica
+?? Riesgo inmunológico (especialmente albúmina humana)
+
+e. Vías de administración
+La elección de la vía depende de la urgencia, estado hemodinámico y condición del paciente.
+
+?? 1. Vía Endovenosa (EV)
+?? Vía de elección en pacientes hospitalizados y críticos.
+Ventajas:
+* Control preciso de volumen y velocidad
+* Permite bolos rápidos
+* Indicada en shock y cirugía
+Desventajas:
+* Requiere acceso venoso
+* Riesgo de flebitis o extravasación
+Indicada en:
+* Shock
+* Cirugía
+* Pacientes inestables
+* Deshidratación moderada–severa
+
+?? 2. Vía Subcutánea (SC)
+?? Indicada en pacientes estables con deshidratación leve.
+Ventajas:
+* Técnica sencilla
+* Útil en manejo ambulatorio (ej. gatos renales)
+Limitaciones:
+* Absorción lenta
+* No apta en shock
+* No usar soluciones hipertónicas
+Indicada en:
+* Deshidratación leve
+* Mantenimiento en ERC estable
+
+?? 3. Vía Oral
+?? Solo en pacientes conscientes y sin vómitos.
+Indicada en:
+* Deshidratación leve
+* Terapia de mantenimiento
+* Soluciones de rehidratación oral
+No usar en:
+* Shock
+* Íleo
+* Vómitos activos
+
+?? 4. Vía Intraósea (IO)
+?? Alternativa cuando no se logra acceso venoso.
+Indicaciones:
+* Neonatos
+* Pacientes en shock severo
+* Colapso vascular
+Permite administrar:
+* Cristaloides
+* Coloides
+* Fármacos de emergencia
+Es fisiológicamente equivalente a la vía EV.
+
+f. Concepto clave de cierre
+No existe el “suero ideal”.
+Existe el fluido correcto para ese paciente, en ese momento y a esa velocidad.
+La fluidoterapia moderna se basa en:
+* elección racional del fluido
+* dosis ajustada
+* velocidad adecuada
+* reevaluación constante
+
+g. Fluidoterapia – Resumen práctico
+
+1?? Primera pregunta: ¿Está en shock?
+?? Si SÍ (hipovolemia aguda):
+* Cristaloide isotónico balanceado (Ringer Lactato)
+* Bolo fraccionado
+Perro: 20 ml/kg en 15 min
+Gato: 10–15 ml/kg en 15 min
+?? Reevaluar antes de repetir.
+
+?? Si NO está en shock:
+Pasar al cálculo ordenado:
+Volumen" " total=De ?ficit+Mantenimiento+Pe ?rdidas" " continuas
+
+
+2?? Déficit
+De ?ficit(ml)=Peso(kg)×%deshidratacio ?n×10
+
+Cada 1% = 10 ml/kg
+?? No reponer todo de golpe.
+?? En pacientes estables ? 12–24 h.
+
+3?? Mantenimiento
+Perro: 40–60 ml/kg/día
+Gato: 30–45 ml/kg/día
+Tasas hospitalarias orientativas:
+Perro: 2–4 ml/kg/h
+Gato: 1–2 ml/kg/h
+?? 4 ml/kg/h durante 24 h ? mantenimiento puro.
+Es tasa operativa transitoria.
+
+4?? Límites de seguridad
+Si la cuenta supera:
+* Perro: 4 ml/kg/h
+* Gato: 2 ml/kg/h
+?? Fraccionar la reposición
+?? Mandan corazón y riñón, no la calculadora
+
+5?? Elección rápida del fluido
+SituaciónFluidoShockRinger LactatoVómitos (alcalosis)NaCl 0,9%Diarrea (acidosis)Ringer LactatoHiperkalemiaNaCl 0,9%HipoglucemiaDextrosaEdema cerebralNaCl hipertónico
+6?? Cristaloides vs coloides
+Cristaloides:
+* Se distribuyen rápido
+* 25% queda intravascular
+Coloides:
+* Aumentan presión oncótica
+* Uso cada vez más restringido
+
+7?? Cálculo rápido de goteos 
+Gotas/min=(ml/h×factor)/60
+
+Microgotero (60 gotas/ml):
+?? ml/h = gotas/min
+
+8?? Signos de sobrecarga
+?? Aumento FR
+?? Estertores
+?? Secreción nasal serosa
+?? Aumento brusco de peso
+Si aparecen ? disminuir o suspender.
+
+9?? Diferenciar siempre
+Deshidratación ? Hipovolemia
+Deshidratación ? déficit de agua
+Hipovolemia ? déficit intravascular agudo
+
+?? Regla de oro
+Calcular ? Administrar ? Reevaluar ? Ajustar
+No existe el suero ideal.
+Existe el paciente correcto, en el momento correcto.
+
+5. Actividades de autoevaluación
+?? Caso 1: El Gato en Shock
+Llega un gato atropellado, pálido, taquicárdico, presión sistólica 60 mmHg.
+1. Usted decide "expandirlo". ¿Le pasa 500 ml de una sola vez?
+2. Calcule el tamaño del primer bolo (alícuota) de seguridad para este gato de 4 kg. (Use 10 ml/kg).
+3. ¿Qué parámetros monitorea a los 15 minutos para decidir si da un segundo bolo?
+?? Caso 2: Cirugía de Rutina
+Está anestesiando a un Labrador sano de 30 kg para una limpieza dental de 1 hora.
+1. Según las normas AAHA modernas, ¿cuántos ml de Ringer Lactato debería recibir en esa hora? (3 a 5 ml/kg/h). ¿Cuántas gotas deberían caer en un minuto en el cuenta gotas?
+?? Caso 3: Acidosis vs Alcalosis
+1. ¿Por qué el Ringer Lactato es ideal para un perro con diarrea severa?
+2. ¿Por qué la Solución Fisiológica es ideal para un perro con vómitos por obstrucción pilórica?
+
+?? 6. Resumen en 10 puntos 
+• La insuficiencia cardíaca es un síndrome hemodinámico y neurohormonal, no solo un problema de contractilidad.
+• El tratamiento moderno se basa en la tríada: inotrópico + vasodilatador + diurético.
+• El RAAS es un motor clave de progresión cardio–renal.
+• Los diuréticos se eligen por sitio de acción y contexto clínico, no solo por potencia.
+• La furosemida es el diurético de elección en congestión aguda, pero activa mecanismos compensadores.
+• La espironolactona aporta beneficio hormonal más que efecto diurético.
+• La fluidoterapia es la prescripción de un fármaco EV con indicación, dosis y velocidad.
+• Deshidratación e hipovolemia no son sinónimos y requieren abordajes distintos.
+• La velocidad de administración puede ser tan importante como el volumen total.
+• El equilibrio entre perfusión y congestión define gran parte de la medicina cardio–renal.
+
+?? 7. Errores clínicos frecuentes (versión integrada)
+• Tratar insuficiencia cardíaca solo con diuréticos sin modular RAAS.
+• Usar digoxina como inotrópico de primera línea en vez de como modulador de frecuencia.
+• Aumentar furosemida sin evaluar potasio y función renal.
+• Usar tiazidas en insuficiencia renal avanzada sin criterio.
+• Administrar fluidos rápidos en cardiopatías sin evaluar riesgo de congestión.
+• Confundir deshidratación con hipovolemia.
+• Usar manitol en pacientes con falla cardíaca.
+• No reevaluar al paciente tras cada bolo de reanimación.
+• No integrar presión arterial en la elección de vasodilatadores.
+• Pensar que “más diuresis” o “más fluidos” equivale a mejor tratamiento.
+
+?? 8. Checklist de examen (versión integrada)
+• ¿Comprendo la fisiopatología de la insuficiencia cardíaca?
+• ¿Sé explicar la tríada terapéutica y su fundamento?
+• ¿Puedo diferenciar inotrópico, vasodilatador y diurético según el caso?
+• ¿Entiendo el rol del RAAS en progresión cardio–renal?
+• ¿Sé elegir el diurético según sitio de acción y estado electrolítico?
+• ¿Puedo calcular un déficit de hidratación correctamente?
+• ¿Distingo reanimación en shock de mantenimiento hospitalario?
+• ¿Sé calcular y ajustar la velocidad de infusión?
+• ¿Identifico signos de sobrecarga hídrica o congestión pulmonar?
+• ¿Puedo integrar corazón, riñón y fluidos en un mismo razonamiento clínico?
+
+?? 9. Bibliografía recomendada
+• DiBartola S. Fluid Therapy in Small Animal Practice.
+• Silverstein & Hopper. Small Animal Critical Care Medicine.
+• Papich MG. Saunders Handbook of Veterinary Drugs.
+• Riviere & Papich. Veterinary Pharmacology and Therapeutics.
+• AAHA Fluid Therapy Guidelines.
+TRABAJO PRÁCTICO 10
+Farmacología Cardiovascular – Diuréticos – Fluidoterapia
+Duración sugerida: 3 horas
+Objetivos:
+* Integrar fisiopatología cardiovascular con farmacología.
+* Diseñar planes terapéuticos racionales.
+* Interpretar variables hemodinámicas básicas.
+* Seleccionar diuréticos según mecanismo y situación clínica.
+* Diseñar planes de fluidoterapia en diferentes contextos clínicos.
+
+PARTE 1
+Caso clínico: insuficiencia cardíaca congestiva en canino
+Un perro mestizo de 12 años, 9 kg, consulta por:
+* intolerancia al ejercicio
+* tos nocturna
+* disnea leve
+Examen físico:
+FC: 160 lpm
+FR: 40 rpm
+soplo sistólico apical izquierdo
+mucosas rosadas
+leve ascitis
+Radiografía:
+* cardiomegalia
+* edema pulmonar leve
+Ecocardiografía:
+* degeneración mixomatosa de válvula mitral
+* dilatación auricular izquierda
+El animal no recibe medicación actualmente.
+
+Actividades
+1. Identifique el diagnóstico más probable.
+
+2. Proponga un plan farmacológico inicial.
+Considere:
+* diuréticos
+* vasodilatadores
+* inotrópicos positivos
+
+3. Para cada fármaco elegido indique:
+* mecanismo de acción
+* objetivo terapéutico
+* efectos adversos principales
+
+4. Explique por qué el uso de furosemida mejora la disnea en este paciente.
+
+5. ¿Qué parámetros deberían monitorearse durante el tratamiento?
+
+PARTE 2
+Comparación farmacológica de diuréticos
+Complete la siguiente tabla:
+FármacoSitio de acciónPotenciaIndicaciones clínicasEfectos adversosFurosemidaEspironolactonaHidroclorotiazidaManitol
+Actividades
+1. ¿Por qué la furosemida es el diurético de elección en edema pulmonar?
+
+2. ¿Por qué la espironolactona suele usarse en combinación con otros diuréticos en insuficiencia cardíaca?
+
+3. ¿En qué situaciones podría utilizarse manitol en medicina veterinaria?
+
+PARTE 3
+Caso clínico: shock hipovolémico
+Un perro de 25 kg llega al hospital tras un accidente automovilístico.
+Signos clínicos:
+* mucosas pálidas
+* TRC: 4 segundos
+* FC: 180 lpm
+* presión arterial sistólica: 70 mmHg
+* extremidades frías
+Se sospecha shock hipovolémico hemorrágico.
+
+Actividades
+1. Explique la fisiopatología del shock hipovolémico.
+
+2. Diseñe un plan de fluidoterapia inicial.
+Indique:
+* tipo de fluido
+* dosis
+* velocidad de administración
+
+3. ¿Qué diferencias existen entre:
+* cristaloides isotónicos
+* coloides?
+
+4. ¿En qué situaciones estaría indicado el uso de transfusión sanguínea?
+
+PARTE 4
+Interpretación hemodinámica
+Indique qué ocurre con estas variables en shock hipovolémico:
+ParámetroCambio esperadoFrecuencia cardíacaPresión arterialPerfusión tisularLactato sanguíneoExplique brevemente cada cambio.
+
+PARTE 5
+Caso clínico: fluidoterapia en gato con enfermedad renal
+Un gato de 14 años con enfermedad renal crónica presenta:
+* deshidratación moderada
+* creatinina elevada
+* presión arterial elevada
+
+Actividades
+1. ¿Qué riesgos presenta la fluidoterapia agresiva en este paciente?
+
+2. ¿Qué tipo de solución elegiría?
+Justifique.
+
+3. ¿Qué parámetros deben monitorearse durante la fluidoterapia?
+
+PARTE 6
+Discusión farmacológica
+Error terapéutico 1
+Un perro con insuficiencia cardíaca recibe:
+* furosemida
+* AINE para artritis
+Explique por qué esta combinación puede ser riesgosa.
+
+Error terapéutico 2
+Un perro con shock hipovolémico recibe únicamente:
+* espironolactona
+Explique por qué esta terapia es inadecuada.
+
+PARTE 7 
+Ejercicio de cálculo de fluidoterapia
+Un perro de 18 kg llega a consulta con vómitos y diarrea desde hace 24 horas.
+Evaluación clínica:
+* mucosas secas
+* TRC: 3,5 segundos
+* ligera pérdida de turgencia cutánea
+* frecuencia cardíaca: 140 lpm
+Se estima deshidratación del 8%.
+
+Actividades
+1. Calcule el volumen de déficit hídrico.
+
+2. Calcule el requerimiento de mantenimiento diario.
+
+3. Calcule el volumen total de fluidos a administrar durante las primeras 24 horas.
+
+4. Si se decide administrar ese volumen en 24 horas, calcule la velocidad de infusión en ml/hora.
+
+5. Si se utiliza un equipo de goteo de 20 gotas/ml, calcule la velocidad en gotas/minuto.
+
+6. Indique qué solución elegiría para iniciar la fluidoterapia y justifique.
+
+
+GUÍA DE ESTUDIO FARMACOLOGÍA Y TERAPÉUTICA
+Fernando Mañas 
+-2026-
+
+2
+
+

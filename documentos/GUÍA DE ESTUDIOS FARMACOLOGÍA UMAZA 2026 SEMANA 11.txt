@@ -1,0 +1,551 @@
+
+	
+
+
+Contenido
+SEMANA 12- MÓDULO 5: Antineoplásicos, Antisépticos y desinfectantes, Antiprotozoarios y farmacología de la reproducción	4
+I. Terapia antineoplásica	4
+a. Agentes Alquilantes	4
+b. Antimetabolitos	5
+c. Alcaloides de la Vinca	5
+d. Antibióticos Antitumorales	5
+e. Enzimas	6
+f. Glucocorticoides	6
+II. Antisépticos y desinfectantes	6
+a. Alcoholes (Etanol / Isopropanol)	6
+b. Halógenos	7
+c. Biguanidas	7
+d. Amonios Cuaternarios	7
+e. Aldehídos (Glutaraldehído)	8
+f. Peróxidos	8
+III. Antiprotozoarios de uso veterinario	8
+1. Derivados Imidazólicos	8
+2. Triazinas	8
+3. Sulfonamidas Potenciadas	8
+4. Diamidinas	9
+5. Lincosamidas	9
+6. Ionóforos	9
+IV. Farmacología de la reproducción	10
+a. GnRH y Análogos	10
+b. Gonadotrofinas	10
+c. Estrógenos	11
+d. Progestágenos	11
+e. Antiprogestágenos	11
+f. Prostaglandinas (PgF2? y análogos)	12
+g. Oxitocina	12
+h. Andrógenos	12
+i. Abortivos No Hormonales	13
+J. Antiprolactínicos	13
+V. Anticonvulsivantes de uso veterinario	13
+a. Fenobarbital	14
+b. Bromuro de potasio (KBr)	14
+c. Fenitoína	15
+d. Carbamazepina	15
+e. Ácido valproico	15
+f. Levetiracetam	16
+VI. Autoevaluación	16
+VII. Resumen en 10 puntos clave	17
+VIII. Errores clínicos frecuentes	18
+IX. Checklist de examen	18
+??X. Bibliografía recomendada	19
+
+
+
+SEMANA 12- MÓDULO 5: Antineoplásicos, Antisépticos y desinfectantes, Antiprotozoarios y farmacología de la reproducción
+
+I. Terapia antineoplásica
+1. Principios Generales
+* Índice terapéutico estrecho.
+* Actúan sobre células de rápida división.
+* No distinguen células tumorales de tejidos normales proliferativos:
+o Médula ósea
+o Epitelio gastrointestinal
+o Folículos pilosos
+Efectos adversos frecuentes
+* Mielosupresión
+* Gastroenteritis
+* Alopecia (variable según especie)
+* Inmunosupresión
+Bioseguridad
+* Fármacos mutagénicos y carcinogénicos.
+* Uso de guantes de nitrilo.
+* No fraccionar comprimidos.
+* Eliminación como residuos citotóxicos.
+
+2. Clasificación Farmacológica
+a. Agentes Alquilantes
+Fármacos:
+* Ciclofosfamida
+* Clorambucilo
+* Melfalán
+* Cisplatino
+* Carboplatino
+Mecanismo:
+Formación de enlaces cruzados en ADN ? inhibición de replicación y transcripción.
+Efectos adversos destacados:
+* Mielosupresión
+* Cistitis hemorrágica estéril (ciclofosfamida ? acroleína)
+* Nefrotoxicidad (platinos)
+* Edema pulmonar fatal en gatos (cisplatino)
+
+b. Antimetabolitos
+Fármacos:
+* 5-Fluorouracilo
+* Metotrexato
+* Citarabina
+Mecanismo:
+Inhibición de síntesis de nucleótidos ? bloqueo de fase S.
+Perla clínica:
+5-FU es altamente neurotóxico en gatos.
+
+c. Alcaloides de la Vinca
+Fármacos:
+* Vincristina
+* Vinblastina
+Mecanismo:
+Inhibición de polimerización de microtúbulos ? bloqueo mitótico.
+Efectos adversos:
+* Vesicantes
+* Neuropatía periférica
+
+d. Antibióticos Antitumorales
+Doxorrubicina
+Mecanismo:
+* Intercalación en ADN
+* Generación de radicales libres
+Toxicidad:
+* Cardiotoxicidad acumulativa (perros)
+* Nefrotoxicidad (gatos)
+
+e. Enzimas
+L-Asparaginasa
+Mecanismo: depleción de asparagina ? apoptosis tumoral.
+Riesgo:
+* Reacciones anafilácticas
+
+f. Glucocorticoides
+Prednisolona
+Mecanismo:
+Induce apoptosis linfocitaria.
+Uso frecuente en linfomas y protocolos combinados.
+
+II. Antisépticos y desinfectantes
+1. Conceptos Generales
+* Antiséptico: uso sobre tejidos vivos.
+* Desinfectante: uso sobre superficies inertes.
+* Eficacia depende de concentración, tiempo de contacto, pH y materia orgánica.
+
+2. Clasificación
+a. Alcoholes (Etanol / Isopropanol)
+Mecanismo:
+Desnaturalización proteica y disolución de lípidos.
+Concentraciones óptimas:
+* Etanol 70%
+* Isopropanol 50%
+Espectro:
+* Gram +
+* Gram –
+* Hongos
+* Virus con envoltura lipídica
+* No esporas
+Sin efecto residual.
+
+b. Halógenos
+Iodóforos (Povidona yodada)
+Oxidación de proteínas.
+Amplio espectro:
+* Bacterias
+* Hongos
+* Virus
+* Algunas esporas
+
+Clorados (Hipoclorito)
+Oxidación intensa.
+Uso en superficies.
+Inactivados por materia orgánica.
+
+c. Biguanidas
+Clorhexidina
+Alteración de membrana celular.
+Espectro:
+* Gram +
+* Gram –
+* Algunos hongos
+Posee efecto residual.
+Precaución: ototoxicidad si hay perforación timpánica.
+
+d. Amonios Cuaternarios
+Alteración de membrana celular.
+Mayor acción en Gram +.
+Baja eficacia frente a esporas y algunos Gram –.
+
+e. Aldehídos (Glutaraldehído)
+Desnaturalización intensa de proteínas.
+Desinfección de alto nivel.
+Tóxicos para tejidos vivos.
+
+f. Peróxidos
+Acción oxidante por radicales libres.
+Amplio espectro según concentración.
+
+III. Antiprotozoarios de uso veterinario
+
+1. Derivados Imidazólicos
+Metronidazol
+Mecanismo:
+Reducción intracelular ? formación de radicales libres que dañan ADN.
+Espectro:
+* Giardia
+* Trichomonas
+* Protozoos anaerobios
+Efectos adversos:
+* Neurotoxicidad dosis-dependiente
+
+2. Triazinas
+Toltrazuril
+Diclazuril
+Mecanismo:
+Alteración del metabolismo nuclear y mitocondrial del protozoo.
+Uso principal:
+* Coccidiosis
+
+3. Sulfonamidas Potenciadas
+Trimetoprima + Sulfas
+Mecanismo:
+Bloqueo secuencial de síntesis de ácido fólico.
+Uso:
+* Coccidiosis
+* Toxoplasmosis (combinado)
+
+4. Diamidinas
+Imidocarb
+Mecanismo:
+El imidocarb es una diamidina que interfiere con el metabolismo de los ácidos nucleicos del parásito, principalmente mediante:
+* Alteración de la replicación y transcripción del ADN, por unión a regiones ricas en adenina–timina del ADN parasitario.
+* Inhibición de la captación y utilización de poliaminas (como putrescina y espermidina), esenciales para la síntesis de ácidos nucleicos y la división celular del protozoo.
+* Como consecuencia, se produce inhibición de la multiplicación del parásito y muerte celular.
+Uso:
+* Babesiosis
+* Anaplasmosis
+Efectos adversos:
+* Signos colinérgicos
+* Dolor en sitio de aplicación
+
+5. Lincosamidas
+Clindamicina
+Mecanismo:
+Inhibición síntesis proteica (50S).
+Uso:
+* Toxoplasmosis
+* Neosporosis
+
+6. Ionóforos
+Monensina y Lasalocid
+Mecanismo: Alteran el transporte de iones (Na+/K+) en la membrana del parásito.
+Uso: Preventivo en el alimento (aves/bovinos) y Promotor de Crecimiento.
+Toxicidad GRAVE: Equinos y Perros son extremadamente sensibles. La ingestión accidental causa Mionecrosis Cardíaca y Esquelética letal.
+
+IV. Farmacología de la reproducción
+
+1. Eje Hipotálamo–Hipófisis–Gónadas
+GnRH ? FSH / LH ? Estrógenos / Progesterona / Testosterona
+GnRH pulsátil: estimulación
+GnRH continua: downregulation
+
+2. Grupos Farmacológicos
+
+a. GnRH y Análogos
+* Gonadorelina
+* Buserelina
+* Deslorelina
+Usos:
+* Inducción de ovulación
+* Anestro prolongado
+* Sincronización
+* Supresión gonadal
+
+b. Gonadotrofinas
+* eCG (actividad FSH)
+* hCG (actividad LH)
+Usos:
+* Superovulación
+* Quistes foliculares
+* Inducción de cuerpos lúteos accesorios
+
+c. Estrógenos
+* Estradiol
+* Estriol
+Acción en receptores nucleares.
+Usos:
+* Incontinencia urinaria
+* Adenomas perianales
+* Hiperplasia prostática
+Toxicidad:
+* Anemia aplásica
+* Tumores mamarios
+* Abortos
+
+d. Progestágenos
+* Progesterona
+* Medroxiprogesterona
+* Clormadinona
+* Delmadinona
+Usos:
+* Supresión del estro
+* Sincronización
+Efectos adversos:
+* Piómetra
+* Diabetes mellitus
+* Tumores mamarios
+
+e. Antiprogestágenos
+* Aglepristona
+* Mifepristona
+Uso:
+* Interrupción de gestación temprana (< día 35)
+
+f. Prostaglandinas (PgF2? y análogos)
+* Dinoprost
+* Cloprostenol
+* Tiaprost
+Mecanismo:
+Luteólisis por apoptosis.
+Usos:
+* Sincronización
+* Inducción de parto
+* Piómetra cuello abierto
+Efectos adversos:
+* Diarrea
+* Broncoconstricción
+* Sudoración
+* Absorción cutánea accidental
+
+g. Oxitocina
+Receptores acoplados a fosfolipasa C.
+Usos:
+* Atonía uterina
+* Retención placentaria
+* Eyección de leche
+Vida media corta.
+
+h. Andrógenos
+* Testosterona
+* Nandrolona
+* Estanozolol
+Acciones:
+* Anabólica
+* Estimulación eritropoyesis
+Toxicidad:
+* Hepatotoxicidad
+* Edema
+* Alteraciones conductuales
+
+i. Abortivos No Hormonales
+Lotrifen
+Vía: intramuscular.
+Indicado hasta aproximadamente día 15 de gestación.
+Mecanismo:
+Acción abortiva directa no mediada por antagonismo hormonal clásico.
+Efectos adversos:
+* Anorexia
+* Diarrea
+* Posible desarrollo de piómetra
+
+J. Antiprolactínicos
+Cabergolina
+Agonista dopaminérgico D2 hipofisario.
+Uso:
+* Pseudociesis canina
+
+V. Anticonvulsivantes de uso veterinario
+1. Conceptos generales
+Los anticonvulsivantes son fármacos utilizados para el control de crisis epilépticas y convulsiones, actuando principalmente sobre la excitabilidad neuronal, ya sea:
+* Potenciando neurotransmisión inhibitoria (GABA)
+* Disminuyendo la excitación neuronal (bloqueo de canales iónicos)
+* Estabilizando la membrana neuronal
+?? Objetivo terapéutico:
+Reducir la frecuencia y severidad de las crisis, no necesariamente eliminarlas por completo.
+?? Consideraciones clave:
+* Tratamientos generalmente crónicos.
+* Índice terapéutico estrecho en varias drogas.
+* Importante variabilidad interespecífica (especialmente en felinos).
+* Riesgo de interacciones farmacológicas.
+
+2. Principales anticonvulsivantes
+
+a. Fenobarbital
+Grupo: Barbitúrico
+Mecanismo de acción:
+* Potenciación de la neurotransmisión GABAérgica.
+* Aumento de la duración de apertura del canal de Cl? del receptor GABA_A.
+* Disminuye la excitabilidad neuronal.
+Uso clínico:
+* Anticonvulsivante de primera línea en caninos.
+* Control de epilepsia idiopática.
+Farmacocinética relevante:
+* Metabolismo hepático.
+* Potente inductor enzimático (CYP450).
+Efectos adversos:
+* Sedación inicial
+* Polifagia, poliuria, polidipsia
+* Hepatotoxicidad con tratamientos prolongados
+
+b. Bromuro de potasio (KBr)
+Mecanismo de acción:
+* El ion bromuro compite con el cloruro, hiperpolarizando la neurona.
+* Aumenta el umbral convulsivo.
+Uso clínico:
+* Alternativa o complemento del fenobarbital en perros.
+* Útil cuando existe hepatopatía.
+Características clave:
+* Eliminación renal.
+* Vida media muy prolongada.
+Limitaciones:
+* Contraindicado en gatos (riesgo de neumonitis fatal).
+* Inicio de acción lento.
+
+c. Fenitoína
+Mecanismo de acción:
+* Bloqueo de canales de sodio dependientes de voltaje.
+* Estabiliza la membrana neuronal.
+Uso clínico:
+* Utilidad limitada en veterinaria.
+* Metabolismo extremadamente rápido en perros.
+Importante:
+* No indicada para tratamientos crónicos en caninos.
+* Uso ocasional en emergencias, cada vez menos frecuente.
+
+d. Carbamazepina
+Mecanismo de acción:
+* Bloqueo de canales de sodio.
+* Disminuye la descarga neuronal repetitiva.
+Uso clínico:
+* Muy limitado en medicina veterinaria.
+Limitaciones:
+* Metabolismo rápido en perros.
+* Inductor enzimático.
+* Riesgo de toxicidad en gatos.
+
+e. Ácido valproico
+Mecanismo de acción (combinado):
+* Aumento de niveles de GABA.
+* Bloqueo de canales de sodio y calcio tipo T.
+Uso clínico:
+* No recomendado en perros por metabolismo rápido.
+* Prácticamente sin uso en veterinaria.
+?? Importante: su mención es principalmente conceptual/comparativa.
+
+f. Levetiracetam
+Mecanismo de acción:
+* Unión a la proteína SV2A de vesículas sinápticas.
+* Modula la liberación de neurotransmisores excitatorios.
+Ventajas:
+* Mínimo metabolismo hepático.
+* Pocas interacciones farmacológicas.
+* Buena tolerancia.
+Uso clínico:
+* Monoterapia o terapia adyuvante.
+* Perros y gatos.
+* Especialmente útil en pacientes con hepatopatía.
+
+VI. Autoevaluación
+a. Preguntas Conceptuales
+1. ¿Por qué los antineoplásicos presentan un índice terapéutico estrecho?
+2. ¿Cuál es la diferencia farmacodinámica entre un agente alquilante y un antimetabolito?
+3. ¿Por qué el 5-fluorouracilo está contraindicado en gatos?
+4. ¿Qué diferencia a un antiséptico de un desinfectante?
+5. ¿Por qué el alcohol al 70% es más eficaz que al 96%?
+6. ¿Cuál es el mecanismo de acción del imidocarb en babesiosis?
+7. ¿Qué diferencia existe entre eCG y hCG en términos de actividad biológica?
+8. ¿Qué ocurre cuando la GnRH se administra de manera continua?
+9. ¿Cuál es el mecanismo luteolítico de las prostaglandinas?
+10. ¿Por qué los progestágenos pueden predisponer a piómetra?
+11. ¿Cuál es el principal mecanismo anticonvulsivante del fenobarbital?
+12. ¿Por qué el bromuro de potasio está contraindicado en gatos?
+13. ¿Qué ventaja farmacocinética presenta el levetiracetam frente al fenobarbital?
+
+b. Preguntas de Integración Clínica
+1. Perro con linfoma tratado con ciclofosfamida presenta hematuria estéril.
+o ¿Cuál es el mecanismo?
+o ¿Qué metabolito está implicado?
+2. Gata con signos neurológicos tras tratamiento antitumoral.
+o ¿Qué droga podría haber recibido?
+3. Rodeo bovino con protocolo de sincronización y signos de broncoconstricción tras aplicación.
+o ¿Qué grupo farmacológico fue administrado?
+4. Perra tratada para supresión de celo que desarrolla piómetra.
+o ¿Qué grupo farmacológico está implicado?
+5. Canino con babesiosis tratado y presenta signos colinérgicos.
+o ¿Qué droga recibió?
+6. Perro con epilepsia y hepatopatía crónica. 
+o ¿Qué anticonvulsivante sería más seguro?
+7. Gato tratado con bromuro presenta disnea severa.
+o ¿Qué error farmacológico se cometió?
+
+VII. Resumen en 10 puntos clave
+* Los antineoplásicos tienen índice terapéutico estrecho.
+* Los agentes alquilantes forman enlaces cruzados en ADN.
+* El 5-FU es altamente neurotóxico en gatos.
+* La clorhexidina posee efecto residual.
+* El metronidazol puede causar neurotoxicidad.
+* El imidocarb produce efectos colinérgicos.
+* La GnRH continua produce downregulation hipofisaria.
+* Los progestágenos predisponen a piómetra.
+* El fenobarbital es el anticonvulsivante de primera línea en perros.
+* El levetiracetam es una opción segura en pacientes con compromiso hepático.
+
+VIII. Errores clínicos frecuentes
+En Oncología
+* Usar cisplatino en gatos.
+* No monitorear hemograma durante quimioterapia.
+* No advertir riesgo ocupacional al personal.
+En Antisépticos
+* Usar alcohol como desinfectante de alto nivel.
+* No limpiar materia orgánica antes de aplicar hipoclorito.
+* Usar clorhexidina en oído con membrana timpánica perforada.
+En Antiprotozoarios
+* Subdosificar metronidazol.
+* No advertir efectos neurológicos en tratamientos prolongados.
+* No prever efectos colinérgicos del imidocarb.
+En Reproducción
+* Uso indiscriminado de progestágenos en hembras enteras.
+* No advertir absorción cutánea de prostaglandinas.
+* Aplicar oxitocina sin evaluar obstrucción fetal.
+* Uso de abortivos sin confirmar edad gestacional.
+En Anticonvulsivantes
+* Usar bromuro de potasio en gatos.
+* No monitorear función hepática con fenobarbital.
+* Suspender anticonvulsivantes de forma brusca.
+* No considerar interacciones por inducción enzimática.
+
+IX. Checklist de examen
+El estudiante debe poder:
+? Explicar el mecanismo de acción de cada grupo farmacológico.
+? Reconocer efectos adversos específicos por especie.
+? Diferenciar acción hormonal de acción no hormonal en reproducción.
+? Identificar contraindicaciones críticas (ej. cisplatino en gatos).
+? Clasificar antisépticos según mecanismo químico.
+? Asociar cada antiprotozoario con su protozoo diana principal.
+? Explicar la diferencia entre eCG y hCG.
+? Comprender el concepto de downregulation por GnRH continua.
+? Justificar efectos adversos a partir del mecanismo de acción.
+? Analizar riesgo-beneficio en decisiones terapéuticas.
+? Explicar mecanismos anticonvulsivantes básicos.
+? Reconocer diferencias interespecíficas críticas.
+? Identificar drogas inductoras enzimáticas.
+? Seleccionar anticonvulsivantes según comorbilidades.
+
+??X. Bibliografía recomendada
+• Withrow & Vail. Small Animal Clinical Oncology.
+• Papich MG. Saunders Handbook of Veterinary Drugs.
+• Riviere & Papich. Veterinary Pharmacology and Therapeutics.
+• Meuten DJ. Tumors in Domestic Animals.
+• Radostits OM. Veterinary Medicine.
+
+
+GUÍA DE ESTUDIO FARMACOLOGÍA Y TERAPÉUTICA
+Fernando Mañas 
+-2026-
+
+2
+
+

@@ -1,0 +1,968 @@
+
+	
+
+
+Contenido
+SEMANA 6- MÓDULO 3: Quimioterapia Antiinfecciosa. Primera parte: Antimicrobianos 1	3
+1. Introducción	3
+1.	Relación PK/PD: Conceptos fundamentales de farmacocinética y farmacodinamia	5
+3. Familia 1: Betalactámicos	7
+3.1. Penicilinas	11
+3.2. Cefalosporinas	13
+4. Familia 2: Aminoglucósidos	14
+5. Sinergismo clásico	15
+6. Actividades de autoevaluación	15
+??7. Resumen en 10 puntos	16
+?? 8. Errores clínicos frecuentes	16
+??9. Checklist de examen	17
+?? 10. Bibliografía recomendada	17
+SEMANA 6- MÓDULO 3: Quimioterapia Antiinfecciosa. Segunda parte: Antimicrobianos 2	18
+1. Introducción y objetivos	18
+2. Familia 3: Tetraciclinas	18
+3. Familia 4: Macrólidos	19
+4. Familia 5: Lincosamidas	20
+5. Familia 6: Fenicoles	22
+6. Familia 7: Fluoroquinolonas	24
+7. Familia 8: Sulfonamidas y Trimetoprim (tms)	26
+8. Familia 9: Nitroimidazoles	28
+9. Seguridad alimentaria: el tiempo de retiro	30
+10. Actividades de autoevaluación	31
+11.?? Resumen en 10 puntos	31
+12. ?? Errores clínicos frecuentes	32
+13. ?? Checklist de examen	32
+14. ?? Bibliografía recomendada	32
+?? TRABAJO PRÁCTICO Nº 7	34
+
+
+
+SEMANA 6- MÓDULO 3: Quimioterapia Antiinfecciosa. Primera parte: Antimicrobianos 1
+Tema: Antimicrobianos. Generalidades, Betalactámicos y Aminoglucósidos.
+Semana: 6
+
+1. Introducción
+El uso de antimicrobianos en medicina veterinaria requiere una mirada clínica integrada que va más allá de la elección de una droga “activa” frente a un microorganismo. La eficacia terapéutica depende no solo del agente etiológico, sino también de factores propios del hospedador, del sitio de infección y de las características farmacocinéticas y farmacodinámicas del fármaco seleccionado.
+La perfusión tisular, el pH local, la presencia de material purulento o tejido necrótico, la carga bacteriana y la formación de biofilms influyen de manera decisiva en la respuesta al tratamiento. En este contexto, el antimicrobiano no debe considerarse una herramienta aislada, sino parte de una estrategia terapéutica que puede incluir medidas quirúrgicas, soporte del paciente y manejo adecuado del entorno.
+La selección racional de antimicrobianos es fundamental no solo para maximizar la probabilidad de éxito clínico, sino también para reducir la aparición de resistencia bacteriana, uno de los principales desafíos sanitarios actuales tanto en medicina humana como veterinaria.
+
+El triángulo de Davis y la lógica del tratamiento antimicrobiano
+A diferencia de otros capítulos de la farmacología, como el manejo del dolor o del sistema nervioso, en la quimioterapia antiinfecciosa interviene un tercer actor biológico activo: el microorganismo. En este contexto, el éxito terapéutico no depende únicamente del fármaco ni del paciente, sino de la interacción dinámica entre tres componentes.
+Este concepto se resume clásicamente en el Triángulo de Davis, que permite comprender por qué un antibiótico puede fallar aun cuando “en teoría” es el correcto.
+
+?? El Triángulo de Davis
+El resultado clínico del tratamiento antimicrobiano depende del equilibrio entre:
+1. El Fármaco
+o Debe alcanzar el sitio de infección en una concentración adecuada.
+o Su eficacia depende de sus propiedades farmacocinéticas y farmacodinámicas (PK/PD).
+o La vía de administración, la dosis y el intervalo son determinantes.
+2. La Bacteria
+o Debe ser sensible al antimicrobiano.
+o La sensibilidad se expresa mediante parámetros como la Concentración Inhibitoria Mínima (CIM).
+o La presencia de mecanismos de resistencia puede inutilizar un tratamiento correctamente indicado.
+3. El Huésped (Paciente)
+o Debe tolerar el fármaco (toxicidad aceptable).
+o Su sistema inmune debe colaborar en la eliminación del patógeno y los restos bacterianos.
+o El estado fisiopatológico (edad, enfermedad renal, hepática, shock, inmunosupresión) condiciona el resultado.
+?? Idea clave: Un antibiótico no “cura” solo. El fármaco controla la infección, pero la erradicación final depende del huésped.
+
+?? Implicancia clínica fundamental
+El tratamiento antimicrobiano no es una receta automática. Requiere integrar:
+* farmacología,
+* microbiología,
+* clínica,
+* y fisiopatología del paciente.
+Por este motivo, errores frecuentes como:
+* elegir un antibiótico correcto, pero a intervalos inadecuados,
+* usar una vía de administración ineficaz,
+* o ignorar el estado renal del paciente,
+conducen al fracaso terapéutico y favorecen la resistencia antimicrobiana.
+
+2. Objetivos de la semana
+Al finalizar este módulo, el estudiante deberá ser capaz de:
+1. Comprender la lógica PK/PD de los antimicrobianos, diferenciando antibióticos:
+o tiempo-dependientes (ej. betalactámicos),
+o concentración-dependientes (ej. aminoglucósidos).
+2. Reconocer los principales mecanismos de acción, en particular:
+o inhibición de la síntesis de la pared celular,
+o inhibición de la síntesis proteica bacteriana.
+3. Seleccionar racionalmente un antimicrobiano según:
+o la patología (ej. mastitis, pioderma, neumonía),
+o la especie,
+o el sitio de infección,
+o y el perfil del paciente.
+4. Relacionar la farmacocinética con la vía de administración, comprendiendo por qué:
+o un aminoglucósido administrado por vía oral no sirve para infecciones sistémicas,
+o o por qué un betalactámico mal dosificado pierde eficacia.
+
+1. Relación PK/PD: Conceptos fundamentales de farmacocinética y farmacodinamia
+El éxito del tratamiento antimicrobiano no depende únicamente de que la bacteria sea sensible al antibiótico, sino de que el fármaco alcance y mantenga concentraciones adecuadas durante el tiempo necesario en el sitio de infección.
+Esta relación entre lo que el organismo le hace al fármaco (PK) y lo que el fármaco le hace a la bacteria (PD) se conoce como PK/PD.
+
+Farmacocinética (PK): “qué hace el organismo con el antibiótico”
+La farmacocinética describe el recorrido del antibiótico en el organismo: absorción, distribución, metabolismo y eliminación.
+En antimicrobianos, la PK responde preguntas clave como:
+* ¿Llega el antibiótico al sitio de infección?
+* ¿En qué concentración?
+* ¿Durante cuánto tiempo?
+* ¿Con qué variabilidad según especie, edad o estado fisiopatológico?
+Parámetros PK relevantes:
+* Concentración plasmática.
+* Vida media.
+* Volumen de distribución.
+* Clearance.
+?? Idea clave:
+Un antibiótico puede ser “ideal” en el papel, pero fracasar clínicamente si no alcanza concentraciones eficaces en el tejido infectado.
+
+Farmacodinamia (PD): “qué le hace el antibiótico a la bacteria”
+La farmacodinamia describe la relación entre la concentración del antibiótico y su efecto antimicrobiano.
+El parámetro central es la:
+Concentración Inhibitoria Mínima (CIM)
+* Es la menor concentración de antibiótico capaz de inhibir el crecimiento visible de una bacteria in vitro.
+* Es específica para cada combinación bacteria–antibiótico.
+?? Importante:
+La CIM es un valor de laboratorio, no una garantía clínica. Para que el tratamiento funcione, el antibiótico debe superar la CIM en el paciente real, no solo en la placa de Petri.
+
+?? Integración PK/PD: cómo se “mide” la eficacia antibiótica
+La integración PK/PD permite predecir la eficacia clínica relacionando la concentración alcanzada con la CIM. De esta relación surgen tres grandes parámetros PK/PD:
+
+1?? Tiempo por encima de la CIM (T > CIM)
+* Indica cuánto tiempo la concentración del antibiótico se mantiene por encima de la CIM.
+* Es el parámetro clave para antibióticos tiempo-dependientes.
+?? Ejemplo típico:
+* Betalactámicos.
+?? En estos antibióticos:
+* No importa tanto “qué tan alta” es la concentración,
+* sino cuánto tiempo permanece por encima de la CIM.
+
+2?? Concentración máxima / CIM (Cmax / CIM)
+* Relaciona el pico de concentración con la CIM.
+* Es el parámetro clave para antibióticos concentración-dependientes.
+?? Ejemplo típico:
+* Aminoglucósidos.
+?? En estos antibióticos:
+* Cuanto más alto el pico, mayor el efecto bactericida.
+* Se privilegian dosis altas con intervalos largos.
+
+3?? Área bajo la curva / CIM (ABC/CIM)
+* Integra concentración y tiempo.
+* Representa la exposición total del microorganismo al antibiótico.
+?? Es importante en:
+* algunos macrólidos,
+* fluoroquinolonas,
+* y otros antimicrobianos modernos.
+
+Clasificación funcional de los antibióticos según PK/PD
+Desde el punto de vista práctico, los antibióticos se agrupan en:
+* Antibióticos tiempo-dependientes
+? La eficacia depende de mantener la concentración por encima de la CIM.
+? Ej.: Betalactámicos.
+* Antibióticos concentración-dependientes
+? La eficacia depende de alcanzar picos altos de concentración.
+? Ej.: Aminoglucósidos.
+?? Esta clasificación explica:
+* por qué los betalactámicos se dan varias veces al día o en infusión continua,
+* y por qué los aminoglucósidos se administran en dosis únicas diarias altas.
+
+?? Mensaje clínico integrador
+En antimicrobianos, dosis e intervalo no son arbitrarios.
+Cada antibiótico tiene una lógica PK/PD propia que determina cómo debe administrarse para ser eficaz y seguro.
+
+3. Familia 1: Betalactámicos
+Los betalactámicos constituyen la familia de antibióticos más utilizada en medicina veterinaria debido a su alto índice terapéutico, es decir, una elevada eficacia antimicrobiana con baja toxicidad para el huésped. Esto se debe a que actúan sobre una estructura exclusiva de las bacterias: la pared celular.
+Desde el punto de vista PK/PD, los betalactámicos son el modelo clásico de antibióticos tiempo-dependientes, lo que condiciona profundamente su forma de uso clínico.
+
+Mecanismo de acción
+Los betalactámicos inhiben la síntesis de la pared celular bacteriana, específicamente del peptidoglicano, estructura esencial para mantener la integridad osmótica de la bacteria.
+* Se unen a las Proteínas Ligadoras de Penicilina (PBP).
+* Inhiben la transpeptidación del peptidoglicano.
+* La pared se vuelve defectuosa.
+* La bacteria sufre lisis osmótica y muere.
+Tipo de efecto:  Bactericida, pero solo sobre bacterias en fase de crecimiento activo.
+
+Farmacodinamia (PK/PD): antibióticos tiempo-dependientes
+En los betalactámicos, la eficacia clínica no depende de alcanzar picos altos, sino de mantener la concentración por encima de la CIM durante el mayor tiempo posible del intervalo interdosis.
+?? El parámetro PK/PD clave es:
+T > CIM
+* Idealmente, la concentración debe estar por encima de la CIM al menos el 50–70% del intervalo (y más aún en infecciones graves).
+Implicancia clínica directa:
+* Dosis fraccionadas.
+* Intervalos cortos.
+* En pacientes críticos: infusión continua o prolongada.
+
+Mecanismos de resistencia
+El principal mecanismo de resistencia bacteriana a los betalactámicos es la producción de ?-lactamasas, enzimas que:
+* rompen el anillo betalactámico,
+* inactivan el antibiótico antes de que llegue a la PBP.
+Otros mecanismos (menos frecuentes pero relevantes):
+* modificación de PBP,
+* disminución de permeabilidad (Gram negativos),
+* bombas de eflujo.
+
+ 3.1. PENICILINAS
+Clasificación funcional
+Las penicilinas se agrupan según su espectro de acción y su resistencia a ?-lactamasas.
+
+A. Penicilinas naturales
+(Grupo Penicilina G)
+Son las penicilinas más antiguas y de espectro reducido.
+* Excelente actividad frente a:
+o Gram positivos,
+o anaerobios,
+o espiroquetas.
+* Altamente sensibles a ?-lactamasas.
+Aspectos farmacológicos relevantes
+* Vida media corta.
+* Requieren formulaciones especiales para prolongar su acción.
+* Penicilina Procaínica y Benzatínica son suspensiones de absorción lenta (y, por lo tanto, “de larga acción”). 
+* Muy seguras.
+Fármacos y uso clínico
+FármacoCaracterísticas clínicasPenicilina G sódicaInicio rápido, vida media muy corta. Administración cada 6 a 8 horas. Uso IV/IM en infecciones agudas severas (ej. tétanos).Penicilina G procaínicaAbsorción lenta IM. Administración cada 24 horas Uso frecuente en bovinos y equinos (gurma, carbunco sintomático). Nunca IV.Penicilina G benzatínicaNiveles bajos pero prolongados. Administración cada 48 a 72 horas. Solo para bacterias muy sensibles (ej. Streptococcus). Nunca IV.
+B. Aminopenicilinas
+(Penicilinas de espectro ampliado)
+Las aminopenicilinas incorporan una modificación química que les permite atravesar porinas de bacterias Gram negativas, ampliando su espectro.
+* Activas frente a:
+o Gram positivos,
+o algunos Gram negativos (E. coli, Proteus),
+* Siguen siendo sensibles a ?-lactamasas.
+Fármacos clave
+Amoxicilina
+* Buena absorción oral.
+* Menos afectada por la presencia de alimento.
+* Uso muy extendido en pequeños animales.
+Ampicilina
+* Menor absorción oral que amoxicilina.
+* Uso frecuente IV en cirugía gastrointestinal.
+Asociación con inhibidores de ?-lactamasas
+Amoxicilina + ácido clavulánico
+* El clavulánico no es antibiótico.
+* Inhibe ?-lactamasas bacterianas.
+* Amplía el espectro frente a:
+o Staphylococcus productores de ?-lactamasa,
+o bacterias resistentes a aminopenicilinas simples.
+?? Uso clínico típico: Piodermas profundas, infecciones recurrentes, heridas contaminadas.
+
+C. Isoxazolilpenicilinas
+(Penicilinas antiestafilocócicas)
+Diseñadas específicamente para resistir las ?-lactamasas estafilocócicas.
+* Espectro estrecho.
+* Alta eficacia frente a Staphylococcus spp. productores de ?-lactamasas.
+* Poco activas frente a Gram negativos.
+Fármaco representativo
+FármacoUso clínico destacadoCloxacilinaMastitis bovina por Staphylococcus aureus (intramamaria). Terapia de secado.
+3.2. CEFALOSPORINAS
+Las cefalosporinas comparten el mecanismo de acción de las penicilinas, pero presentan:
+* mayor estabilidad frente a ?-lactamasas,
+* espectro progresivamente ampliado según la generación.
+?? Regla general: A mayor generación ? mayor actividad frente a Gram negativos y mayor resistencia enzimática.
+
+Generaciones relevantes en veterinaria
+GeneraciónFármacoUso clínico clave1ªCefalexina:“Gold standard” en piodermas caninas.1ªCefalotina:Profilaxis quirúrgica ortopédica.3ªCeftiofur:Enfermedad respiratoria bovina, metritis. Sin retiro en leche.3ªCefovecin:Una sola inyección SC dura 14 días (ideal en gatos).4ªCefquinome:Mastitis graves, neumonías severas en bovinos.?? Nota docente importante: El uso de cefalosporinas de 3ª y 4ª generación debe ser prudente, ya que ejercen alta presión selectiva y son consideradas críticas en salud pública.
+
+Mensaje integrador de los betalactámicos
+En los betalactámicos, la clave no es “cuánto administro”, sino “cada cuánto”.
+Mantener la concentración por encima de la CIM es más importante que alcanzar picos elevados.
+ 
+3.1. Penicilinas
+A. Penicilinas Naturales (Grupo Penicilina G)
+Espectro reducido: Gram Positivos y Anaerobios. Sensibles a Beta-lactamasas.
+FármacoVíasPatología y Especie (Ejemplos de Uso)Penicilina G SódicaIV, IMEquinos/Caninos: Tétanos o infecciones agudas donde se requiere nivel en sangre inmediato. (Vida media muy corta: 4 hs).Penicilina G ProcaínicaIM (Nunca IV)Bovinos: Carbunco sintomático (Mancha), Pietín. Equinos: Adenitis equina (Gurma).Penicilina G BenzatínicaIMCaninos: Profilaxis post-traumática. Niveles bajos pero duraderos (3-5 días). Solo para bacterias muy sensibles (Streptococcus).B. Aminopenicilinas (Amplio Espectro)
+Penetran la membrana de Gram Negativos. Sensibles a Beta-lactamasas.
+FármacoVíasPatología y Especie (Ejemplos de Uso)AmoxicilinaOral, SC, IMCaninos/Felinos: Infecciones Urinarias (Cistitis), Neumonías bacterianas, Heridas por mordedura.
+
+
+Bovinos: Neumonías en terneros.AmpicilinaIV, IM, OralCaninos: Profilaxis en cirugía gastrointestinal. Menor absorción oral que amoxicilina si hay comida.Amoxicilina + Ácido ClavulánicoOral, SCCaninos: Piodermas profundas o recurrentes (Staphylococcus). El Clavulánico inhibe a la beta-lactamasa bacteriana.C. Isoxazolilpenicilinas (Antiestafilocócicas)
+Diseñadas específicamente para resistir a las Beta-lactamasas de los estafilococos. Espectro reducido (solo Gram +).
+FármacoVíasPatología y Especie (Ejemplos de Uso)CloxacilinaIntramamaria, IM, OftálmicaBovinos (Tambo): Droga de elección para Mastitis clínica y sub-clínica por Staphylococcus aureus. Terapia de secado.
+
+
+Caninos: Piodermas resistentes (menos usado hoy día).3.2. Cefalosporinas
+Se clasifican por generaciones. A mayor generación, más actividad contra Gram Negativos y mayor resistencia a enzimas.
+GenFármacoVíasPatología y Especie (Ejemplos de Uso)1ªCefalexinaOralCaninos: El "Gold Standard" para Piodermas superficiales y profundas. Infecciones de tejidos blandos.1ªCefalotinaIV, IMCaninos/Felinos: Profilaxis quirúrgica traumatológica (hueso).3ªCeftiofurIM, SCBovinos/Porcinos: Enfermedad Respiratoria Bovina (Fiebre del Embarque), Metritis, Pietín. Ventaja: No tiene tiempo de retiro en leche.3ªCefovecinSCFelinos/Caninos: Infecciones de piel y urinarias. Ventaja: Una inyección dura 14 días (Ideal para gatos difíciles).4ªCefquinomeIM, IntramamariaBovinos: Mastitis graves por E. coli (Coliformes) y Staphylococcus. Neumonías severas. Penetra muy bien tejidos y resiste beta-lactamasas cromosómicas.
+Si bien los betalactámicos constituyen una de las familias más utilizadas por su elevada seguridad y eficacia, presentan algunas limitaciones clínicas relevantes. Su acción se ejerce preferentemente sobre bacterias en fase de crecimiento activo, por lo que su eficacia puede verse reducida en infecciones crónicas, abscesos encapsulados o focos con bajo metabolismo bacteriano.
+Además, presentan escasa penetración intracelular, lo que limita su utilidad frente a patógenos con localización predominantemente intracelular. Estas características justifican, en determinados escenarios clínicos, la elección de otras familias antimicrobianas con mejor distribución tisular o intracelular.
+TOXICIDAD Y REACCIONES ADVERSAS DE LOS BETALACTÁMICOS
+Los antibióticos betalactámicos se caracterizan por un amplio margen de seguridad, lo que explica su uso extendido en distintas especies animales. No obstante, su administración puede asociarse a reacciones adversas que deben ser conocidas y consideradas en la práctica clínica.
+Las reacciones de hipersensibilidad constituyen el efecto adverso más relevante de este grupo. Pueden manifestarse como reacciones cutáneas leves, urticaria, edema facial o, en casos poco frecuentes, como reacciones anafilácticas graves. Estas reacciones no son dosis-dependientes y pueden presentarse incluso tras exposiciones previas sin incidentes. En medicina veterinaria, se han descrito con mayor frecuencia en perros y caballos.
+A nivel gastrointestinal, la alteración de la microbiota normal puede provocar diarrea y disbiosis, especialmente tras tratamientos prolongados o de amplio espectro. En herbívoros, la administración de determinados betalactámicos por vía oral puede resultar particularmente riesgosa debido al impacto sobre la flora fermentativa.
+En tratamientos a dosis elevadas o en pacientes con compromiso renal, algunos betalactámicos pueden producir neurotoxicidad, manifestada como excitación, temblores o convulsiones. Este efecto se asocia principalmente a la acumulación del fármaco en el sistema nervioso central y resalta la importancia del ajuste de dosis en pacientes con insuficiencia renal.
+Las reacciones locales en el sitio de inyección, como dolor, inflamación o induración, pueden observarse especialmente con formulaciones intramusculares de acción prolongada.
+En general, los betalactámicos se consideran fármacos seguros cuando se utilizan de manera adecuada, respetando las dosis, las vías de administración y los intervalos recomendados. La identificación temprana de reacciones adversas y la correcta selección del antimicrobiano permiten minimizar riesgos y optimizar la respuesta terapéutica.
+
+
+4. Familia 2: Aminoglucósidos
+Antibióticos potentes contra Gram Negativos Aerobios, pero con alto riesgo de toxicidad.
+Mecanismo de Acción
+Ingresan a la bacteria (requiere oxígeno $\rightarrow$ No actúan en anaerobios) y se unen a la Subunidad 30S del Ribosoma, bloqueando la síntesis de proteínas o creando proteínas defectuosas.
+* Tipo: Bactericida Rápido.
+* Cinética: Concentración-dependiente.
+Farmacocinética Crítica: Absorción
+Los aminoglucósidos son moléculas muy polares (cationes policatiónicos).
+* Vía Oral: Su absorción es NULA (< 1%). No atraviesan la barrera intestinal.
+o Implicancia: Si usted da Gentamicina o Neomicina oral, el fármaco se queda en la luz del intestino y sale por la materia fecal. Sirve para "barrer" bacterias intestinales, pero jamás curará una neumonía o una infección urinaria por vía oral.
+* Vía Parenteral (IV, IM, SC): Se absorben rápido y se distribuyen al líquido extracelular.
+Toxicidad (La "Tríada")
+Se acumulan en oído y riñón.
+1. Nefrotoxicidad: Necrosis tubular aguda. (Monitorear orina y creatinina).
+2. Ototoxicidad: Sordera (irreversible) y problemas vestibulares (equilibrio).
+3. Bloqueo Neuromuscular: Potencian a los anestésicos miorrelajantes.
+Principales Drogas y Usos
+FármacoEspeciesPatología y Uso ClínicoGentamicinaEquinos, CaninosEquinos: Metritis, Infecciones respiratorias graves (con Penicilina), Septicemia en potrillos.
+
+
+Caninos: Otitis externas (gotas óticas). Uso sistémico restringido por daño renal.AmikacinaEquinos, CaninosEquinos: Lavajes intrauterinos, Inyecciones intra-articulares (artritis séptica). Bacterias resistentes a gentamicina.NeomicinaTodasOral: Tratamiento de Encefalopatía Hepática (para matar bacterias productoras de amonio en intestino).
+
+
+Tópica: Cremas y colirios (triple antibiótico).EstreptomicinaBovinosBovinos: Asociada a Penicilina (Estreptopen) para Leptospirosis, Actinobacilosis y Carbunco.
+5. Sinergismo clásico
+Una combinación frecuente en la clínica: Betalactámico + Aminoglucósido.
+* Ejemplo: Penicilina + Gentamicina.
+* Fundamento: El Betalactámico rompe la pared celular, facilitando la entrada del Aminoglucósido al interior de la bacteria para que llegue al ribosoma. Además, se amplía el espectro (Penicilina Gram+ y aminoglucósidos Gram -).
+* Precaución: No mezclar en la misma jeringa (inactivación química).
+
+6. Actividades de autoevaluación
+Caso 1: Mastitis Bovina
+Una vaca de tambo presenta mastitis aguda grave con fiebre. El cultivo indica Staphylococcus aureus productor de beta-lactamasa.
+1. ¿Por qué la Penicilina G no será efectiva?
+2. Justifique el uso de Cloxacilina (Isoxazolilpenicilina) o Cefquinome en este caso.
+Caso 2: El error de la vía oral
+Un propietario le cuenta que le dio una ampolla de Gentamicina "bebida" a su perro porque tenía tos (neumonía).
+1. Explique farmacocinéticamente por qué el perro no se curó de la neumonía.
+2. ¿Qué efecto (quizás indeseado) pudo haber tenido esa gentamicina en la flora intestinal del perro?
+Caso 3: Pioderma Canina
+Llega un perro con infección de piel. Usted receta Cefalexina.
+1. El dueño pregunta si puede dársela "una sola vez al día" a doble dosis para no olvidarse. Explique, basándose en que es un antibiótico Tiempo-Dependiente, por qué esto sería un error terapéutico.
+
+Bibliografía Sugerida:
+1. Riviere J.E & Papich M. Veterinary Pharmacology and Therapeutics. Section 14.
+2. Prescott, Baggot & Walker. Antimicrobial Therapy in Veterinary Medicine. (Referencia dorada para dosis y especies).
+
+??7. Resumen en 10 puntos
+• El triángulo de Davis permite entender PK/PD clínico de antibióticos.
+• Los antimicrobianos se clasifican por concentración, tiempo y mecanismos mixtos.
+• La selección depende de espectro, PK/PD y sitio de infección.
+• Betalactámicos actúan inhibiendo síntesis de pared ? bactericidas por tiempo.
+• Aminoglucósidos son concentración-dependientes y nefrotóxicos.
+• El sinergismo betalactámico + aminoglucósido es clínicamente relevante.
+• Factores del paciente afectan eficacia: pH, oxígeno, perfusión, biofilm.
+• Resistencia bacteriana condiciona fracaso terapéutico.
+• Interpretación correcta de CIM y puntos de corte es fundamental.
+• El uso racional evita resistencia y toxicidad.
+?? 8. Errores clínicos frecuentes
+• Usar aminoglucósidos en pacientes deshidratados o con falla renal.
+• Elegir betalactámicos para infecciones intracelulares estrictas.
+• No respetar intervalos de dosificación en antibióticos tiempo-dependientes.
+• Usar dosis bajas de aminoglucósidos (pérdida de eficacia, + resistencia).
+• No considerar la farmacodinamia al elegir antibiótico.
+• Interpretar mal la CIM (no es una dosis).
+• Administrar antibióticos sin diagnóstico presuntivo.
+• Combinar antibióticos sin necesidad (riesgo de antagonismo).
+• Suspender terapia antes del tiempo recomendado.
+• No ajustar dosis en neonatos o geriátricos.
+??9. Checklist de examen
+• ¿Puedo explicar el concepto PK/PD?
+• ¿Diferencio antibióticos concentración-dependientes vs tiempo-dependientes?
+• ¿Conozco mecanismos de acción de betalactámicos?
+• ¿Puedo describir efectos adversos de aminoglucósidos?
+• ¿Sé cuándo usar sinergismo clásico?
+• ¿Conozco cómo interpretar CIM y puntos de corte?
+• ¿Reconozco factores del paciente que afectan respuesta?
+• ¿Puedo elegir un antibiótico adecuado para neumonía, ITU, piel o abdomen?
+• ¿Sé ajustar dosis según función renal?
+• ¿Comprendo riesgos de resistencia por mal uso?
+?? 10. Bibliografía recomendada
+• Boothe DM. Small Animal Clinical Pharmacology and Therapeutics. Elsevier.
+• Papich MG. Saunders Handbook of Veterinary Drugs. Elsevier.
+• Riviere JE, Papich MG. Veterinary Pharmacology and Therapeutics. Wiley-Blackwell.
+• Guardabassi L, Jensen LB. Guide to Antimicrobial Use in Animals.
+• Giguère S et al. Antimicrobial Therapy in Veterinary Medicine.
+• Prescott JF. Beta-Lactam Antibiotics in Veterinary Medicine.
+
+
+SEMANA 6- MÓDULO 3: Quimioterapia Antiinfecciosa. Segunda parte: Antimicrobianos 2
+Tema Antimicrobianos segunda parte: Amplio Espectro y Especiales: Tetraciclinas, Macrólidos, Lincosamidas, Quinolonas, Sulfas, Fenicoles y Nitroimidazoles.
+Semana: 7
+
+1. Introducción y objetivos
+En la semana anterior vimos los "bactericidas clásicos" (Betalactámicos y Aminoglucósidos). Ahora abordaremos grupos que destacan por su capacidad de penetrar células (llegando a bacterias intracelulares) y tejidos difíciles (pulmón, próstata, hueso).
+Objetivos de la Semana:
+1. Mecanismos: Diferenciar inhibidores de la síntesis proteica, inhibidores de ADN y antimetabolitos.
+2. Seguridad del Paciente: Identificar riesgos graves como la condrotoxicidad en cachorros (Enrofloxacina), la disbiosis fatal en equinos (Macrólidos y Lincosamidas) y la neurotoxicidad (Metronidazol).
+3. Seguridad Alimentaria: Definir "Tiempo de Retiro" y reconocer fármacos prohibidos en producción.
+
+2. Familia 3: Tetraciclinas
+Antibióticos de amplio espectro.
+* Mecanismo: Inhiben la síntesis proteica (30S). Bacteriostáticos.
+* Espectro: Gram (+), Gram (-), y fundamentalmente Intracelulares (Rickettsia, Ehrlichia, Chlamydia, Mycoplasma).
+FármacoEspeciesVíasUsos y CaracterísticasOxitetraciclinaBovinos, Ovinos, PorcinosIM, IV, SCExisten formulaciones en solución (clorhidrato) y formulaciones L.A. (Larga Acción): Una dosis dura 3-4 días. Ideal para manejo de rodeo (Neumonía, Pietín, Anaplasmosis). La inyección es irritanteDoxiciclinaCaninos, FelinosOralLipofílica: Penetra BHE, próstata y ojo. Droga de elección para Ehrlichiosis y Hemobartonellosis. Se excreta por heces (segura en falla renal).TOXICIDAD (El efecto quelante):
+1. Dientes y Huesos: Manchan los dientes de amarillo en cachorros y afectan el crecimiento óseo (quelan el calcio).
+2. Cardiovascular: La inyección IV rápida de Oxitetraciclina en grandes animales puede causar colapso cardiovascular (hipotensión) por hipocalcemia aguda.
+
+3. Familia 4: Macrólidos
+Macrólidos de larga acción en producción animal
+Los macrólidos son antibióticos ampliamente utilizados en medicina veterinaria, en particular en producción animal, debido a su excelente distribución tisular y a la disponibilidad de formulaciones de larga acción que permiten esquemas terapéuticos simples y efectivos a nivel poblacional.
+Desde el punto de vista farmacológico, se caracterizan por una alta liposolubilidad, lo que les permite concentrarse en tejidos bien perfundidos (especialmente pulmón) y en células del sistema inmune, como macrófagos y neutrófilos. Este fenómeno explica su eficacia en infecciones respiratorias, aun cuando las concentraciones plasmáticas sean relativamente bajas.
+
+Mecanismo de acción
+• Inhiben la síntesis proteica bacteriana mediante unión a la subunidad 50S del ribosoma.
+• Impiden la elongación de la cadena peptídica.
+• Tipo de efecto: Bacteriostático (aunque pueden comportarse como bactericidas a altas concentraciones frente a ciertos patógenos).
+
+Aspectos farmacocinéticos y PK/PD relevantes
+• Presentan vida media prolongada y efecto posantibiótico.
+• Se concentran en tejido pulmonar y dentro de leucocitos (“efecto Caballo de Troya”).
+• Permiten intervalos largos de dosificación, en muchos casos con una sola aplicación.
+• Su eficacia se asocia al tiempo de exposición y a la exposición tisular, más que a picos plasmáticos elevados.
+?? Implicancia clínica:
+Son fármacos especialmente diseñados para el manejo de enfermedades respiratorias en rodeos, incluyendo tratamientos terapéuticos y metafilácticos.
+
+Principales macrólidos de uso veterinario
+FármacoEspeciesUsos clínicos y característicasTilosinaBovinos, Porcinos, CaninosInfecciones respiratorias. En perros se usa en diarrea crónica (colitis) por efecto antimicrobiano y antiinflamatorio, especialmente frente a Clostridium.AzitromicinaCaninos, FelinosAlta penetración intracelular. Se concentra en leucocitos. Útil en infecciones respiratorias altas y algunos patógenos intracelulares (Mycoplasma, Babesia gibsoni).TulatromicinaBovinos, PorcinosMacrólido de larga acción. Dosis única SC. Alta afinidad por pulmón y macrófagos. Droga clave en Enfermedad Respiratoria Bovina (ERB). Tiempo de retiro prolongado.GamitromicinaBovinosMacrólido semisintético con altísima concentración pulmonar. Indicada en ERB, especialmente en esquemas de metafilaxis. Dosis única.Tilmicosina?? SOLO BOVINOS (SC)Muy efectiva en ERB. Extremadamente cardiotóxica en porcinos, equinos y humanos. Riesgo mortal por inyección accidental. Uso estrictamente restringido.
+Toxicidad y contraindicaciones relevantes
+?? Advertencia de especie (crítica): Los macrólidos están contraindicados en equinos, conejos y otros herbívoros fermentadores, ya que pueden inducir una disbiosis intestinal grave, con proliferación de Clostridium y colitis fatal.
+Otros efectos adversos: 
+• Trastornos gastrointestinales (náuseas, diarrea). 
+• Eritromicina puede estimular receptores de motilina ? vómitos.
+• Interacciones medicamentosas por inhibición enzimática hepática (CYP).
+
+Nota de uso racional
+Si bien los macrólidos de larga acción ofrecen grandes ventajas operativas, su uso debe ser prudente y justificado, ya que ejercen alta presión de selección y son considerados antibióticos críticos desde la perspectiva de salud pública y resistencia antimicrobiana.
+?? No deben utilizarse como primera línea sin diagnóstico presuntivo ni como sustituto de un manejo sanitario adecuado.
+
+4. Familia 5: Lincosamidas
+Las lincosamidas son antibióticos químicamente relacionados con los macrólidos, con los que comparten mecanismo de acción y parte del espectro. Se destacan en la clínica veterinaria por su excelente penetración en tejidos difíciles, especialmente hueso, abscesos y cavidad oral, lo que las convierte en fármacos de elección en odontología y traumatología.
+Sin embargo, su uso está marcado por una contraindicación de especie crítica, que debe conocerse y respetarse estrictamente.
+
+Mecanismo de acción
+• Inhiben la síntesis proteica bacteriana mediante unión a la subunidad 50S del ribosoma.
+• Bloquean la elongación de la cadena peptídica.
+• Tipo de efecto: Bacteriostático.
+
+Espectro antimicrobiano
+• Gram positivos: Staphylococcus spp., Streptococcus spp.
+• Anaerobios estrictos: Bacteroides, Clostridium.
+• Protozoarios: excelente actividad frente a Toxoplasma gondii y Neospora caninum.
+• ? NULA actividad frente a Gram negativos aerobios (ej. E. coli, Pseudomonas).
+?? Punto clave de examen: Las lincosamidas no deben elegirse ante infecciones causadas por bacilos Gram negativos aerobios, aun cuando la localización sea favorable (hueso o absceso).
+
+Principales fármacos y usos clínicos
+FármacoEspeciesVíasUsos clínicos destacadosClindamicinaCaninos, FelinosOral, IV, IMOdontología: infecciones dentales, periodontitis y gingivitis (excelente penetración en hueso alveolar).
+
+Traumatología: osteomielitis crónica.
+
+Protozoarios: tratamiento de elección para toxoplasmosis y neosporosis.LincomicinaPorcinos, AvesOral, IMDisentería porcina. Neumonías por Mycoplasma.PirlimicinaBovinosIntramamariaTratamiento de mastitis clínica y subclínica, especialmente por Staphylococcus.
+ADVERTENCIA DE TOXICIDAD (CONTRAINDICACIÓN ABSOLUTA)
+Las lincosamidas están CONTRAINDICADAS en:
+• Equinos
+• Conejos
+• Hámsteres
+• Rumiantes con rumen funcional (vía oral)
+Fundamento fisiopatológico: Estos animales dependen de una flora intestinal anaerobia estricta para la digestión. Las lincosamidas alteran severamente esta microbiota, favoreciendo el sobrecrecimiento de Clostridium difficile, lo que conduce a:
+• Disbiosis intestinal severa
+• Colitis hemorrágica fulminante
+• Muerte en pocos días
+?? Regla clínica de oro: 
+?? Nunca prescribir lincosamidas en herbívoros fermentadores, aun cuando la infección “parezca ideal” desde el punto de vista del espectro.
+
+5. Familia 6: Fenicoles
+Los fenicoles son antibióticos inhibidores de la síntesis proteica, relacionados estructuralmente con el cloranfenicol. Se caracterizan por su amplio espectro, excelente penetración tisular y un perfil regulatorio muy diferente según la droga y la especie.
+
+Mecanismo de acción
+• Inhiben la síntesis proteica bacteriana mediante la unión a la subunidad 50S del ribosoma.
+• Bloquean la actividad de la peptidil-transferasa, impidiendo la formación del enlace peptídico.
+• Tipo de efecto: Bacteriostático (puede ser bactericida a altas concentraciones frente a algunos patógenos).
+
+Espectro antimicrobiano
+• Gram positivos y Gram negativos.
+• Bacterias respiratorias de importancia en producción animal (Pasteurella, Mannheimia, Histophilus).
+• Buena actividad frente a Bacteroides y Clostridium.
+
+Principales fármacos y usos clínicos
+FármacoSituación regulatoriaCaracterísticas clínicasCloranfenicol? PROHIBIDO en animales de consumoEn humanos puede causar anemia aplásica fatal (idiosincrática e impredecible).
+
+?? Uso exclusivo en mascotas.
+?? Excelente penetración en SNC, ojo y próstata.
+?? Útil en infecciones profundas cuando no hay alternativas más seguras.Florfenicol?? Aprobado en bovinos y porcinosDerivado sintético del cloranfenicol.
+?? No produce anemia aplásica en humanos.
+?? Excelente para neumonías bacterianas, pietín y septicemias en producción animal.
+?? Amplio margen de seguridad.
+Toxicidad y precauciones
+Cloranfenicol
+• Riesgo ocupacional humano: absorción cutánea y por inhalación.
+• Uso con guantes y extrema precaución.
+• Puede causar depresión medular reversible dosis-dependiente en animales.
+Florfenicol
+• Perfil de seguridad elevado.
+• Puede causar:
+– dolor en el sitio de inyección,
+– disminución transitoria del consumo de alimento.
+
+Mensaje integrador de los fenicoles
+• Son excelentes antibióticos de síntesis proteica con gran penetración tisular.
+• El cloranfenicol queda restringido a mascotas por razones de salud pública.
+• El florfenicol es una herramienta clave y segura en producción animal.
+
+6. Familia 7: Fluoroquinolonas
+Las fluoroquinolonas son antibióticos bactericidas potentes, de amplio espectro, ampliamente utilizados en medicina veterinaria. Su elevada eficacia, excelente biodisponibilidad oral y buena penetración tisular las convierten en drogas muy atractivas desde el punto de vista clínico.
+Sin embargo, su uso debe ser estrictamente racional, ya que presentan toxicidades graves dependientes de especie y edad, y ejercen alta presión selectiva sobre la resistencia bacteriana.
+
+Mecanismo de acción
+• Inhiben enzimas esenciales para la replicación del ADN bacteriano:
+  – ADN girasa (topoisomerasa II)
+  – Topoisomerasa IV
+• Impiden el superenrollamiento y la separación de las hebras de ADN.
+• Tipo de efecto: Bactericida rápido.
+
+Farmacodinamia (PK/PD)
+Las fluoroquinolonas son antibióticos concentración-dependientes.
+?? Parámetros PK/PD clave:
+• Cmax / CIM
+• AUC / CIM
+Implicancias clínicas:
+• Importa alcanzar picos altos, no mantener niveles constantes.
+• Se administran 1 vez por día.
+• Dosis subóptimas favorecen resistencia bacteriana.
+Espectro antimicrobiano
+• Gram negativos aerobios: E. coli, Klebsiella, Proteus, Pseudomonas.
+• Gram positivos: Staphylococcus spp. (actividad variable frente a Streptococcus).
+• Bacterias atípicas: Mycoplasma.
+• ? Actividad limitada frente a anaerobios estrictos.
+?? Punto docente clave:
+Las fluoroquinolonas NO son antibióticos de primera línea para infecciones simples si existen alternativas más seguras.
+
+Principales fármacos y usos clínicos
+FármacoEspeciesUsos clínicos y toxicidad específicaEnrofloxacinaCaninos, Felinos, Grandes animalesUso clínico: infecciones urinarias complicadas, piodermas profundas, infecciones respiratorias graves.
+
+?? Cachorros: CONTRAINDICADA durante el crecimiento ? condrotoxicidad (daño del cartílago articular).
+
+?? Gatos: dosis altas (> 5 mg/kg/día) pueden causar retinopatía aguda y ceguera irreversible.MarbofloxacinaCaninos, FelinosFluoroquinolona de uso frecuente en Argentina.
+?? Excelente actividad frente a Gram negativos y Staphylococcus.
+?? Buena distribución tisular y urinaria.
+?? Mismas precauciones en animales jóvenes (riesgo articular).
+?? En gatos: menor riesgo retiniano que enrofloxacina, pero no exenta de precaución.
+Toxicidad relevante (dependiente de especie y edad)
+1. Condrotoxicidad
+• Afecta animales jóvenes en crecimiento.
+• Daño del cartílago articular potencialmente irreversible.
+• Evitar en cachorros salvo situaciones excepcionales.
+2. Neurotoxicidad
+• Excitación del SNC, temblores o convulsiones.
+• Mayor riesgo en pacientes con antecedentes neurológicos.
+3. Retinopatía felina
+• Principalmente asociada a enrofloxacina.
+• Lesión irreversible de la retina ? ceguera.
+
+Uso racional y mensaje clínico clave
+• Son antibióticos críticos en medicina veterinaria y salud pública.
+• Deben reservarse para:
+– infecciones graves,
+– bacterias multirresistentes,
+– fallas terapéuticas documentadas.
+?? Regla de oro:
+?? Si una infección puede tratarse con un betalactámico o una cefalosporina, NO debería tratarse con una fluoroquinolona.
+
+7. Familia 8: Sulfonamidas y Trimetoprim (tms)
+Las sulfonamidas son antibióticos antimetabolitos que interfieren con la síntesis de ácido fólico bacteriano. Utilizadas solas tienen efecto bacteriostático, pero en asociación con trimetoprim se convierten en una combinación bactericida clásica.
+
+Mecanismo de acción (bloqueo secuencial)
+• Las sulfonamidas inhiben la dihidropteroato sintetasa, impidiendo la formación de ácido dihidrofólico.
+• El trimetoprim inhibe la dihidrofolato reductasa, bloqueando la conversión a ácido tetrahidrofólico.
+?? Resultado: bloqueo secuencial de la síntesis de ácido fólico, esencial para la síntesis de ADN bacteriano.
+?? Clave conceptual:
+Las bacterias no pueden captar ácido fólico del medio, deben sintetizarlo ? alta selectividad.
+
+Tipo de efecto
+• Sulfonamidas solas: Bacteriostáticas.
+• Sulfonamidas + Trimetoprim (TMS): Bactericidas.
+
+Espectro antimicrobiano
+• Gram positivos y Gram negativos.
+• Coccidios (Eimeria, Isospora).
+• Algunas bacterias intracelulares (Nocardia).
+?? Limitaciones:
+• Alta tasa de resistencia adquirida.
+• Actividad reducida en presencia de pus o tejido necrótico (competencia con PABA).
+
+Principales fármacos
+• Sulfametoxazol + Trimetoprim (SMX–TMP).
+• Sulfadiazina + Trimetoprim.
+Uso frecuente en:
+• infecciones urinarias, respiratorias, digestivas, coccidiosis.
+
+Toxicidad clásica en caninos (idiosincrática)
+La toxicidad no es dosis-dependiente y puede aparecer incluso con dosis terapéuticas normales.
+1. Queratoconjuntivitis seca (KCS)
+• Destrucción inmunomediada de las glándulas lagrimales.
+• Ojo seco, dolor ocular, secreción mucosa.
+• Puede ser irreversible.
+2. Reacciones inmunomediadas sistémicas
+• Poliartritis.
+• Anemia hemolítica.
+• Trombocitopenia.
+• Fiebre medicamentosa.
+• Riesgo aumentado en Doberman.
+
+Otras reacciones adversas
+• Vómitos y diarrea.
+• Hepatotoxicidad.
+• Cristaluria (raro con hidratación adecuada).
+
+Precauciones clínicas
+• Evitar tratamientos prolongados sin control.
+• Monitorear:
+– lágrimas (test de Schirmer),
+– hemograma,
+– enzimas hepáticas.
+• Usar con precaución en:
+– caninos predispuestos,
+– tratamientos > 7–10 días.
+
+Mensaje integrador de las sulfonamidas
+• Son antibióticos económicos y versátiles, pero no inocuos.
+• La combinación con trimetoprim mejora eficacia, pero aumenta riesgos.
+• En caninos, siempre deben usarse con criterio y monitoreo.
+
+8. Familia 9: Nitroimidazoles
+Los nitroimidazoles son antimicrobianos con acción selectiva sobre bacterias anaerobias estrictas y protozoarios, ampliamente utilizados en pequeños animales, pero estrictamente prohibidos en animales de consumo.
+
+Fármaco patrón
+• Metronidazol.
+
+Mecanismo de acción
+• En condiciones de anaerobiosis, el grupo nitro del fármaco es reducido por enzimas bacterianas.
+• Se generan radicales libres citotóxicos que:
+– rompen el ADN bacteriano,
+– inhiben la síntesis de ácidos nucleicos,
+– provocan muerte celular.
+?? Clave conceptual:
+Solo actúa en ambientes con bajo potencial redox ? ineficaz frente a aerobios estrictos.
+
+Tipo de efecto
+• Bactericida frente a anaerobios.
+• Antiprotozoario.
+
+Espectro antimicrobiano
+• Bacterias anaerobias estrictas:
+– Clostridium spp.
+– Bacteroides spp.
+• Protozoarios:
+– Giardia spp.
+– Entamoeba spp.
+
+Farmacocinética relevante
+• Excelente absorción oral.
+• Alta liposolubilidad ? gran distribución tisular.
+• Penetra:
+– sistema nervioso central,
+– cavidad oral y tejidos dentales,
+– abscesos anaerobios.
+
+Usos clínicos
+Pequeños animales (caninos y felinos):
+• Giardiasis.
+• Diarreas crónicas asociadas a disbiosis anaerobia.
+• Infecciones dentales y periodontales.
+• Infecciones intraabdominales anaerobias.
+Equinos:
+• Pleuropneumonía y procesos anaerobios profundos.
+• Vía oral o rectal (cuando la vía oral no es posible).
+
+Toxicidad (dependiente de dosis y duración)
+?? Neurotoxicidad central
+• Ataxia.
+• Síndrome vestibular (cabeza ladeada, nistagmo).
+• Letargia, temblores, convulsiones (casos severos).
+?? Importante:
+• Generalmente reversible al suspender el tratamiento.
+• Riesgo aumenta con:
+– dosis altas,
+– tratamientos prolongados,
+– insuficiencia hepática.
+
+Contraindicaciones y advertencias
+?? ANIMALES DE CONSUMO: PROHIBIDO
+• Potencial carcinogénico y mutagénico.
+• Tolerancia cero en carne, leche y derivados.
+?? Usar con precaución en:
+• hepatopatías,
+• tratamientos largos,
+• combinación con otros fármacos neurotóxicos.
+
+Mensaje integrador de los nitroimidazoles
+• Son fármacos muy eficaces contra anaerobios y protozoarios.
+• Su uso debe ser racional y dirigido, no empírico.
+• La neurotoxicidad es el principal límite clínico.
+• En producción animal: nunca usar.
+
+9. Seguridad alimentaria: el tiempo de retiro
+* Definición: Tiempo que debe transcurrir entre la última dosis y el momento en que el animal (o leche/huevos) puede enviarse a faena/consumo.
+* Fármacos PROHIBIDOS (Tolerancia Cero):
+1. Cloranfenicol.
+2. Nitroimidazoles (Metronidazol).
+3. Nitrofuranos.
+
+10. Actividades de autoevaluación
+Caso 1: El Error Fatal
+???? Un propietario le dio un sobrante de "pastillas para la infección de muelas" (Clindamicina) a su conejo mascota que tenía un absceso. El conejo murió a los 3 días con diarrea hemorrágica.
+1. ???? Explique el mecanismo fisiopatológico de esta muerte. ¿Qué bacteria proliferó en el intestino del conejo?
+Caso 2: Osteomielitis Canina
+Llega un perro con una fractura expuesta vieja, infectada (osteomielitis).
+1. ???? Usted elige Clindamicina. ¿Por qué es una excelente elección farmacocinética para el hueso?
+2. ????? Si el cultivo diera Pseudomonas (Gram negativo aerobio), ¿serviría la Clindamicina? (Revise el espectro de lincosamidas).
+Caso 3: Giardiasis Rebelde
+Un perro tratado con Metronidazol vuelve con ataxia y cabeza ladeada.
+1. ???? ¿Qué efecto adverso es? ¿Es reversible?
+Caso 4: Cachorro con Neumonía
+Cachorro Ovejero Alemán de 3 meses.
+1. ¿Por qué evita la Enrofloxacina? (Riesgo articular).
+2. ???? ¿Por qué evita la Tetraciclina? (Riesgo dental/óseo).
+
+11.?? Resumen en 10 puntos
+• Los antimicrobianos pueden ser bacteriostáticos o bactericidas, según su mecanismo y concentración.
+• La elección debe basarse en especie, tejido diana, germen probable y seguridad.
+• Los inhibidores de síntesis proteica (macrólidos, lincosamidas, fenicoles) actúan sobre a subunidad 50S.
+• La penetración tisular es clave en infecciones óseas, abscesos y SNC.
+• Las fluoroquinolonas son bactericidas potentes, pero con toxicidades específicas de especie y edad.
+• Las sulfonamidas presentan toxicidad idiosincrática en caninos.
+• Los nitroimidazoles son esenciales para anaerobios y protozoarios, pero están prohibidos en animales de consumo.
+• El uso inadecuado favorece la resistencia antimicrobiana.
+• Nunca reemplazan al criterio clínico ni al diagnóstico presuntivo.
+• La farmacología debe integrarse siempre con la fisiopatología de la enfermedad.
+
+12. ?? Errores clínicos frecuentes
+• Usar antibióticos contraindicados según la especie.
+• No considerar el tejido a tratar (hueso, absceso, SNC).
+• Elegir el fármaco sin pensar en el germen probable.
+• Ignorar efectos adversos dependientes de edad o especie.
+• Usar antimicrobianos prohibidos en animales de consumo.
+• Dosificar incorrectamente (intervalos o duración).
+• No suspender el tratamiento ante signos de toxicidad.
+• Usar antimicrobianos como “comodín” sin indicación clara.
+• Favorecer resistencia por tratamientos innecesarios.
+• No educar al propietario sobre el uso responsable.
+
+13. ?? Checklist de examen
+? ¿Puedo justificar la elección del antibiótico según el caso clínico?
+? ¿Conozco mecanismo de acción y espectro de cada familia?
+? ¿Reconozco contraindicaciones por especie o edad?
+? ¿Identifico efectos adversos clásicos?
+? ¿Entiendo el concepto de resistencia antimicrobiana?
+? ¿Sé qué fármacos están prohibidos en animales de consumo?
+? ¿Integro farmacología con fisiopatología?
+
+14. ?? Bibliografía recomendada
+• Boothe DM. Small Animal Clinical Pharmacology and Therapeutics. Elsevier.
+• Papich MG. Saunders Handbook of Veterinary Drugs. Elsevier.
+• Riviere JE, Papich MG. Veterinary Pharmacology and Therapeutics. Wiley-Blackwell.
+• Prescott JF. Antimicrobial Therapy in Veterinary Medicine.
+• Giguère S et al. Antimicrobial Therapy in Veterinary Medicine.
+• Guardabassi L, Jensen LB. Guide to Antimicrobial Use in Animals.
+
+
+
+?? TRABAJO PRÁCTICO Nº 7
+Carrera: Veterinaria
+Asignatura: Farmacología y terapéutica
+Semana: 6
+Tema: Antimicrobianos I – PK/PD, resistencia antimicrobiana y selección racional
+Duración: 2–3 horas
+Modalidad: Presencial – trabajo grupal + discusión guiada
+
+I. Fundamentación del Trabajo Práctico
+El uso de antimicrobianos constituye una de las intervenciones farmacológicas más frecuentes en medicina veterinaria y, a la vez, una de las de mayor impacto sanitario global.
+La eficacia clínica de un antimicrobiano no depende únicamente de su espectro de acción, sino de la adecuada integración entre farmacocinética (PK), farmacodinamia (PD), el sitio de infección, la especie animal y el estado del paciente.
+El desconocimiento de estos principios favorece el fracaso terapéutico, la aparición de toxicidad y el desarrollo de resistencia antimicrobiana, un problema crítico abordado desde el enfoque de Una Salud (One Health).
+Este trabajo práctico busca que el estudiante aplique criterios PK/PD reales a la selección racional de antimicrobianos, superando el enfoque meramente memorístico del espectro antibacteriano.
+
+II. Objetivos
+Objetivo general
+• Aplicar principios PK/PD y criterios clínicos para la selección racional de antimicrobianos en medicina veterinaria.
+Objetivos específicos
+Al finalizar el trabajo práctico, el estudiante será capaz de:
+• Diferenciar antimicrobianos tiempo-dependientes y concentración-dependientes.
+• Interpretar parámetros PK/PD relevantes (T>CMI, Cmax/CMI, AUC/CMI).
+• Seleccionar antimicrobianos según sitio de infección y especie animal.
+• Reconocer mecanismos de resistencia antimicrobiana asociados al uso inadecuado.
+• Integrar el concepto de Una Salud en la prescripción antimicrobiana veterinaria.
+
+III. Contenidos involucrados
+• Conceptos generales de terapia antimicrobiana.
+• Bactericidas vs bacteriostáticos.
+• Antimicrobianos tiempo-dependientes y concentración-dependientes.
+• Parámetros PK/PD:
+* T>CMI
+* Cmax/CMI
+* AUC/CMI
+• Resistencia antimicrobiana: mecanismos básicos.
+• Enfoque Una Salud (One Health).
+• Criterios generales de selección antimicrobiana:
+* Especie
+* Sitio de infección
+* Paciente
+* Impacto sanitario y productivo
+
+IV. Actividades prácticas
+
+?? Actividad 1 – Clasificación PK/PD
+Clasifique los siguientes grupos antimicrobianos según su patrón PK/PD predominante:
+GrupoTiempo-dependienteConcentración-dependiente?-lactámicos??Aminoglucósidos??Fluoroquinolonas??Macrólidos??Consigna adicional:
+Indique cuál es el parámetro PK/PD más relevante en cada caso (T>CMI, Cmax/CMI o AUC/CMI).
+
+?? Actividad 2 – Interpretación PK/PD
+Se dispone de los siguientes datos simplificados:
+• Antimicrobiano A: tiempo-dependiente
+• Antimicrobiano B: concentración-dependiente
+Consignas:
+1. ¿Cuál se beneficia más de aumentar la frecuencia de administración?
+2. ¿Cuál se beneficia más de aumentar la dosis manteniendo el intervalo?
+3. ¿Cuál presenta mayor efecto postantibiótico?
+
+?? Actividad 3 – Resistencia antimicrobiana
+Analice las siguientes situaciones y responda:
+a) Uso de antibióticos de amplio espectro sin diagnóstico.
+b) Subdosificación sistemática en rodeos bovinos.
+c) Uso prolongado de antimicrobianos en animales sanos como profilaxis.
+Consignas:
+• Identifique el tipo de presión selectiva generada.
+• Relacione cada situación con la aparición de resistencia.
+• Indique si el impacto trasciende la medicina veterinaria.
+
+V. Situaciones problema integradoras
+
+?? Caso clínico 1 – Canino con infección urinaria
+Canino hembra, 6 años, 20 kg.
+Diagnóstico: Infección urinaria bacteriana no complicada.
+Consignas:
+a) ¿Qué características debe tener el antimicrobiano elegido para este sitio de infección?
+b) ¿Qué vía de eliminación es deseable?
+c) ¿Es preferible un antimicrobiano tiempo o concentración-dependiente?
+d) Justifique su elección desde PK/PD.
+
+?? Caso clínico 2 – Bovino con neumonía
+Ternero de 200 kg con neumonía bacteriana.
+Contexto: Producción intensiva.
+Consignas:
+a) ¿Qué factores PK/PD cobran mayor relevancia en infecciones respiratorias?
+b) ¿Qué impacto tiene la resistencia antimicrobiana en sistemas productivos?
+c) Relacione la elección del antimicrobiano con el concepto de Una Salud.
+
+?? Caso clínico 3 – Felino con infección sistémica
+Gato adulto con infección bacteriana sistémica.
+Consignas:
+a) ¿Qué precauciones farmacológicas deben considerarse en felinos?
+b) ¿Por qué el uso empírico de ciertos antimicrobianos puede ser riesgoso en esta especie?
+c) Relacione toxicidad, PK y selección racional.
+
+VI. Consigna integradora final – Una Salud
+Explique brevemente por qué el uso racional de antimicrobianos en medicina veterinaria es un componente clave del enfoque Una Salud, integrando:
+• PK/PD
+• Resistencia antimicrobiana
+• Impacto en salud humana y ambiental
+
+VII. Criterios de evaluación
+Se evaluará:
+? Comprensión de conceptos PK/PD
+? Capacidad de razonamiento clínico
+? Integración con resistencia antimicrobiana
+? Aplicación del enfoque Una Salud
+? Uso correcto de terminología farmacológica
+
+I. Fundamentación
+Luego de analizar en el TP7 los principios PK/PD y la resistencia antimicrobiana, este trabajo práctico profundiza en las principales familias de antimicrobianos utilizadas en medicina veterinaria, integrando:
+* mecanismo de acción
+* tipo de actividad (bactericida/bacteriostática)
+* perfil PK/PD
+* indicaciones clínicas
+* limitaciones y toxicidad
+* criterios racionales de selección
+El objetivo es que el estudiante pueda decidir cuándo usar cada familia, evitando elecciones basadas exclusivamente en el espectro amplio.
+
+II. Objetivos
+Al finalizar el TP el estudiante será capaz de:
+• Clasificar las principales familias antimicrobianas.
+• Integrar mecanismo de acción con perfil PK/PD.
+• Seleccionar antimicrobianos según sitio de infección y especie.
+• Reconocer riesgos toxicológicos específicos.
+• Aplicar criterios racionales dentro del enfoque Una Salud.
+
+III. Actividad 1 – Cuadro comparativo integral
+Complete el siguiente cuadro:
+FamiliaMecanismo de acciónBactericida / EstáticaPK/PD predominanteSitios de uso frecuenteRiesgos principales?-lactámicosAminoglucósidosTetraciclinasMacrólidosLincosamidasFluoroquinolonasSulfas potenciadasFenicolesNitroimidazoles
+IV. Actividad 2 – Selección según sitio de infección
+Indique qué familias serían apropiadas (y cuáles no) en:
+a) Infección urinaria baja en canino
+b) Neumonía en bovino
+c) Absceso profundo en felino
+d) Infección por patógeno intracelular
+e) Diarrea bacteriana con componente anaerobio
+Justifique en función de:
+• penetración tisular
+• eliminación
+• PK/PD
+• especie animal
+
+V. Actividad 3 – Bactericida vs Bacteriostático
+Responda:
+1. ¿En qué situaciones clínicas podría preferirse un bactericida?
+2. ¿Cuándo podría ser suficiente un bacteriostático?
+3. ¿Influye el estado inmunológico del paciente?
+
+VI. Casos clínicos integradores
+
+?? Caso 1 – Infección urinaria no complicada
+Canino adulto con cistitis bacteriana.
+Consignas:
+a) Seleccione familia antimicrobiana adecuada.
+b) Justifique desde PK/PD y eliminación.
+c) Indique qué familias evitaría y por qué.
+
+?? Caso 2 – Neumonía en sistema intensivo
+Bovino de engorde con complejo respiratorio.
+Consignas:
+a) Seleccione familia apropiada.
+b) Justifique desde penetración pulmonar y logística productiva.
+c) Analice impacto en resistencia antimicrobiana.
+
+?? Caso 3 – Infección sistémica en felino
+Gato adulto con fiebre y sospecha bacteriana sistémica.
+Consignas:
+a) ¿Qué familias requieren especial precaución?
+b) ¿Qué factores PK interespecíficos debe considerar?
+c) ¿Por qué no debe extrapolarse dosis del perro?
+
+?? Caso 4 – Queratoconjuntivitis infecciosa bovina (Moraxella bovis)
+Situación clínica
+Bovino de carne, 18 meses, en sistema extensivo.
+?? Cuadro clínico:
+* Epífora intensa
+* Blefaroespasmo
+* Opacidad corneal central
+* Fotofobia
+* Disminución del consumo
+?? Diagnóstico presuntivo:
+Queratoconjuntivitis infecciosa bovina (QIB).
+?? Agente etiológico probable:
+Moraxella bovis.
+?? Condición del sistema:
+* Dificultad para realizar tratamientos tópicos repetidos.
+* Se decide tratamiento sistémico.
+
+Consignas – Caso 4
+a) Seleccione una familia antimicrobiana sistémica adecuada para este caso.
+b) Justifique la elección considerando:
+* penetración al globo ocular
+* perfil PK/PD
+* especie animal
+c) Indique al menos dos familias que NO serían adecuadas y explique por qué.
+d) Explique por qué no alcanza con elegir un antibiótico “activo in vitro”.
+
+VII. Consigna final integradora
+Explique por qué el uso indiscriminado de antibióticos de amplio espectro:
+• No garantiza mejor eficacia clínica
+• Favorece resistencia antimicrobiana
+• Impacta en el enfoque Una Salud
+GUÍA DE ESTUDIO FARMACOLOGÍA Y TERAPÉUTICA
+Fernando Mañas 
+-2026-
+
+2
+
+

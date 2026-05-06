@@ -1,0 +1,631 @@
+
+	
+
+
+Contenido
+SEMANA 7- MÓDULO 3: Quimioterapia Antiinfecciosa. Tercera parte: Antiparasitarios internos y endectocidas	3
+1. Introducción: el desafío de la toxicidad selectiva	3
+2. Grupo 1: Benzimidazoles	4
+3. Grupo 2: Imidazotiazoles	6
+4. Grupo 3: Tetrahidropirimidinas	7
+5. Grupo 4: Piperazina	8
+6. Grupo 5: Lactonas macrocíclicas (endectocidas)	9
+7. Grupo 6: Closantel (endectocida no lactónico)	11
+8. Grupo 7: Drogas útiles contra céstodos (tenias)	12
+9. Grupo 8: Fármacos fasciolicidas	14
+10. El problema de la resistencia antihelmíntica y el concepto de “refugio”	17
+11. Actividades de autoevaluación	19
+12. Resumen en 10 puntos	20
+13. Errores clínicos frecuentes	20
+14. Checklist de examen	21
+15. Bibliografía recomendada	21
+?? TRABAJO PRÁCTICO Nº 7	22
+
+
+
+SEMANA 7- MÓDULO 3: Quimioterapia Antiinfecciosa. Tercera parte: Antiparasitarios internos y endectocidas
+Tema: Antiparasitarios Internos (Nematodicidas, Cestodicidas y Fasciolicidas) y Endectocidas
+Semana: 8
+
+1. Introducción: el desafío de la toxicidad selectiva
+A diferencia de las bacterias, los parásitos helmintos (gusanos) son organismos eucariotas complejos, con estructuras celulares y vías metabólicas similares a las del hospedador.
+Por este motivo, la farmacología antiparasitaria enfrenta un problema central: cómo matar al parásito sin dañar al animal.
+En este contexto, existen dos grandes desafíos actuales:
+?? 1. Resistencia antihelmíntica
+En rumiantes y equinos, el uso repetido, subdosificado o sin diagnóstico ha favorecido la selección de parásitos resistentes, especialmente frente a:
+* Benzimidazoles
+* Lactonas macrocíclicas
+Hoy existen poblaciones parasitarias que sobreviven a múltiples familias farmacológicas, lo que obliga a un uso racional y estratégico.
+2. Toxicidad genética (mutación MDR1)
+Algunas razas caninas (Collie, Pastor Australiano, Shetland, Border Collie) presentan mutaciones del gen MDR1, responsable de una bomba de eflujo (P-glicoproteína) que protege el sistema nervioso central.
+?? En estos animales, fármacos seguros en otras razas pueden atravesar la barrera hematoencefálica y causar neurotoxicidad grave o muerte.
+
+?? OBJETIVOS DE LA SEMANA
+Al finalizar esta unidad, el estudiante deberá ser capaz de:
+1. Diferenciar parálisis flácida (lactonas macrocíclicas, piperazina) de parálisis espástica (levamisol, pirantel).
+2. Reconocer fármacos que actúan por daño energético o estructural (benzimidazoles y fasciolicidas).
+3. Seleccionar el antiparasitario adecuado para Fasciola hepatica según el estadio (adulto vs. inmaduro).
+4. Comprender la mutación MDR1 y su implicancia clínica, especialmente con ivermectina y derivados
+
+2. Grupo 1: Benzimidazoles 
+Antihelmínticos de amplio espectro, ampliamente utilizados en producción animal y en clínica de pequeños animales.
+
+Mecanismo de acción
+Se unen selectivamente a la tubulina del parásito, impidiendo la formación de microtúbulos.
+Como consecuencia, el helminto no puede absorber glucosa ni mantener su metabolismo energético, por lo que muere progresivamente por inanición.
+? Son ovicidas, una ventaja clave en los programas de control parasitario.
+
+?? Farmacocinética clave (prodrogas y metabolitos activos)
+Muchos benzimidazoles se administran como prodrogas, que luego son transformadas en el organismo del hospedador en metabolitos activos, responsables del efecto terapéutico.
+Este aspecto explica:
+• Diferencias de eficacia entre especies
+• Mejor biodisponibilidad sistémica
+• Uso estratégico en producción animal
+
+?? Relación prodroga – metabolito activo
+Prodroga / FármacoMetabolito activoComentario claveAlbendazolAlbendazol sulfóxido (Ricobendazol)El ricobendazol es el verdadero principio activo sistémico. Excelente difusión tisular.NetobiminAlbendazol sulfóxido (Ricobendazol)Prodroga diseñada para mejorar absorción oral en rumiantes.FebantelFenbendazol ? OxfendazolTriple conversión metabólica que amplía espectro y duración.
+Espectro general
+* Nemátodos
+* Céstodos
+* Tremátodos (dependiendo del fármaco y estadio)
+
+?? PRINCIPALES FÁRMACOS Y METABOLITOS
+FármacoEspeciesVíasEspectro y característicasAlbendazolBovinos, OvinosOral, intraruminalAmplio espectro: Nematodos, cestodos y Fasciola adulta. 
+?? Teratogénico en los primeros 45 días de gestación.Ricobendazol (Albendazol sulfóxido)Bovinos, OvinosIM, SCMetabolito activo sistémico. Mejor biodisponibilidad y eficacia tisular.FenbendazolCaninos, Felinos, EquinosOralMuy seguro. Droga de elección para Giardia. Ideal en cachorros.OxfendazolBovinos, OvinosOralMetabolito activo de fenbendazol/febantel. Vida media prolongada.NetobiminBovinos, OvinosOralProdroga de albendazol ? ricobendazol. Mejor absorción en rumiantes.FebantelCaninos, BovinosOralProdroga que se convierte en fenbendazol y oxfendazol. Amplio espectro.TriclabendazolBovinos, OvinosOralÚnico eficaz contra todos los estadios de Fasciola hepatica. Clave en brotes agudos.
+?? Advertencias importantes
+• Albendazol y sus prodrogas: contraindicado en preñez temprana.
+• Fenbendazol, febantel y oxfendazol presentan alto margen de seguridad.
+• La resistencia antihelmíntica es frecuente en rumiantes; evitar subdosificación.
+
+?? Claves docentes para el examen
+• Los benzimidazoles no paralizan, colapsan el metabolismo energético.
+• Muchas formulaciones actúan tras biotransformación hepática.
+• Ricobendazol y oxfendazol son los verdaderos “actores principales”.
+• Triclabendazol es insustituible frente a fasciolosis aguda.
+
+3. Grupo 2: Imidazotiazoles
+Antihelmínticos clásicos, muy utilizados en producción animal, con un mecanismo de acción rápido y potente, pero con margen de seguridad más estrecho que los benzimidazoles.
+
+Mecanismo de acción
+Actúan como agonistas nicotínicos en la placa neuromuscular del parásito.
+?? Provocan:
+• despolarización sostenida,
+• contracción tetánica,
+• parálisis espástica,
+• expulsión del parásito por el peristaltismo intestinal.
+?? A diferencia de los benzimidazoles:
+• no matan por inanición,
+• no son ovicidas,
+• actúan rápidamente.
+
+Espectro
+• Nematodos gastrointestinales y pulmonares.
+
+?? Fármaco representativo
+FármacoEspeciesVíasCaracterísticas clínicasLevamisolBovinos, Ovinos, PorcinosOral, SCAcción rápida. Útil en nematodiasis resistentes a benzimidazoles. 
+?? Margen terapéutico estrecho.
+?? Toxicidad
+Debida a su acción colinérgica:
+• hipersalivación,
+• cólicos,
+• temblores musculares,
+• debilidad,
+• convulsiones en sobredosis.
+?? Contraindicado en:
+• animales debilitados,
+• estrés severo,
+• combinaciones con otros colinérgicos.
+
+?? Claves clínicas
+• Ideal para rotación de principios activos.
+• No usar como única estrategia a largo plazo.
+• La dosificación correcta es crítica.
+
+4. Grupo 3: Tetrahidropirimidinas
+Antihelmínticos muy utilizados en pequeños animales, con mecanismo similar al levamisol pero mayor margen de seguridad.
+
+Mecanismo de acción
+Agonistas nicotínicos de los receptores neuromusculares del parásito.
+?? Provocan parálisis espástica, con expulsión del helminto vivo.
+
+ Espectro
+• Nematodos gastrointestinales:
+
+?? Fármaco representativo
+FármacoEspeciesVíasUsos clínicosPirantel (pamoato/tartrato)Caninos, FelinosOralDesparasitación rutinaria en cachorros y adultos. Muy seguro.
+?? Seguridad
+• Amplio margen terapéutico.
+• Puede usarse en:
+– cachorros,
+– hembras gestantes,
+– animales debilitados.
+
+?? Claves docentes
+• Ideal para desparasitación inicial.
+• No previene reinfección.
+• Muy frecuente en asociaciones comerciales.
+
+
+5. Grupo 4: Piperazina
+Antihelmíntico clásico, hoy menos utilizado, pero fundamental desde el punto de vista conceptual para comprender los distintos tipos de parálisis inducidos por los antiparasitarios.
+
+Mecanismo de acción
+La piperazina actúa como agonista del neurotransmisor inhibitorio GABA en el parásito.
+?? Provoca:
+• hiperpolarización de la membrana neuromuscular,
+• relajación muscular,
+• parálisis flácida,
+• expulsión pasiva del helminto por el tránsito intestinal.
+?? Contrasta directamente con:
+• Levamisol / Pirantel ? parálisis espástica
+
+Espectro
+• Nematodos gastrointestinales:
+– Ascaris,
+– Toxocara.
+
+?? Fármaco
+FármacoEspeciesVíasUso clínicoPiperazinaCaninos, Felinos, AvesOralDesparasitación básica de ascáridos.
+?? Limitaciones
+• Espectro muy estrecho.
+• No ovicida.
+• No eficaz en infestaciones mixtas.
+• Poco utilizada hoy por disponibilidad de drogas más modernas.
+
+6. Grupo 5: Lactonas macrocíclicas (endectocidas)
+Las lactonas macrocíclicas son endectocidas: fármacos capaces de eliminar parásitos internos (nematodos) y externos (artrópodos). Constituyen uno de los pilares del control antiparasitario en producción animal y pequeños animales.
+
+Mecanismo de acción
+Actúan abriendo los canales de cloro regulados por glutamato presentes en el sistema nervioso del parásito.
+?? Consecuencias:
+• ingreso masivo de Cl?,
+• hiperpolarización neuronal,
+• inhibición de la transmisión neuromuscular,
+• parálisis flácida y muerte del parásito.
+?? Los mamíferos no poseen estos canales periféricos ? base de la toxicidad selectiva.
+
+????? Espectro
+• Nematodos gastrointestinales y pulmonares.
+• Ectoparásitos: ácaros, piojos, algunos insectos.
+
+?? Fármacos principales
+FármacoEspeciesVíasUsos y notas clínicasIvermectinaBovinos, Porcinos, Equinos, CaninosSC, OralBovinos: tiempo de retiro prolongado (? 35 días). 
+Caninos: tóxica en razas con mutación MDR1 (Collie, Shetland, Pastor Australiano).DoramectinaBovinos, PorcinosSC, IMMayor vida media y persistencia. Uso frecuente en control de miasis y nematodos resistentes.SelamectinaCaninos, FelinosSpot-onAbsorción transdérmica. Segura en perros MDR1 (-). Excelente perfil de seguridad.Milbemicina oximaCaninosOralEndectocida oral. Segura para Collies. Uso frecuente en prevención de dirofilariosis.
+???? Toxicidad genética: Mutación MDR1
+Algunas razas caninas presentan una mutación en el gen MDR1 (ABCB1), que codifica la P-glicoproteína, responsable de expulsar drogas del sistema nervioso central.
+?? En estos animales:
+• la ivermectina atraviesa la barrera hematoencefálica,
+• se acumula en SNC,
+• provoca neurotoxicidad grave.
+?? Signos clínicos:
+• ataxia,
+• depresión,
+• midriasis,
+• convulsiones,
+• coma.
+?? Selamectina y Milbemicina son seguras en estas razas.
+
+7. Grupo 6: Closantel (endectocida no lactónico)
+El closantel es un antiparasitario utilizado principalmente en rumiantes, con acción tanto sobre parásitos internos como externos, por lo que se lo incluye funcionalmente dentro de los endectocidas, aunque no pertenece al grupo de las lactonas macrocíclicas.
+
+???? Mecanismo de acción
+El closantel inhibe la fosforilación oxidativa mitocondrial del parásito, interfiriendo con la producción de ATP.
+?? Consecuencias:
+• colapso energético,
+• parálisis,
+• muerte del parásito.
+?? Este mecanismo es completamente distinto al de las lactonas (canales de cloro), lo que lo vuelve útil frente a poblaciones resistentes.
+
+????? Espectro
+• Nematodos hematófagos (especialmente Haemonchus spp.).
+• Trematodos:
+– Fasciola hepatica adulta.
+• Ectoparásitos:
+– piojos,
+– ácaros.
+
+?? Fármaco y uso clínico
+FármacoEspeciesVíasUsos y característicasClosantelBovinos, OvinosOral, SCAlta eficacia contra Haemonchus resistente. Útil en fasciolosis crónica. Se une fuertemente a proteínas plasmáticas ? vida media prolongada.
+?? Toxicidad
+• Margen terapéutico más estrecho que lactonas.
+• Sobredosificación puede causar:
+– neurotoxicidad,
+– ceguera irreversible (lesión del nervio óptico).
+?? La toxicidad se relaciona con su acumulación prolongada en plasma.
+
+?? Claves docentes
+• Es un endectocida funcional, no una lactona.
+• Actúa por daño energético, no por parálisis neuromuscular clásica.
+• Muy útil en resistencia antihelmíntica en rumiantes.
+• Requiere dosificación precisa.
+• Importante diferenciarlo de ivermectina para evitar errores conceptuales.
+
+8. Grupo 7: Drogas útiles contra céstodos (tenias)
+Los céstodos (tenias) presentan particularidades estructurales que condicionan su tratamiento:
+• no poseen tubo digestivo,
+• absorben nutrientes a través del tegumento,
+• presentan alta dependencia del calcio y del metabolismo energético.
+Esto explica por qué muchos antihelmínticos clásicos NO son eficaces contra ellos.
+
+???? Subgrupo 1: Isoquinolinas
+(Praziquantel – Epsiprantel)
+Son las drogas de elección para el tratamiento de las teniasis en medicina veterinaria.
+
+Mecanismo de acción
+Las isoquinolinas aumentan la permeabilidad de la membrana del parásito al calcio (Ca²?).
+?? Consecuencias:
+• contracción muscular intensa y sostenida,
+• parálisis espástica,
+• daño del tegumento ? exposición a enzimas digestivas del huésped,
+• muerte y eliminación del parásito.
+?? Actúan principalmente sobre formas adultas.
+
+????? Espectro
+• Céstodos
+
+?? Fármacos y uso clínico
+FármacoEspeciesVíasUsos y característicasPraziquantelCaninos, Felinos, EquinosOral, SCDroga de elección para tenias. Alta eficacia con dosis única. Excelente tolerancia.EpsiprantelCaninos, FelinosOralSimilar al praziquantel, pero mínima absorción sistémica ? actúa casi exclusivamente en intestino. Menor riesgo sistémico.?? Nota clínica:
+El epsiprantel es especialmente útil cuando se busca acción local intestinal con mínima exposición sistémica.
+
+?? Toxicidad
+• Muy bajo perfil tóxico.
+• Ocasionalmente:
+– vómitos leves,
+– diarrea transitoria.
+
+Subgrupo 2: Niclosamida
+(Tenicida clásico)
+La niclosamida es un antihelmíntico específico contra céstodos, hoy menos utilizado.
+
+Mecanismo de acción
+La niclosamida inhibe la fosforilación oxidativa mitocondrial del parásito.
+?? Consecuencias:
+• depleción de ATP,
+• colapso energético,
+• muerte del céstodo.
+?? Similar en concepto al closantel, pero exclusivo para tenias.
+
+Espectro
+• Céstodos adultos:
+
+?? Fármaco y uso clínico
+FármacoEspeciesVíasUsos y característicasNiclosamidaCaninos, FelinosOralMuy baja absorción intestinal. Acción local. Hoy reemplazada en gran medida por praziquantel.
+?? Toxicidad
+• Baja, debido a su mínima absorción sistémica.
+• Puede causar:
+– irritación gastrointestinal,
+– vómitos si se administra en ayuno.
+9. Grupo 8: Fármacos fasciolicidas
+Fasciola hepatica (Saguaypé) es un trematodo que afecta el hígado de rumiantes.
+El daño más grave lo producen las formas inmaduras migratorias, que destruyen el parénquima hepático.
+?? Clave terapéutica: la elección del fármaco depende del estadio del parásito que se desea eliminar.
+
+Selección del Fármaco según la Edad de la Fasciola
+FármacoGrupo químicoEficacia (Edad de la Fasciola)?????? Características y ToxicidadTriclabendazolBenzimidazolTotal: Inmaduros precoces (? 2 sem) + Inmaduros + AdultosDroga de elección en fasciolosis aguda. Alto costo. Existen reportes de resistencia en algunos predios.DiamfenetideDiamidinaInmaduros migratoriosIdeal en fasciolosis aguda. Baja eficacia contra adultos.ClosantelSalicilanilidaJuveniles tardíos + Adultos (> 6–8 sem)Desacoplante de la fosforilación oxidativa. Alta unión a proteínas plasmáticas. Riesgo de toxicidad ocular y neurológica en sobredosis.RafoxanideSalicilanilidaJuveniles tardíos + Adultos (> 6–8 sem)Similar al closantel. Uso frecuente en ovinos. Riesgo de toxicidad ocular.AlbendazolBenzimidazolAdultos (> 10–12 sem)Amplio espectro antihelmíntico. NO eficaz contra formas inmaduras. Teratogénico en primer tercio de gestación.Ricobendazol (Albendazol sulfóxido)Benzimidazol (metabolito activo)Adultos (> 8–10 sem)Mejor biodisponibilidad y eficacia que albendazol. Uso frecuente en bovinos y ovinos.ClorsulónSulfonamidaAdultos (> 8–10 sem)Inhibe enzimas de la glucólisis. Generalmente combinado con ivermectina. Seguro.
+Algoritmo clínico de elección del fasciolicida:
+
+Paso 1. Evaluar el cuadro clínico y el contexto
+• Muerte súbita, anemia, dolor hepático, brotes estacionales ? sospecha de fasciolosis aguda.
+• Adelgazamiento crónico, baja producción, alteraciones hepáticas persistentes ? sospecha de fasciolosis crónica.
+
+Paso 2. Inferir el estadio predominante del parásito
+Cuadro clínicoEstadio predominanteFasciolosis agudaInmaduros precoces y juveniles migratoriosFasciolosis subagudaJuveniles tardíosFasciolosis crónicaAdultos en conductos biliares
+Paso 3. Seleccionar el fármaco correcto según el estadio
+Estadio a eliminarFármaco recomendadoInmaduros precoces (? 2 semanas)TriclabendazolInmaduros migratoriosTriclabendazol / DiamfenetideJuveniles tardíosClosantel / RafoxanideAdultosAlbendazol, Ricobendazol, Clorsulon, Closantel, RafoxanideTodos los estadiosTriclabendazol (único)?? Nota clínica importante:
+Albendazol y ricobendazol NO son eficaces contra formas inmaduras, pero siguen siendo herramientas clave en fasciolosis crónica.
+
+Paso 4. Ajustes prácticos de la terapéutica
+• En brotes agudos ? NO usar fármacos solo adulticidas (albendazol, clorsulon).
+• En predios con resistencia reportada ? evaluar rotación estratégica y manejo del pastoreo.
+• Respetar dosis, especie, vía y tiempos de retiro para seguridad alimentaria.
+
+?? Errores clínicos frecuentes en fasciolosis
+• Tratar una fasciolosis aguda con fármacos activos solo contra adultos.
+• Elegir la droga por precio o disponibilidad y no por estadio parasitario.
+• Interpretar el fracaso terapéutico como “resistencia” sin revisar la elección farmacológica.
+• Usar closantel o rafoxanide en sobredosis, aumentando el riesgo de toxicidad 
+neurológica y ocular.
+• No considerar la alta unión a proteínas plasmáticas de las salicilanilidas.
+• No repetir el tratamiento cuando el ciclo parasitario lo requiere.
+• Ignorar el impacto del manejo del campo (zonas húmedas, caracoles).
+• No respetar los tiempos de retiro, comprometiendo la seguridad alimentaria.
+• Tratar animales clínicos sin evaluar al resto del rodeo.
+• Creer que “todas las fasciolas se tratan igual”.
+?? CHECKLIST DE EXAMEN – FASCIOLICIDAS
+? ¿Puedo explicar por qué el daño más grave lo producen las formas inmaduras?
+? ¿Sé diferenciar fasciolosis aguda, subaguda y crónica?
+? ¿Identifico qué drogas actúan sobre cada estadio?
+? ¿Reconozco que solo el triclabendazol actúa sobre todos los estadios?
+? ¿Conozco el rol del albendazol y por qué no sirve en brotes agudos?
+? ¿Sé qué drogas presentan mayor riesgo de toxicidad?
+? ¿Puedo justificar una elección terapéutica en un brote agudo?
+? ¿Comprendo el impacto productivo y sanitario de un mal tratamiento?
+
+10. El problema de la resistencia antihelmíntica y el concepto de “refugio”
+La resistencia antihelmíntica es hoy uno de los principales desafíos sanitarios y productivos en rumiantes y equinos. A diferencia de los antibióticos, casi no aparecen nuevas familias de antiparasitarios, por lo que perder una droga implica perderla por años o décadas.
+?? ¿Cómo se genera la resistencia?
+Cada tratamiento elimina a los parásitos susceptibles, pero permite sobrevivir a aquellos con mutaciones que les confieren resistencia genética.
+Si se trata todo el rodeo, muchas veces y sin criterio, esos parásitos resistentes pasan a dominar la población.
+
+?? El concepto clave: “REFUGIO”
+Se denomina refugio a la población de parásitos que NO ha sido expuesta a la droga, y por lo tanto mantiene genes susceptibles.
+El refugio está compuesto por:
+• Parásitos en la pastura (huevos y larvas).
+• Parásitos presentes en animales no tratados.
+?? Estos parásitos “sensibles” se cruzan con los resistentes y diluyen los genes de resistencia, enlenteciendo su expansión.
+
+?? El Test de Reducción del Conteo de Huevos (TRCH)
+El Test de Reducción del Conteo de Huevos en Materia Fecal es la herramienta de campo más utilizada para evaluar la eficacia real de un antihelmíntico y detectar resistencia parasitaria.
+¿En qué consiste?
+Se basa en comparar el número de huevos por gramo de materia fecal (HPG):
+• Antes del tratamiento
+• Después del tratamiento (generalmente a los 10–14 días, según la droga)
+Si la droga es eficaz, el conteo de huevos debe disminuir marcadamente.
+
+?? Interpretación básica
+• Reducción ? 95 % ? droga eficaz.
+• Reducción < 95 % ? sospecha de resistencia.
+?? No mide erradicación total, mide eficacia poblacional.
+
+?? ¿Por qué es tan importante?
+• Permite detectar resistencia antes de un fracaso clínico evidente.
+• Evita cambiar de droga “a ciegas”.
+• Ayuda a diseñar rotaciones racionales.
+• Es clave para evaluar programas de tratamiento selectivo.
+
+?? Limitaciones 
+• No identifica la especie exacta del parásito.
+• Requiere muestreo correcto y tiempos adecuados post-tratamiento.
+• Debe interpretarse junto con clínica, estación y manejo del campo.
+
+?? Integración con el concepto de refugio
+El TRCH no reemplaza al manejo con refugio:
+?? lo complementa.
+Una droga puede:
+• funcionar bien hoy,
+• pero seleccionar resistencia rápidamente si se usa sin refugio.
+
+?? Mensaje clave para el alumno
+La resistencia no se “adivina”:
+?? se mide.
+Y se previene más con criterio sanitario que con nuevas drogas.
+
+?? El error clásico
+• Tratar todo el rodeo por calendario, sin diagnóstico ni criterio epidemiológico.
+• Repetir siempre la misma droga “porque siempre funcionó”.
+• Buscar “limpiar” completamente al animal de parásitos (objetivo imposible y contraproducente).
+
+? La estrategia moderna: Tratamiento Selectivo Dirigido (TSD)
+El enfoque actual NO busca erradicar los parásitos, sino convivir con ellos de manera controlada.
+Principios del TSD:
+• Tratar solo a los animales que lo necesitan.
+• Mantener una parte del rodeo sin tratar para conservar refugio.
+• Elegir la droga según diagnóstico, estación y categoría animal.
+?? Ejemplo clásico:
+En ovinos, el sistema FAMACHA permite identificar animales con anemia por Haemonchus contortus y tratar únicamente a esos individuos.
+
+?? Objetivo final del manejo antiparasitario
+? Disminuir carga parasitaria clínica.
+? Reducir pérdidas productivas.
+? Preservar la eficacia de las drogas disponibles.
+? Evitar la selección acelerada de resistencia.
+
+11. Actividades de autoevaluación
+Caso 1: El Collie y la Sarna
+Border Collie con sarna sarcóptica.
+1. ¿Por qué no debe inyectarle Ivermectina? 
+2. ¿Qué opción terapéutica (Lactona) es segura? 
+Caso 2: Brote de Fasciolosis Aguda
+En un campo inundado, mueren ovejas repentinamente. La necropsia muestra hígados destruidos por larvas migratorias de Fasciola.
+1. ¿Serviría usar Clorsulon o Albendazol en este momento? 
+2. ¿Cuál sería la droga de elección para detener las muertes por larvas inmaduras?
+Caso 3: Cachorros con "Lombrices"
+Usted atiende una camada de cachorros de 20 días con abdomen distendido.
+1. ¿Qué ventaja ofrece la Piperazina en animales tan jóvenes respecto a Levamisol?
+?????? Caso 4: Intoxicación en Ovinos
+Un productor dosificó a sus ovejas con Closantel al doble de la dosis "para que mate mejor". A los dos días, las ovejas chocan contra los alambrados.
+1. ¿Qué lesión tóxica sospecha?
+
+12. Resumen en 10 puntos
+• Los antiparasitarios internos varían ampliamente en espectro y mecanismo.
+• El correcto diagnóstico parasitológico guía la selección de fármaco.
+• Las avermectinas son muy efectivas, pero neurotóxicas en razas MDR1.
+• Los benzimidazoles actúan sobre microtúbulos y tienen amplio espectro.
+• El praziquantel es específico para céstodos y tremátodos.
+• El levamisol puede causar colapso respiratorio en sobredosis.
+• El albendazol es teratogénico: contraindicado en primer tercio de la gestación.
+• Las lactonas macrocíclicas tienen vida media prolongada.
+• La resistencia antiparasitaria es un desafío creciente.
+• El uso racional evita toxicidad y falla terapéutica.
+13. Errores clínicos frecuentes
+• Usar ivermectina en Collies o perros MDR1.
+• Administrar albendazol a hembras preñadas.
+• Usar dosis subterapéuticas que favorecen resistencia.
+• No repetir dosis en parásitos con ciclo migratorio.
+• Pensar que todos los antiparasitarios cubren céstodos.
+• No tener en cuenta el estrecho margen de seguridad de levamisol 
+• No distinguir espectros (nemátodos vs céstodos vs protozoos).
+• Aplicar lactonas en animales caquécticos (riesgo neurotóxico).
+• Confundir rotación con combinación irracional.
+• No realizar control coproparasitológico post tratamiento.
+
+14. Checklist de examen
+• ¿Diferencio benzimidazoles, lactonas, imidazotiazoles y cestocidas?
+• ¿Conozco mecanismos de acción de cada familia?
+• ¿Sé cuáles son seguros para cachorros y gestantes?
+• ¿Puedo explicar toxicidad por defectos MDR1?
+• ¿Reconozco espectro de praziquantel?
+• ¿Sé cuándo están contraindicados los distintos antiparasitarios?
+• ¿Comprendo resistencia y cómo prevenirla?
+• ¿Puedo ajustar dosis según especie?
+• ¿Sé qué antiparasitarios sirven para Fasciola hepática?
+• ¿Puedo elegir una droga de acuerdo a la situación planteada?
+
+15. Bibliografía recomendada
+• Bowman DD. Georgis’ Parasitology for Veterinarians. Elsevier.
+• Sutherland IA, Scott I. Gastrointestinal Nematodes of Cattle and Sheep.
+• Taylor MA, Coop RL, Wall RL. Veterinary Parasitology.
+• Papich MG. Saunders Handbook of Veterinary Drugs.
+• Riviere JE, Papich MG. Veterinary Pharmacology and Therapeutics.
+• Foreyt WJ. Veterinary Parasitology Reference Manual.
+
+
+
+?? TRABAJO PRÁCTICO Nº 7
+Antiparasitarios internos y endectocidas
+Carrera: Veterinaria
+Asignatura: Farmacología y terapéutica
+Semana: 7
+Duración: 2–3 horas
+Modalidad: Trabajo grupal + discusión guiada
+Duración sugerida:
+* 60 min discusión por grupos
+* 90 min resolución guiada
+* 30 min debate integrador final
+
+?? BLOQUE 1 – Comparación farmacodinámica profunda
+Actividad 1 – Tabla comparativa estructural
+Completar la siguiente matriz para:
+* Piperazina
+* Imidazotiazoles
+* Tetrahidropirimidinas
+* Bencimidazoles
+* Lactonas macrocíclicas
+FamiliaBlanco molecularTipo de parálisisEspectroPersistenciaRiesgo de resistenciaRiesgo toxicológico?? Luego discutir:
+* ¿Cuál depende más de la concentración?
+* ¿Cuál depende más del tiempo de exposición?
+* ¿Qué familia genera mayor presión selectiva?
+
+?? BLOQUE 2 – Integración PK/PD (con números)
+Caso 6 – Subdosificación en bovinos
+Rodeo tratado con ivermectina 0,2 mg/kg SC.
+Se detecta que muchos animales estaban subpesados y recibieron 0,15 mg/kg.
+Actividades
+1. ¿Qué ocurre con:
+o Cmax?
+o Tiempo sobre concentración efectiva?
+o Ventana de selección?
+2. ¿Por qué el subdosaje es más grave que el sobredosaje en términos de resistencia?
+3. Diseñe una estrategia correctiva.
+
+?? BLOQUE 3 – Selección racional según sistema productivo
+Caso 7 – Sistema intensivo vs extensivo
+Comparar tratamiento antihelmíntico en:
+A) Feedlot intensivo
+B) Sistema pastoril extensivo
+Analizar:
+* Impacto ambiental de lactonas macrocíclicas
+* Persistencia en materia fecal
+* Efecto sobre fauna coprófaga
+* Concepto de refugio
+Pregunta disparadora:
+¿Siempre conviene la droga más persistente?
+
+?? BLOQUE 4 – Fasciolosis integrada
+Caso 8 – Brote mixto
+Bovinos con:
+* Fasciola hepatica
+* Nematodes gastrointestinales
+Proponer:
+* Monoterapia
+* Terapia combinada
+* Secuencial
+Justificar desde:
+* Blanco molecular
+* Interacciones
+* Presión selectiva
+
+?? BLOQUE 5 – Cestodes + decisión clínica
+Caso 9 – Refugio parasitario
+Criadero felino con tratamientos mensuales sistemáticos con praziquantel.
+Preguntas:
+1. ¿Puede desarrollarse resistencia en cestodes?
+2. ¿Qué problema genera la desparasitación sistemática sin diagnóstico?
+3. ¿Cómo introducirías el concepto de tratamiento selectivo?
+
+?? BLOQUE 6 – Cálculo aplicado
+Caso 10 – Dosificación
+Bovino 380 kg
+Producto ivermectina 1% (10 mg/mL)
+Dosis: 0,2 mg/kg
+1. ¿Cuántos mL aplicar?
+2. ¿Qué ocurre si el animal pesa 430 kg y fue estimado en 380?
+Discusión:
+* Error sistemático de estimación de peso
+* Consecuencias poblacionales
+* 
+BLOQUE 7- 
+Actividad 1. Análisis de prospecto de medicamento antiparasitario inyectable
+Competencias: Análisis y síntesis, Investigación y uso de recursos
+1. Analice el siguiente prospecto de un medicamento antiparasitario (inyectable) de uso veterinario, y responda las siguientes preguntas:
+* a. Según el espectro de acción descrito, ¿de qué principio activo podríamos afirmar que se trata?
+* b. ¿Cuál es el mecanismo de acción de esta droga y qué efecto produce sobre los parásitos afectados?
+* c. En las contraindicaciones, se menciona una que se vincula directamente con el mecanismo de acción de la droga, ¿de qué se trata? ¿cuál es la toxicidad vinculada a esta contraindicación?
+* d. En cuanto al espectro de acción, ¿se podría agregar alguna/s clase/s de parásito/s no mencionada/s en el prospecto?
+
+
+
+
+
+
+
+Actividad 2. Resolución de caso clínico en ovinos con parasitosis
+Competencias: Resolución de problemas clínicos, Investigación y uso de recursos
+Un productor ovino lo consulta porque tiene algunos enfermos. Al llegar y revisar a los animales, observa la presencia de edema submandibular, pérdida de peso y de brillo en el pelo, mucosas pálidas, baja frecuencia respiratoria y temperatura rectal de 38° C. Hay dolor a la palpación abdominal e incremento del volumen del hígado, por lo que sospecha de una inflamación aguda de este órgano provocado, probablemente, por una gran migración de larvas o por la presencia de alguna parasitosis. Se realizó un diagnóstico mediante examen coprológico con conteo de HPG, lo que permitió determinar la presencia de un gran número de huevos de Fasciola hepática. Se administró Albendazol (10 mg/kg por vía oral). En días posteriores se observó mejoría desde el punto de vista clínico. A los 21 días varias ovejas presentaban ataxia, disnea y anorexia, y finalmente murieron. A la necropsia, el hígado se encontraba muy dilatado, con abundante exudado fibrinoso en el lóbulo ventral, engrosamiento y calcificación de los conductos biliares, abundante líquido sanguinolento en la cavidad abdominal. El parénquima hepático poseía focos hemorrágicos difusos y abundantes formas inmaduras del parásito. Se encontraron, además, algunas formas adultas en los conductos biliares.
+* a. ¿Existe alguna droga que hubiera podido evitar este desenlace teniendo en cuenta su espectro de acción?
+* b. ¿Hay algún principio activo que tenga acción contra nematodos y artrópodos además de Fasciola hepática? Busque medicamentos que lo contengan para su uso en distintas especies. ¿Cuáles son las formas farmacéuticas? ¿Qué indicaciones tienen?
+Actividad 3. Investigación sobre medicamentos para tratar gasterofilosis en equinos
+Competencias: Investigación y uso de recursos
+Busque tres medicamentos que contengan principios activos útiles para tratar la gasterofilosis en equinos. Identifique los principios activos de cada medicamento y sus respectivos mecanismos de acción.
+
+*  BLOQUE FINAL – ATENEO INTEGRADOR
+Caso 11 – Campo problema
+Establecimiento con:
+* Uso histórico de ivermectina
+* Pérdida de eficacia clínica
+* HPG que disminuye solo 60% post tratamiento
+* Fasciola en zona endémica
+* Restricciones económicas
+En grupos deben:
+1. Formular diagnóstico del problema
+2. Diseñar plan antihelmíntico anual
+3. Justificar rotación
+4. Proponer monitoreo
+5. Integrar concepto One Health
+
+?? Actividad nueva de integración con antimicrobianos
+Comparar:
+Resistencia antimicrobiana vs resistencia antihelmíntica
+Completar cuadro:
+AspectoAntimicrobianosAntihelmínticosTransferencia horizontalPresión selectivaPersistencia ambientalImpacto One Health
+?? Test de Reducción del Conteo de Huevos (TRCH)
+Situación clínica
+Establecimiento bovino de cría.
+Se aplica ivermectina 1% a 0,2 mg/kg SC.
+Se toman muestras individuales de materia fecal:
+* Día 0 (pretratamiento)
+* Día 14 postratamiento
+Se obtienen los siguientes resultados (HPG – huevos por gramo):
+AnimalDía 0Día 141850300212004003950380470025051100420
+Consignas para el estudiante
+a) Calcule la reducción porcentual promedio.
+b) Interprete el resultado según criterios internacionales.
+c) ¿Hay sospecha de resistencia?
+d) ¿Qué errores metodológicos podrían afectar la interpretación?
+e) ¿Qué medidas tomaría si se confirma resistencia?
+
+?? Cierre reflexivo obligatorio
+Cada grupo debe responder:
+1. ¿Cuál es el error más frecuente en el uso de antiparasitarios?
+2. ¿Qué familia usarían con más cautela?
+3. ¿Qué concepto de PK aprendieron que cambió su forma de pensar la desparasitación?
+
+
+
+GUÍA DE ESTUDIO FARMACOLOGÍA Y TERAPÉUTICA
+Fernando Mañas 
+-2026-
+
+2
+
+

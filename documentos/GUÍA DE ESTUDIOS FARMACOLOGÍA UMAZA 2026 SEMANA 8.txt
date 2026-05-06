@@ -1,0 +1,544 @@
+
+	
+
+
+Contenido
+SEMANA 8- MÓDULO 3: Quimioterapia Antiinfecciosa. Cuarta parte: Antiparasitarios externos, antifúngicos y antivirales	3
+1. Introducción: vectores y hongos	3
+2. Parte a: Antiparasitarios externos	3
+Generalidades	3
+1. Organofosforados	4
+2. Carbamatos	5
+3. Organoclorados	6
+4. Piretroides	6
+5. Cloronicotínicos (neonicotinoides)	7
+6. Fenilpirazoles	8
+7. Amidinas	8
+8. Isoxazolinas	9
+9. Ectoparasiticidas no neurotóxicos	9
+3. Parte b: Antimicóticos (antifúngicos)	11
+1. Azoles	11
+2. Polienos	12
+3. Griseofulvina	12
+4. Parte c: Antivirales (breve reseña)	13
+Análogos de nucleósidos (Inhibidores de la ADN polimerasa viral)	13
+Aciclovir	13
+Famciclovir	14
+Inmunomoduladores antivirales	14
+Interferón Omega recombinante	14
+5. Actividades de autoevaluación	14
+?? 6. Resumen en 10 puntos	15
+?? 7. Errores clínicos frecuentes	15
+?? 8. Checklist de examen	16
+?? 9. Bibliografía recomendada	16
+?? TRABAJO PRÁCTICO Nº 10	17
+
+
+
+SEMANA 8- MÓDULO 3: Quimioterapia Antiinfecciosa. Cuarta parte: Antiparasitarios externos, antifúngicos y antivirales
+Tema: Antiparasitarios Externos, Antifúngicos y Antivirales.
+
+1. Introducción: vectores y hongos
+Esta semana nos enfrentamos a dos desafíos:
+1. Ectoparásitos (Artrópodos): No solo causan daño directo (anemia, dermatitis), sino que son vectores de enfermedades graves (Babesia, Ehrlichia). El objetivo no es solo matar al parásito, sino cortar el ciclo ambiental y repeler para evitar la transmisión de patógenos.
+2. Hongos: Al ser organismos eucariotas (como los animales), los fármacos que atacan su estructura celular suelen ser más tóxicos para el paciente que los antibióticos.
+
+2. Parte a: Antiparasitarios externos
+Generalidades
+Los antiparasitarios externos se utilizan para el control de artrópodos ectoparásitos (pulgas, garrapatas, piojos, ácaros, moscas), con impacto directo sobre:
+* Salud animal (anemia, dermatitis, estrés)
+* Producción (ganancia de peso, leche, lana)
+* Salud pública (transmisión de patógenos)
+Vías de administración más frecuentes
+* Tópica:
+o Spot-on (pipetas)
+o Pour-on
+o Sprays
+o Baños de inmersión
+o Collares
+* Sistémica:
+o Oral (comprimidos, masticables)
+o Inyectable (uso productivo)
+Formas farmacéuticas comunes
+* Soluciones concentradas (baños, pour-on)
+* Pipetas spot-on
+* Collares de liberación lenta
+* Comprimidos orales
+* Polvos y aerosoles (uso más limitado)
+?? La elección de la vía depende del parásito, la especie animal, el sistema productivo y la seguridad.
+
+1. Organofosforados
+(Inhibidores irreversibles de la acetilcolinesterasa)
+Artrópodos blanco principales
+* Garrapatas
+* Piojos
+* Moscas
+* Algunos ácaros
+Vías de administración
+* Baños de inmersión
+* Pour-on
+* Sprays
+* Polvos
+* Caravanas insecticidas (producción)
+Mecanismo de acción
+Inhiben irreversiblemente la acetilcolinesterasa ? acumulación de acetilcolina en sinapsis ? estimulación colinérgica continua ? parálisis espástica y muerte del parásito.
+Uso en veterinaria
+?? Siguen siendo ampliamente utilizados en grandes animales, especialmente en sistemas extensivos, por:
+* Bajo costo
+* Alta eficacia
+* Disponibilidad
+
+Toxicología clínica (concepto clave)
+La intoxicación se debe a exceso de acetilcolina, y los signos se dividen según el tipo de receptor estimulado:
+?? Signos muscarínicos
+(parasimpáticos)
+Recordatorio clásico: “SLUD”
+* Sialorrea
+* Lagrimeo
+* Urinación
+* Diarrea
+* Miosis
+* Broncorrea y broncoconstricción
+* Bradicardia
+?? Signos nicotínicos
+(placa neuromuscular y SNC)
+* Fasciculaciones musculares
+* Temblor
+* Debilidad progresiva
+* Parálisis
+* Convulsiones
+?? Signos centrales
+* Ansiedad
+* Ataxia
+* Convulsiones
+* Depresión respiratoria
+Tratamiento
+* Atropina: antagoniza signos muscarínicos
+* Diazepam: controla los temblores musculares y la convulsiones
+* Pralidoxima (2-PAM): reactivador de la AChE (uso temprano)
+
+2. Carbamatos
+(Inhibidores reversibles de la acetilcolinesterasa)
+Artrópodos blanco
+* Pulgas
+* Piojos
+* Algunos ácaros
+Vías de administración
+* Polvos
+* Sprays
+* Baños
+* Collares
+Mecanismo
+Inhibición reversible de la acetilcolinesterasa.
+Comentarios clínicos
+* Toxicidad similar a organofosforados, pero más corta
+* No combinar con organofosforados
+* Uso hoy más limitado
+
+3. Organoclorados
+(Importancia histórica y toxicológica)
+Artrópodos blanco
+Amplio espectro histórico.
+Vías
+Tópicas (en desuso).
+Importancia
+* Alta persistencia ambiental
+* Bioacumulación
+* Neurotoxicidad severa
+?? Prácticamente abandonados, pero importantes en toxicología veterinaria.
+
+4. Piretroides
+(Neurotóxicos por canales de sodio)
+Artrópodos blanco
+* Pulgas
+* Garrapatas
+* Mosquitos
+* Flebótomos (repelencia)
+Vías de administración
+* Spot-on
+* Sprays
+* Collares
+* Pour-on
+* Baños
+Mecanismo
+Mantienen abiertos los canales de sodio ? descargas repetitivas ? parálisis espástica (“knock-down”).
+
+?? Tipo I (sin grupo ciano)
+* Permetrina
+?? Tipo II (con grupo ciano)
+* Cipermetrina
+* Deltametrina
+* Flumetrina
+
+Toxicología en gatos
+?? Altamente tóxicos, especialmente permetrina.
+Causa:
+* Temblores
+* Convulsiones
+* Hipertermia
+* Muerte
+?? Déficit de glucuronidación hepática.
+
+5. Cloronicotínicos (neonicotinoides)
+Artrópodos blanco
+* Pulgas
+* Piojos
+Vías de administración
+* Spot-on
+* Oral (algunas combinaciones)
+Fármaco clave
+* Imidacloprid
+Comentarios
+* Acción rápida
+* Muy seguro
+* No eficaz contra garrapatas solo
+
+6. Fenilpirazoles
+Artrópodos blanco
+* Pulgas
+* Garrapatas
+Vías
+* Spot-on
+* Spray
+Fármaco
+* Fipronil
+Características
+* Efecto reservorio (glándulas sebáceas)
+* Resistente al agua
+
+7. Amidinas
+Artrópodos blanco
+* Garrapatas
+* Ácaros (Demodex)
+Vías
+* Baños
+* Collares
+* Pour-on
+Fármaco
+* Amitraz
+Toxicidad
+* Sedación
+* Bradicardia
+* Hipotensión
+Antídoto: yohimbina / atipamezol
+
+8. Isoxazolinas
+Artrópodos blanco
+* Pulgas
+* Garrapatas
+* Ácaros (Sarcoptes, Demodex)
+Vías
+* Oral
+* Spot-on (algunos)
+Fármacos
+* Fluralaner (12 semanas)
+* Afoxolaner
+* Sarolaner
+* Lotilaner
+Advertencia
+* Precaución en epilepsia
+
+9. Ectoparasiticidas no neurotóxicos
+(Actúan sobre el desarrollo, no sobre el sistema nervioso)
+A diferencia de la mayoría de los ectoparasiticidas clásicos, estos fármacos no producen parálisis ni muerte inmediata del adulto, sino que interfieren el desarrollo del insecto, rompiendo el ciclo biológico y reduciendo la carga ambiental.
+?? Son especialmente útiles como parte de estrategias integrales de control, combinados con adulticidas.
+
+9.1 Juvenoides
+(Análogos de la hormona juvenil del insecto)
+Artrópodos blanco
+* Pulgas (huevos y larvas)
+Vías de administración
+* Spot-on
+* Sprays ambientales
+* Collares (combinados)
+Mecanismo de acción
+Imitan la hormona juvenil del insecto, impidiendo la metamorfosis normal:
+* La larva no puede transformarse en pupa/adulto
+* El ciclo se interrumpe
+Fármacos principales
+* Metoprene
+* Fenoxicarb
+Características clínicas
+* No matan pulgas adultas
+* Excelente control ambiental
+* Muy seguros (baja toxicidad en mamíferos)
+
+9.2 Benzoilfenilureas
+(Inhibidores de la síntesis de quitina)
+Artrópodos blanco
+* Pulgas (huevos y larvas)
+Vías de administración
+* Oral
+* Spot-on (combinaciones)
+Mecanismo de acción
+Inhiben la síntesis de quitina, componente esencial del exoesqueleto:
+* Los huevos tienen cáscara blanda
+* Las larvas no pueden mudar
+* El parásito muere durante el desarrollo
+Fármacos representativos
+* Lufenurón y Fluazurón
+Características clínicas
+* No tiene acción adulticida
+* Ideal como prevención a largo plazo
+* Muy seguro, incluso en tratamientos prolongados
+
+?? MENSAJE CLÍNICO CLAVE
+Los ectoparasiticidas no neurotóxicos:
+* No sirven solos en infestaciones activas
+* Son fundamentales para romper el ciclo ambiental
+* Deben integrarse con adulticidas para un control eficaz y sostenible
+
+3. Parte b: Antimicóticos (antifúngicos)
+Los hongos son organismos eucariotas, por lo que comparten muchas estructuras celulares con el huésped.
+Por este motivo, los antifúngicos suelen tener mayor toxicidad que los antibacterianos.
+?? La mayoría de los antifúngicos actúan sobre:
+* la membrana celular fúngica (Ergosterol), o
+* la división celular del hongo.
+Generalidades clínicas
+* Las micosis cutáneas suelen tratarse con fármacos tópicos u orales.
+* Las micosis sistémicas requieren tratamiento prolongado y drogas potencialmente tóxicas.
+* La elección del antifúngico depende del tipo de hongo, localización y estado del paciente.
+
+1. Azoles
+(Inhibidores de la síntesis de Ergosterol)
+Mecanismo de acción
+Inhiben la enzima Citocromo P450 fúngica (14-?-demetilasa), bloqueando la síntesis de ergosterol.
+?? Alteran la membrana del hongo ? efecto fungistático (en general).
+?? Importante: Muchos azoles también inhiben el P450 de los mamíferos, generando interacciones y efectos endocrinos.
+FármacoEspeciesVíasUsos clínicos y toxicidadKetoconazolPerros, GatosOral, tópicaAntiguo y tóxico. Muy hepatotóxico en gatos. Inhibe síntesis de testosterona y cortisol ? efecto antiandrogénico (? libido, infertilidad, supresión adrenal). Uso actual limitado.ItraconazolPerros, GatosOralDroga de elección para dermatofitosis (tiña). Más potente y seguro que ketoconazol. Se concentra en piel, pelo y uñas.FluconazolPerros, GatosOral, IVHidrosoluble. Excelente penetración en SNC y ojo. Eliminación renal ? útil en micosis urinarias. Menor hepatotoxicidad.Clotrimazol / MiconazolTodasTópicaCremas, lociones y gotas óticas. Tratamiento de otitis por Malassezia y micosis cutáneas superficiales.
+2. Polienos
+(Formadores de poros en la membrana fúngica)
+Mecanismo de acción
+Se unen directamente al ergosterol, formando poros en la membrana ? pérdida de electrolitos ? muerte celular (fungicidas).
+FármacoVíasCaracterísticas clínicasAnfotericina BIV lentaFármaco de elección en micosis sistémicas graves (Histoplasmosis, Blastomicosis). Extremadamente nefrotóxica. Requiere fluidoterapia intensiva y monitoreo renal.NistatinaOral, tópicaNo se absorbe por vía oral. Uso en candidiasis intestinal y tratamientos tópicos (piel, mucosas, otitis). Muy segura.
+3. Griseofulvina
+Mecanismo de acción
+Se une a la tubulina fúngica, inhibiendo la mitosis.
+Se deposita en la queratina nueva, haciendo al tejido resistente a la invasión del hongo.
+Uso clínico
+* Dermatofitosis (tiñas), especialmente por Microsporum.
+* Debe administrarse con comida grasa para mejorar la absorción.
+Toxicidad
+* Teratogénica ? absolutamente contraindicada en preñadas.
+* En gatos puede causar supresión de médula ósea, especialmente en FIV/FeLV positivos.
+
+?? MENSAJE INTEGRADOR DE LOS ANTIMICÓTICOS
+* Las micosis sistémicas no se tratan como una tiña.
+* La eficacia depende de la distribución tisular y la duración del tratamiento.
+* La toxicidad sí importa: elegir bien evita iatrogenia grave.
+
+4. Parte c: Antivirales (breve reseña)
+En medicina veterinaria, el uso de antivirales es limitado en comparación con la medicina humana, principalmente debido a su alto costo, toxicidad potencial y a que muchas infecciones virales se controlan mediante la respuesta inmune del huésped. Su indicación se reserva para situaciones clínicas específicas, especialmente infecciones por herpesvirus y como terapia de apoyo inmunomoduladora.
+
+Análogos de nucleósidos (Inhibidores de la ADN polimerasa viral)
+Aciclovir
+* Mecanismo de acción:
+Análogo de guanosina que, tras ser fosforilado por la timidina-quinasa viral, inhibe la ADN polimerasa viral, bloqueando la replicación del ADN del virus.
+* Vías de administración:
+Oral, tópica (oftálmica), IV.
+* Uso clínico:
+o Herpesvirus equino (especialmente oftálmico).
+o Uso tópico en Herpesvirus Felino.
+* Limitación importante:
+En gatos, la activación intracelular es ineficiente, por lo que no es el antiviral sistémico de elección en esta especie.
+
+Famciclovir
+* Mecanismo de acción:
+Profármaco que se metaboliza a penciclovir, un análogo de nucleósido que inhibe la ADN polimerasa viral. Presenta mayor vida media intracelular y mejor activación en células infectadas, lo que se traduce en mayor eficacia clínica en felinos.
+* Vías de administración:
+Oral.
+* Uso clínico:
+o Droga de elección sistémica en Herpesvirus Felino (rinotraqueítis, queratitis, conjuntivitis).
+* Ventaja clave:
+Mejor tolerancia y eficacia que aciclovir en gatos.
+
+Inmunomoduladores antivirales
+Interferón Omega recombinante
+* Mecanismo de acción:
+No actúa directamente sobre el virus. Modula la respuesta inmune antiviral, estimulando la actividad de macrófagos, linfocitos y la producción de proteínas antivirales intracelulares.
+* Vías de administración:
+Subcutánea, oral (uso off-label).
+* Uso clínico:
+o Parvovirus canino (reducción de mortalidad).
+o Retrovirosis felinas (VLeF / VIF) como terapia coadyuvante.
+
+?? Mensaje clínico integrador
+En veterinaria, los antivirales no reemplazan al sistema inmune, sino que lo acompañan. Su uso debe ser selectivo, racional y bien indicado, priorizando fármacos con eficacia demostrada por especie, como el famciclovir en gatos, y reservando los inmunomoduladores para cuadros virales graves o de alto impacto clínico.
+
+5. Actividades de autoevaluación
+Caso 1: Urgencia Felina
+Llega un gato a la guardia con temblores generalizados severos, pupilas dilatadas y salivación. El dueño le puso "una pipeta que le sobró del perro" hace 2 horas.
+1. ¿Cuál es el tóxico sospechoso?
+2. Explique la base metabólica de esta intoxicación en el gato.
+3. ¿Cuál es el tratamiento de soporte? 
+Caso 2: El Perro con Sarna Demodéctica
+Un perro es bañado con Amitraz para sarna. Vuelve a casa y el dueño llama asustado porque el perro "está dormido y respira muy lento".
+1. ¿Es una reacción alérgica o farmacológica?
+2. ¿Cómo lo trataría?
+Caso 3: Tiña en Gato Persa
+Debe tratar una dermatofitosis generalizada en un gato de criadero.
+1. Usted duda entre Griseofulvina e Itraconazol.
+2. Sabiendo que la gata podría estar preñada, ¿cuál está absolutamente contraindicado?
+Caso 4: Selección de Pipeta
+Un cliente vive en zona endémica de Leishmaniasis (transmitida por flebótomos/mosquitos).
+1. ¿Recomendaría una pipeta de Fipronil solo o una con Permetrina? ¿Por qué? 
+
+?? 6. Resumen en 10 puntos
+• Ectoparasiticidas varían en mecanismo y seguridad por especie.
+• Las piretrinas son repelentes clave contra vectores.
+• La permetrina es letal para gatos.
+• Amitraz actúa sobre alfa-2: sedación y bradicardia.
+• Fipronil tiene efecto reservorio en piel.
+• Imidacloprid actúa rápido pero no mata garrapatas.
+• Isoxazolinas son potentes y seguras (cuidado convulsivos).
+• Azoles inhiben síntesis de ergosterol.
+• Anfotericina B es muy nefrotóxica.
+• Griseofulvina es teratogénica.
+?? 7. Errores clínicos frecuentes
+• Usar permetrina en gatos.
+• Indicar amitraz en equinos.
+• Confiar en fipronil para repelencia (no repele).
+• No considerar resistencia ambiental de pulgas.
+• Dar ketoconazol a gatos sin monitoreo hepático.
+• Usar griseofulvina en preñadas.
+• No considerar epilepsia antes de isoxazolinas.
+• Confundir espectro de imidacloprid.
+• Tratar hongos sin diagnóstico.
+• No complementar ectoparasiticidas con control ambiental.
+?? 8. Checklist de examen
+• ¿Diferencio piretroides, fipronil, imidacloprid e isoxazolinas?
+• ¿Comprendo toxicidad por permetrina en gatos?
+• ¿Sé cuándo NO usar amitraz?
+• ¿Reconozco fármacos con efecto repelente?
+• ¿Diferencio azoles de polienos?
+• ¿Sé explicar por qué la Anfotericina B requiere fluidos?
+• ¿Conozco toxicidad de griseofulvina?
+• ¿Identifico espectros por familia?
+• ¿Puedo elegir medicamento antiparasitario adecuado según especie a tratar?
+• ¿Comprendo mecanismos de antifúngicos?
+?? 9. Bibliografía recomendada
+• Riviere JE, Papich MG. Veterinary Pharmacology and Therapeutics. Wiley.
+• Bowman DD. Georgis' Parasitology for Veterinarians. Elsevier.
+• Giguère S et al. Antimicrobial Therapy in Veterinary Medicine.
+• Papich MG. Saunders Handbook of Veterinary Drugs.
+• Taylor MA et al. Veterinary Parasitology.
+
+
+?? TRABAJO PRÁCTICO Nº 8
+Antiparasitarios externos – Antifúngicos – Antivirales
+Duración: 3 horas
+Nivel: Integración avanzada
+Eje conceptual: Riesgo–beneficio y selección racional basada en mecanismo
+
+BLOQUE I – ECTOPARASITICIDAS (NÚCLEO CENTRAL DEL TP)
+
+?? ACTIVIDAD 1
+Mecanismos comparados y selectividad interespecie
+Complete la siguiente matriz conceptual ampliada:
+FamiliaBlanco molecular en artrópodoExiste homólogo en mamífero¿Por qué hay selectividad?Principal evento tóxico en mamíferoPiretroidesOrganofosforadosLactonas macrocíclicasIsoxazolinasAmitrazConsigna adicional:
+Explique por qué la selectividad nunca es absoluta.
+
+?? ACTIVIDAD 2
+Caso clínico comparativo (perro vs gato)
+Se aplican 3 mg/kg de permetrina:
+* Perro 20 kg ? sin signos clínicos.
+* Gato 4 kg ? temblores severos.
+Consignas:
+a) Analice diferencias farmacocinéticas.
+b) Analice diferencias farmacodinámicas.
+c) ¿Es un problema de dosis o de metabolismo?
+d) ¿Podría ocurrir lo mismo con una isoxazolina?
+
+?? ACTIVIDAD 3
+Modelización conceptual de acumulación y riesgo
+Un ectoparasiticida tópico tiene:
+* Vida media: 10 días
+* Intervalo de aplicación recomendado: 30 días
+Represente conceptualmente qué ocurre si el propietario lo aplica cada 10 días durante 3 meses.
+C(t) = C0 · e^(-kt)
+Consignas:
+a) ¿Hay riesgo de acumulación?
+b) ¿En qué pacientes sería más riesgoso?
+c) ¿Cómo impacta en el margen de seguridad?
+
+?? ACTIVIDAD 4
+Resistencia en garrapatas – análisis crítico
+En un establecimiento bovino se documenta:
+* Reducción inicial 95%
+* A los 3 años: 70%
+* A los 5 años: 40%
+Consignas:
+a) ¿Qué mecanismos moleculares podrían estar implicados?
+b) ¿Es resistencia o falla operativa?
+c) Diseñe un plan de manejo integrado (no solo farmacológico).
+d) Discuta implicancias económicas.
+
+?? ACTIVIDAD 5
+Diseño de estrategia racional en clínica de pequeños animales
+Paciente: perro urbano con dermatitis alérgica crónica y pulicosis recurrente.
+Debe elegir entre:
+* Isoxazolina oral mensual
+* Regulador crecimiento + piretroide tópico
+* Baños insecticidas
+Consignas:
+a) Analice eficacia, seguridad y adherencia.
+b) Analice impacto en resistencia.
+c) Analice riesgo ambiental.
+d) Justifique decisión final.
+
+BLOQUE II – ANTIFÚNGICOS
+
+?? ACTIVIDAD 6
+Profundidad de infección y distribución tisular
+Compare:
+* Itraconazol
+* Fluconazol
+* Griseofulvina
+* Anfotericina B
+Complete:
+FármacoLiposolubilidadUnión proteínasPenetración SNCPrincipal toxicidadDiscusión:
+¿Por qué fluconazol es útil en criptococosis SNC y ketoconazol no?
+
+?? ACTIVIDAD 7
+Caso complejo – dermatofitosis en criadero felino
+Criadero con 12 gatos.
+Lesiones múltiples.
+Algunos cachorros.
+Consignas:
+a) ¿Tratamiento individual o colectivo?
+b) ¿Tópico o sistémico?
+c) ¿Qué droga evitaría en cachorros?
+d) Diseñe protocolo completo incluyendo ambiente.
+
+BLOQUE III – ANTIVIRALES
+
+?? ACTIVIDAD 8
+Análisis farmacodinámico avanzado
+Explique:
+a) ¿Por qué los antivirales tienen menor índice terapéutico que antibióticos?
+b) ¿Qué implica que el virus use maquinaria celular?
+c) ¿Por qué la resistencia antiviral emerge rápidamente?
+
+?? ACTIVIDAD 9
+Caso clínico – Herpes felino recurrente
+Gato con queratoconjuntivitis crónica.
+Consignas:
+a) ¿Indicaría antiviral sistémico?
+b) ¿Cuándo está realmente indicado famciclovir?
+c) Analice riesgo–beneficio en tratamientos prolongados.
+
+CASO FINAL INTEGRADOR
+Collie con demodicosis generalizada + tratamiento previo fallido con ivermectina.
+Consignas:
+a) Explique mecanismo de toxicidad.
+b) Analice genética involucrada.
+c) Compare ivermectina vs isoxazolina en términos de riesgo–beneficio.
+d) Diseñe plan terapéutico completo.
+
+GUÍA DE ESTUDIO FARMACOLOGÍA Y TERAPÉUTICA
+Fernando Mañas 
+-2026-
+
+2
+
+

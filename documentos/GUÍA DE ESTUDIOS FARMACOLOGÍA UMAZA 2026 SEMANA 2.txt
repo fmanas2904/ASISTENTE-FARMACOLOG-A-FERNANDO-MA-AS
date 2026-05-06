@@ -1,0 +1,729 @@
+
+	
+
+
+Contenido
+SEMANA 2- MÓDULO 2: Farmacología del Sistema Nervioso. Primera Parte: Sistema Nervioso Autónomo	3
+1. Introducción y Objetivos	3
+2. Sistema Nervioso Parasimpático (Colinérgico)	3
+a. Fármacos Agonistas (Parasimpaticomiméticos)	6
+b. Fármacos Antagonistas (Parasimpaticolíticos)	9
+3. Sistema Nervioso Simpático (Adrenérgico)	13
+a. Agonistas Adrenérgicos (Simpaticomiméticos)	17
+b. Antagonistas Adrenérgicos (Simpaticolíticos)	23
+4. Integración clínica: "la lógica del receptor"	27
+5. Actividades de autoevaluación	28
+6. Bibliografía y material de consulta:	28
+7.?? Resumen en 10 puntos	29
+8. ?? Errores clínicos frecuentes	29
+9. ?? Checklist de examen	29
+?? TRABAJO PRÁCTICO Nº 2	30
+
+
+
+
+SEMANA 2- MÓDULO 2: Farmacología del Sistema Nervioso. Primera Parte: Sistema Nervioso Autónomo
+Tema: Parasimpaticomiméticos, parasimpaticolíticos, simpaticomiméticos y simpatocolíticos.
+Semana: 3
+
+1. Introducción y Objetivos
+El Sistema Nervioso Autónomo (SNA) regula funciones críticas para la vida. Para el médico veterinario, el SNA no representa un concepto teórico abstracto, sino que constituye la base fisiológica y farmacológica de numerosas intervenciones clínicas, como la anestesia, la reanimación, el manejo del cólico, la obstrucción urinaria, la atonía ruminal, los trastornos respiratorios, las taquicardias, bradicardias, y las alteraciones de la presión arterial.
+En términos generales, el SNA controla las funciones involuntarias relacionadas con el músculo liso, el músculo cardíaco y las glándulas, modulando de manera dinámica el equilibrio entre los sistemas simpático y parasimpático.
+
+Objetivos de la semana
+Al finalizar esta semana, el estudiante será capaz de:
+1. Diferenciación funcional
+Contrastar la respuesta de “lucha o huida” (Sistema Nervioso Simpático) con la de “descanso y digestión” (Sistema Nervioso Parasimpático), reconociendo sus particularidades en las distintas especies domésticas.
+2. Mecanismos de acción
+Identificar los principales receptores autonómicos (adrenérgicos ? y ?, y colinérgicos muscarínicos), su localización y los efectos fisiológicos asociados a su activación o bloqueo.
+3. Aplicación terapéutica
+Seleccionar el grupo farmacológico y el fármaco más adecuado según la especie, la vía de administración y la patología clínica, integrando criterios de eficacia y seguridad.
+
+2. Sistema Nervioso Parasimpático (Colinérgico)
+El sistema nervioso parasimpático predomina en estados de reposo, digestión y conservación de energía, y cumple un rol central en la regulación de la función visceral. En los animales domésticos, este sistema es fundamental para el mantenimiento de la homeostasis de órganos viscerales, actuando principalmente sobre el músculo liso, el músculo cardíaco y las glándulas.
+En condiciones fisiológicas normales, muchos órganos viscerales se encuentran bajo un predominio parasimpático basal, sobre el cual actúan estímulos simpáticos transitorios que modulan la respuesta funcional según las demandas del organismo.
+* Neurotransmisor: Acetilcolina (ACh)
+* Receptores: Colinérgicos muscarínicos, localizados principalmente a nivel de los órganos efectores.
+Desde el punto de vista anatómico, el sistema parasimpático tiene un origen craneosacro, con una participación particularmente relevante del nervio vago, responsable de la inervación parasimpática de gran parte de las vísceras torácicas y abdominales.
+La distribución y densidad de los receptores muscarínicos no es uniforme entre especies, lo que condiciona respuestas farmacológicas diferentes frente al uso de agonistas y antagonistas colinérgicos. Estas diferencias interespecíficas tienen una importancia clínica directa en la práctica veterinaria.
+En los rumiantes, por ejemplo, los receptores M3 se encuentran particularmente expresados en el tracto gastrointestinal, lo que explica la elevada sensibilidad a fármacos que estimulan la motilidad ruminal e intestinal. En los felinos, en cambio, la activación del sistema parasimpático puede generar una respuesta salival y bronquial más marcada, aspecto que debe ser cuidadosamente considerado al administrar agonistas muscarínicos, especialmente por el riesgo de hipersecreciones y broncoconstricción.
+La mayoría de los fármacos que actúan sobre el sistema parasimpático ejercen sus efectos mediante la modulación de los receptores muscarínicos, ya sea estimulándolos directa o indirectamente, o bloqueando su activación por la acetilcolina endógena.
+Desde el punto de vista clínico, una estimulación excesiva del sistema parasimpático puede dar lugar a un cuadro de hiperactividad colinérgica, caracterizado por hipersecreciones, bradicardia, broncoconstricción y aumento del peristaltismo, signos que deben ser reconocidos tempranamente en la práctica clínica veterinaria.
+Receptores Colinérgicos Muscarínicos
+Los receptores muscarínicos son receptores colinérgicos localizados principalmente en los órganos efectores del sistema parasimpático. Se trata de receptores metabotrópicos, acoplados a proteínas G, cuya activación desencadena cascadas intracelulares que modulan la función del órgano blanco.
+Desde el punto de vista farmacológico, los receptores muscarínicos se clasifican en cinco subtipos (M1 a M5). Sin embargo, en la práctica clínica veterinaria, los subtipos de mayor relevancia son M1, M2 y M3.
+
+Receptor M1 – “Neuronal”
+* Localización principal:
+o Sistema nervioso central
+o Ganglios autonómicos
+o Células parietales gástricas
+* Efectos fisiológicos:
+o Facilita la transmisión ganglionar
+o Estimula la secreción gástrica
+* Relevancia clínica:
+La activación de M1 puede contribuir al aumento de secreciones gástricas. Aunque tiene menor importancia clínica directa en veterinaria, su modulación explica algunos efectos centrales y digestivos de los fármacos colinérgicos.
+
+Receptor M2 – “Cardíaco”
+* Localización principal:
+o Corazón (nódulo sinoauricular y auriculoventricular)
+* Efectos fisiológicos:
+o Disminución de la frecuencia cardíaca (bradicardia)
+o Disminución de la velocidad de conducción AV
+o Disminución de la contractilidad auricular
+* Relevancia clínica:
+La activación del receptor M2 explica los efectos vagales cardíacos. La estimulación excesiva puede provocar bradicardia clínicamente significativa, mientras que su bloqueo (por ejemplo, con atropina) se utiliza para revertir bradicardias vagales durante anestesia o emergencias.
+
+Receptor M3 – “Glandular y músculo liso”
+* Localización principal:
+o Músculo liso (bronquios, tracto gastrointestinal, vejiga)
+o Glándulas exocrinas (salivales, bronquiales, sudoríparas)
+o Ojo (músculo esfínter del iris)
+* Efectos fisiológicos:
+o Aumento del peristaltismo gastrointestinal
+o Contracción del músculo liso bronquial (broncoconstricción)
+o Aumento de secreciones glandulares
+o Miosis y acomodación para la visión cercana
+* Relevancia clínica:
+El receptor M3 es el principal responsable de los efectos periféricos del parasimpático. Su activación explica tanto usos terapéuticos (estimulación de la motilidad, micción) como efectos adversos frecuentes (hipersecreciones, broncoconstricción), especialmente relevantes en felinos y rumiantes.
+
+Tabla resumen – Receptores muscarínicos y efectos clínicos
+ReceptorLocalización principalEfectos predominantesRelevancia clínicaM1SNC, ganglios, estómagoSecreción gástricaBajaM2CorazónBradicardia, ? conducción AVAltaM3Músculo liso, glándulasPeristaltismo, secreciones, broncoconstricciónMuy altaM4–M5SNCModulación centralBaja
+a. Fármacos Agonistas (Parasimpaticomiméticos)
+Los parasimpaticomiméticos son fármacos que estimulan la actividad del sistema nervioso parasimpático, reproduciendo los efectos mediados principalmente por los receptores muscarínicos. Sus efectos incluyen aumento de secreciones glandulares, incremento del peristaltismo gastrointestinal, contracción del músculo liso, miosis y bradicardia.
+Desde el punto de vista farmacológico, se clasifican en agonistas directos, que estimulan directamente los receptores muscarínicos, y agonistas indirectos, que inhiben la acetilcolinesterasa y aumentan la concentración de acetilcolina endógena.
+La respuesta clínica depende del equilibrio entre la estimulación de receptores M2 (cardíacos) y M3 (glándulas y músculo liso), así como de la especie, la vía de administración y el estado fisiopatológico del paciente.
+
+Parasimpaticomiméticos de acción directa
+Pilocarpina
+La pilocarpina es un agonista muscarínico directo, con afinidad predominante por receptores M3. Su acción se manifiesta principalmente a nivel de glándulas exocrinas, músculo liso gastrointestinal, aparato urinario y ojo.
+Aspectos farmacocinéticos y vías
+* Vías de administración:
+o Tópica ocular (uso más frecuente en pequeños animales).
+o Subcutánea en rumiantes (uso sistémico limitado).
+* Inicio de acción: relativamente rápido, especialmente por vía tópica.
+* Duración: moderada; los efectos sistémicos pueden prolongarse si se administra por vía parenteral.
+Usos clínicos
+* Caninos y felinos:
+o Tratamiento del glaucoma, produciendo miosis y facilitando el drenaje del humor acuoso.
+o Estimulación de la secreción lagrimal en queratoconjuntivitis seca de origen neurogénico.
+* Bovinos:
+o Estimulación de la motilidad ruminal en casos seleccionados de atonía ruminal o impactaciones simples.
+Toxicidad y precauciones
+La estimulación excesiva puede producir un cuadro de hiperactividad colinérgica, con hipersalivación, diarrea, broncoconstricción y bradicardia.
+Está contraindicada en:
+* obstrucciones gastrointestinales mecánicas,
+* patologías respiratorias obstructivas,
+* pacientes con bradicardia marcada.
+
+Betanecol 
+El betanecol es un agonista muscarínico directo, con marcada acción sobre el músculo liso del tracto urinario y gastrointestinal, y escasos efectos nicotínicos.
+Aspectos farmacocinéticos y vías
+* Vías: oral y subcutánea.
+* Duración: moderada.
+* Selectividad funcional: preferente por vejiga y tracto digestivo.
+Usos clínicos
+* Caninos:
+o Tratamiento de la retención urinaria funcional (atonía vesical no obstructiva).
+Toxicidad y precauciones
+Contraindicado en:
+* obstrucción urinaria mecánica,
+* obstrucción gastrointestinal,
+* pacientes con bradicardia significativa.
+
+Alerta clínica general
+Los parasimpaticomiméticos nunca deben utilizarse en presencia de obstrucciones mecánicas, ya que el aumento del peristaltismo o de la presión intraluminal puede agravar el cuadro y provocar complicaciones graves.
+
+Parasimpaticomiméticos de acción indirecta
+Neostigmina 
+La neostigmina es un inhibidor reversible de la acetilcolinesterasa, lo que aumenta la concentración de acetilcolina en la sinapsis y potencia la estimulación de receptores muscarínicos y nicotínicos. A diferencia de otros inhibidores, posee escasa penetración al sistema nervioso central.
+Aspectos farmacocinéticos y vías
+* Vías de administración: IV, IM y SC.
+* Inicio de acción: rápido por vía intravenosa.
+* Duración: relativamente corta a moderada.
+* Distribución: predominantemente periférica (no cruza fácilmente la barrera hematoencefálica).
+Usos clínicos
+* Caninos y grandes animales:
+o Reversión de bloqueantes neuromusculares no despolarizantes en anestesia.
+o Estimulación de la motilidad gastrointestinal en íleo paralítico.
+o Tratamiento sintomático de la miastenia gravis.
+Toxicidad y precauciones
+Los efectos adversos se asocian a la estimulación colinérgica excesiva:
+* bradicardia,
+* broncoconstricción,
+* hipersecreciones,
+* cólicos.
+Debe administrarse con precaución en pacientes con:
+* enfermedad cardíaca,
+* asma o patología respiratoria,
+* obstrucciones gastrointestinales.
+
+Tabla resumen – Parasimpaticomiméticos
+FármacoTipoEspeciesVíaUso principalPrecaucionesPilocarpinaAgonista muscarínico directoBovinosSCAtonía ruminal? Obstrucción GIPilocarpina (colirio)Agonista muscarínico directoCaninos / FelinosTópicaGlaucoma, KCS neurogénicaIrritación, miosis excesivaNeostigminaInhibidor AChECaninos / Grandes animalesIV, IM, SCÍleo, miastenia, reversión NMBradicardia, broncoconstricciónBetanecolAgonista muscarínico directoCaninosVO, SCRetención urinaria funcional? Obstrucción urinaria
+Ejemplo clínico – Parasimpaticomiméticos
+Caso clínico
+Un bovino adulto es evaluado por disminución marcada de la motilidad ruminal, distensión abdominal leve y reducción del consumo de alimento. El examen clínico descarta signos compatibles con obstrucción mecánica y no se observan alteraciones cardiovasculares relevantes.
+Análisis farmacológico
+El cuadro es compatible con una atonía ruminal funcional, en la cual se encuentra disminuido el tono parasimpático a nivel del tracto gastrointestinal. En este contexto, la estimulación de los receptores muscarínicos M3 del músculo liso gastrointestinal puede favorecer la recuperación de la motilidad.
+Conducta terapéutica
+Se decide la administración de un parasimpaticomimético, como pilocarpina por vía subcutánea, con el objetivo de estimular la actividad ruminal. La elección del fármaco y la vía se fundamenta en la elevada expresión de receptores M3 en el tracto gastrointestinal de los rumiantes.
+Comentario clínico
+Antes de administrar el fármaco, es indispensable descartar una obstrucción mecánica, ya que el aumento del peristaltismo en este contexto podría agravar el cuadro y generar complicaciones.
+
+b. Fármacos Antagonistas (Parasimpaticolíticos)
+Los parasimpaticolíticos son fármacos que bloquean la acción de la acetilcolina sobre los receptores muscarínicos, inhibiendo así la actividad del sistema nervioso parasimpático. Su efecto clínico general consiste en la disminución de secreciones, la relajación del músculo liso y la inhibición del tono vagal cardíaco.
+Desde el punto de vista fisiológico, estos fármacos antagonizan principalmente los receptores M2 (cardíacos) y M3 (glándulas y músculo liso), lo que explica tanto sus usos terapéuticos como sus efectos adversos.
+
+Aspectos farmacocinéticos y diferencias relevantes
+Las principales diferencias entre los parasimpaticolíticos clásicos se relacionan con su liposolubilidad y, por lo tanto, con su capacidad de atravesar la barrera hematoencefálica y la placenta.
+La atropina, altamente lipofílica, atraviesa la barrera hematoencefálica y puede producir efectos centrales (excitación, delirio), especialmente en dosis elevadas o en especies sensibles.
+En contraste, el glicopirrolato, menos lipofílico y de estructura cuaternaria, presenta escasa penetración al sistema nervioso central y se asocia a un perfil de mayor seguridad, siendo preferido en neonatos, cesáreas y situaciones en las que se busca control cardiovascular sin efectos centrales.
+La variabilidad interespecífica en la distribución de receptores muscarínicos condiciona la respuesta clínica, por lo que el ajuste cuidadoso de la dosis es fundamental.
+
+Atropina
+La atropina es un antagonista muscarínico no selectivo y representa el parasimpaticolítico de referencia en la práctica veterinaria.
+Aspectos farmacocinéticos y vías
+* Vías de administración: IV (urgencias), IM, SC, tópica ocular
+* Distribución: amplia, atraviesa barrera hematoencefálica y placenta
+* Duración de acción: moderada a prolongada, especialmente a nivel ocular
+Usos clínicos
+* Preanestesia: prevención o tratamiento de bradicardia vagal y reducción de secreciones
+* Antídoto funcional: intoxicaciones por organofosforados y carbamatos
+* Oftalmología: midriático y cicloplejía de larga duración
+Toxicidad y precauciones
+* Taquicardia, íleo paralítico, sequedad de mucosas, excitación central
+* En equinos, la administración sistémica puede desencadenar íleo paralítico
+* Evitar en pacientes con glaucoma de ángulo cerrado
+
+Butilescopolamina (Hioscina butilbromuro)
+La butilescopolamina es un antagonista muscarínico con marcada acción sobre el músculo liso gastrointestinal y genitourinario, y escasos efectos centrales debido a su baja penetración al SNC.
+Aspectos farmacocinéticos y vías
+* Vías: IV (lento), IM
+* Distribución: predominantemente periférica
+* Inicio de acción: rápido
+* Duración: corta a moderada
+Usos clínicos
+* Equinos: tratamiento del cólico espasmódico
+* Caninos: dolor abdominal visceral y espasmos gastrointestinales
+* Uso frecuente en combinación con dipirona
+Toxicidad y precauciones
+* Taquicardia leve, disminución transitoria de motilidad
+* No indicada en íleo paralítico establecido
+
+Glicopirrolato
+El glicopirrolato es un antagonista muscarínico cuaternario, con mínima penetración al sistema nervioso central.
+Aspectos farmacocinéticos y vías
+* Vías: IV, IM, SC
+* No atraviesa barrera hematoencefálica ni placenta
+* Duración: algo más prolongada que la atropina en el control de la bradicardia
+Usos clínicos
+* Prevención y tratamiento de bradicardia vagal
+* Preanestesia en neonatos y cesáreas
+* Alternativa a atropina cuando se desea evitar efectos centrales
+Toxicidad y precauciones
+* Menor incidencia de taquicardia y excitación central
+* Riesgo de sequedad excesiva de mucosas si se sobredosifica
+
+Ipratropio
+El ipratropio es un antagonista muscarínico cuaternario de uso exclusivamente inhalatorio, con acción preferente a nivel bronquial.
+Mecanismo de acción
+* Bloquea receptores muscarínicos M3 en el músculo liso bronquial
+* Inhibe la broncoconstricción mediada por el tono vagal
+* No atraviesa la barrera hematoencefálica
+Aspectos farmacocinéticos y vías
+* Vía: inhalatoria (nebulización o aerocámara)
+* Absorción sistémica mínima
+* Inicio de acción: rápido
+* Duración: corta a moderada
+Usos clínicos
+* Asma 
+* Bronquitis crónica 
+* Terapia combinada con agonistas ?? (efecto aditivo)
+Ventajas clínicas
+* Broncodilatación sin efectos centrales ni cardiovasculares significativos
+* Seguro para uso repetido por vía inhalatoria
+
+Tropicamida
+La tropicamida es un antagonista muscarínico de acción corta, utilizado exclusivamente en oftalmología.
+Usos clínicos
+* Pequeños animales: midriasis de corta duración para examen de fondo de ojo
+Precauciones
+* Evitar su uso repetido o en animales con glaucoma no controlado
+
+?? Alerta clínica general
+Los parasimpaticolíticos pueden producir íleo paralítico, taquicardia y sequedad excesiva de mucosas.
+En especies sensibles como el equino, su uso sistémico debe ser cuidadosamente evaluado.
+
+?? Tabla resumen – Parasimpaticolíticos
+FármacoEspeciesVíasUso principalPrecaucionesAtropinaTodasIV, IM, SC, tópicaBradicardia, antídoto OF, midriasisÍleo, taquicardia, SNCButilescopolaminaEquinos / CaninosIV, IMCólico espasmódicoNo usar en íleoGlicopirrolatoCaninos / FelinosIV, IM, SCBradicardia sin efectos centralesSequedadIpratropioPequeños animalesInhalatoriaBroncodilatación vagalUso solo inhaladoTropicamidaPequeños animalesTópica ocularMidriasis cortaGlaucoma
+Ejemplo clínico – Parasimpaticolíticos
+Caso clínico
+Un perro adulto sometido a un procedimiento quirúrgico presenta, durante la anestesia, una bradicardia marcada, asociada a un aumento del tono vagal. El paciente no presenta antecedentes de enfermedad cardíaca estructural.
+Análisis farmacológico
+La bradicardia observada se explica por una estimulación excesiva de los receptores muscarínicos M2 a nivel cardíaco. En este contexto, resulta indicado bloquear la acción de la acetilcolina sobre dichos receptores para revertir el efecto vagal.
+Conducta terapéutica
+Se administra un parasimpaticolítico, como atropina o glicopirrolato por vía intravenosa, logrando un aumento de la frecuencia cardíaca. En situaciones en las que se busca evitar efectos centrales o el pasaje placentario, el glicopirrolato constituye una alternativa más segura.
+Comentario clínico
+Este caso ilustra la utilidad de los parasimpaticolíticos para el manejo de bradicardias vagales en anestesia, así como la importancia de seleccionar el fármaco considerando sus características farmacocinéticas y su perfil de seguridad.
+
+3. Sistema Nervioso Simpático (Adrenérgico)
+El sistema nervioso simpático (SNS) es el principal regulador de las respuestas rápidas de adaptación y supervivencia, clásicamente asociadas a la reacción de “lucha o huida”. Su activación permite al organismo responder de manera inmediata a situaciones de estrés, dolor, hipovolemia, hipoxia o ejercicio, priorizando la perfusión de órganos vitales.
+En términos generales, el SNS actúa sobre el músculo liso vascular, el corazón, los bronquios y el metabolismo energético, produciendo efectos como vasoconstricción o vasodilatación regional, aumento de la frecuencia y contractilidad cardíaca, broncodilatación y movilización de reservas energéticas.
+* Neurotransmisores: Noradrenalina y adrenalina.
+* Receptores: Adrenérgicos alfa (?) y beta (?).
+
+Variabilidad interespecífica y relevancia clínica
+La proporción y distribución de los receptores adrenérgicos presenta variaciones significativas entre especies, lo que condiciona respuestas farmacológicas diferentes ante un mismo fármaco.
+En los equinos, existe una marcada sensibilidad vascular a la estimulación de receptores ?, lo que explica respuestas vasoconstrictoras intensas frente a agonistas alfa y un mayor riesgo de efectos adversos cardiovasculares. En los caninos, en cambio, suele predominar la respuesta mediada por receptores ?, particularmente a nivel cardíaco y bronquial, lo que se traduce en una mayor respuesta cronotrópica, inotrópica y broncodilatadora.
+Estas diferencias interespecíficas obligan a ajustar cuidadosamente la selección del fármaco y la dosis, especialmente en situaciones críticas.
+
+Influencia del estado fisiopatológico
+La liberación endógena de catecolaminas durante situaciones de estrés, dolor o shock puede modificar de manera significativa la respuesta a los fármacos adrenérgicos administrados exógenamente. En este contexto, los efectos farmacológicos pueden verse potenciados o atenuados, e incluso resultar contradictorios, dependiendo del receptor predominante y del estado del paciente.
+Por este motivo, la respuesta clínica a un simpaticomimético no depende únicamente del fármaco, sino también del tono simpático basal y de la fisiología de la especie.
+
+Lógica del receptor adrenérgico
+La comprensión de la afinidad de los fármacos por los distintos subtipos de receptores permite predecir sus efectos clínicos.
+La adrenalina presenta afinidad tanto por receptores ? como ?, por lo que su efecto final dependerá de la dosis, la vía de administración y el lecho vascular involucrado. La noradrenalina, en cambio, actúa predominantemente sobre receptores ?, generando efectos vasoconstrictores más marcados y un impacto hemodinámico diferente.
+Esta lógica receptor–efecto constituye la base para la selección racional de fármacos simpaticomiméticos y simpatolíticos en la práctica veterinaria.
+
+Receptores Adrenérgicos
+Los receptores adrenérgicos son los mediadores de los efectos del sistema nervioso simpático y de las catecolaminas endógenas (adrenalina y noradrenalina). Se trata de receptores metabotrópicos, acoplados a proteínas G, cuya activación modula funciones cardiovasculares, respiratorias, metabólicas y viscerales.
+Desde el punto de vista farmacológico, se clasifican en receptores alfa (?) y beta (?), cada uno con subtipos funcionales de relevancia clínica.
+
+Receptores ?1 – “Vasculares”
+* Localización principal:
+o Músculo liso vascular (arteriolas y venas)
+o Tracto genitourinario
+o Iris (músculo dilatador)
+* Efectos fisiológicos:
+o Vasoconstricción periférica
+o Aumento de la resistencia vascular
+o Midriasis
+o Contracción del músculo liso urinario
+* Relevancia clínica:
+La estimulación de ?1 explica el aumento de la presión arterial inducido por agonistas alfa. En equinos, la elevada sensibilidad vascular a este receptor condiciona respuestas intensas y un mayor riesgo de isquemia tisular.
+
+Receptores ?2 – “Moduladores”
+* Localización principal:
+o Terminaciones nerviosas presinápticas
+o Sistema nervioso central
+* Efectos fisiológicos:
+o Inhibición de la liberación de noradrenalina
+o Disminución del tono simpático
+o Sedación y analgesia (efectos centrales)
+* Relevancia clínica:
+Los receptores ?2 explican los efectos sedantes y analgésicos de fármacos como xilazina, detomidina, medetomidina y dexmedetomidina, ampliamente utilizados en medicina veterinaria.
+
+Receptores ?1 – “Cardíacos”
+* Localización principal:
+o Corazón (nódulo SA, AV y miocardio)
+* Efectos fisiológicos:
+o Aumento de la frecuencia cardíaca (cronotropismo positivo)
+o Aumento de la contractilidad (inotropismo positivo)
+o Aumento de la velocidad de conducción
+* Relevancia clínica:
+La estimulación de ?1 es responsable del aumento del gasto cardíaco inducido por agonistas beta. En pacientes con cardiopatías, su activación excesiva puede predisponer a arritmias.
+
+Receptores ?2 – “Bronquiales y uterinos”
+* Localización principal:
+o Músculo liso bronquial
+o Músculo liso vascular (lechos específicos)
+o Útero
+o Hígado y músculo esquelético
+* Efectos fisiológicos:
+o Broncodilatación
+o Vasodilatación en lechos musculares
+o Relajación uterina (tocolítico)
+o Movilización de glucosa (glucogenólisis)
+* Relevancia clínica:
+La activación de ?2 explica el uso de agonistas beta en el tratamiento del broncoespasmo y otras patologías respiratorias, especialmente en pequeños animales.
+
+Tabla resumen – Receptores adrenérgicos
+ReceptorLocalización principalEfectos predominantesRelevancia clínica?1Vasos, iris, GUVasoconstricción, midriasisControl de PA?2Presináptico, SNC? liberación NA, sedaciónSedación, analgesia?1Corazón? FC, ? contractilidadSoporte cardíaco?2Bronquios, músculoBroncodilatación, vasodilataciónAsma, broncoespasmo
+a. Agonistas Adrenérgicos (Simpaticomiméticos)
+Los simpaticomiméticos son fármacos que estimulan los receptores adrenérgicos ? y/o ?, reproduciendo los efectos del sistema nervioso simpático. Su acción clínica incluye modificaciones cardiovasculares, respiratorias y metabólicas, lo que los convierte en herramientas fundamentales en emergencias, anestesia, cuidados intensivos y patología respiratoria.
+Desde el punto de vista farmacológico, la respuesta clínica depende principalmente de:
+* El subtipo de receptor activado
+* La dosis
+* La vía de administración
+* La especie
+Existen diferencias interespecíficas marcadas que condicionan tanto la eficacia como la toxicidad.
+
+Consideraciones interespecíficas relevantes
+* Felinos: respuesta intensa a agonistas ?2 ? sedación profunda, bradicardia y aumento del tono vagal.
+* Rumiantes: extremadamente sensibles a agonistas ?2 (dosis hasta 10 veces menores).
+* Equinos: buena respuesta a agonistas ?2, pero con riesgo de taquicardia y tolerancia.
+* Pacientes críticos: la respuesta a agonistas ?1 depende de una precarga adecuada.
+
+Agonistas ?? (Vasoconstrictores periféricos)
+Fenilefrina
+Agonista ?1 selectivo.
+Vías: IV, tópica
+Usos clínicos:
+* Hipotensión (vasodilatación periférica)
+* Midriasis sin cicloplejia (oftalmología)
+* Descongestivo nasal
+Precauciones:
+* Hipertensión
+* Bradicardia refleja por activación vagal
+
+Nafazolina
+Agonista ?1 de acción local intensa.
+Vía: tópica (ocular o nasal)
+Usos clínicos:
+* Descongestivo nasal
+* Reducción de hiperemia conjuntival
+Consideraciones clínicas:
+* Uso breve y puntual
+* Riesgo de vasodilatación de rebote
+* No recomendada para uso sistémico en veterinaria
+
+Agonistas ?? (Sedantes y analgésicos centrales)
+Xilazina
+Agonista ?2 clásico de uso veterinario.
+Vías: IV, IM, SC
+Particularidades por especie:
+* Bovinos: hasta 10× más sensibles
+* Felinos: efecto emético frecuente
+Efectos adversos:
+* Bradicardia
+* Depresión respiratoria
+* Alteraciones gastrointestinales
+* Cambios hemodinámicos marcados
+
+Dexmedetomidina
+Agonista ?2 altamente selectivo.
+Vías: IV, IM, gel oral
+Usos clínicos:
+* Sedación profunda y controlada
+* Analgesia visceral
+* Muy utilizada en pequeños animales y equinos
+Ventajas:
+* Sedación más predecible
+* Reversible
+* Menor incidencia de efectos adversos que xilazina
+
+Agonistas ?? (Inotrópicos positivos)
+Dobutamina
+Agonista ?1 predominante, con mínimo efecto ?.
+Vía: IV en infusión continua
+Mecanismo de acción:
+* Aumenta la contractilidad miocárdica (inotropismo positivo)
+* Incrementa el gasto cardíaco
+* Mínimo aumento de la frecuencia cardíaca comparado con otros simpaticomiméticos
+Usos clínicos:
+* Shock cardiogénico
+* Insuficiencia cardíaca aguda
+* Soporte inotrópico en anestesia y cuidados intensivos
+Concepto clave:
+?? Requiere precarga adecuada.
+En hipovolemia no responde correctamente.
+
+Agonistas ?? (Broncodilatadores y relajantes del músculo liso)
+Clenbuterol
+Agonista ?2 de acción prolongada.
+Vías: oral, IV
+Usos clínicos:
+* Equinos: RAO / EPOC
+* Tocolítico: relajación uterina en distocias (IV lento)
+Efectos adversos:
+* Taquicardia
+* Temblores musculares
+* Desarrollo de tolerancia con uso prolongado
+
+Salbutamol
+Agonista ?2 selectivo de acción rápida.
+Vía: inhalatoria
+Usos clínicos:
+* Asma felino
+* Bronquitis crónica canina
+* Broncodilatador de rescate
+Ventaja principal:
+* Alta selectividad pulmonar
+* Mínimos efectos sistémicos
+
+Agonistas adrenérgicos no selectivos
+Adrenalina (Epinefrina)
+Agonista ? y ? no selectivo.
+Vías: IV, IM, intratraqueal
+Usos clínicos:
+* Reanimación cardiopulmonar
+* Shock anafiláctico (?2 + ?1)
+* Vasoconstrictor asociado a anestésicos locales
+Efectos adversos:
+* Taquicardia
+* Arritmias
+* Hipertensión
+* Isquemia tisular por vasoconstricción excesiva
+
+Noradrenalina
+Agonista predominantemente ?, con efecto ?1 menor.
+Vía: IV en infusión continua
+Usos clínicos:
+* Vasopresor de elección en shock distributivo
+Precauciones:
+* Vasoconstricción intensa
+* Riesgo de extravasación
+* Monitoreo hemodinámico estricto
+
+?? Alerta clínica general
+Los simpaticomiméticos pueden provocar:
+* Arritmias
+* Hipertensión
+* Isquemia tisular
+* Alteraciones metabólicas
+?? Su uso debe realizarse bajo monitoreo cardiovascular, especialmente en pacientes críticos o con enfermedad cardíaca previa.
+
+?? Tabla resumen – Simpaticomiméticos
+FármacoReceptor principalEspeciesVíaUso clínico principalAdrenalina? + ?TodasIV, IM, ITRCP, anafilaxiaNoradrenalina? > ?1Caninos / FelinosIV (IC)Shock distributivoFenilefrina?1Caninos / Eq.IV, tópicaHipotensión, midriasisNafazolina?1VariasTópicaDescongestivo localXilazina?2Eq. / Bov. / Peq.IV, IMSedaciónDexmedetomidina?2 selectivoCan. / Fel. / Eq.IV, IM, VOSedación controladaDobutamina?1Caninos / FelinosIV (IC)Shock cardiogénicoClenbuterol?2EquinosVO, IVRAO, tocolíticoSalbutamol?2Peq. animalesInhalatoriaBroncoespasmo
+Ejemplo clínico 1 – Agonistas ?2 (sedación y analgesia)
+Caso clínico
+Un equino adulto es evaluado para la realización de un procedimiento diagnóstico doloroso de corta duración. El animal se presenta ansioso, con taquicardia moderada y marcada reactividad al manejo, sin signos de compromiso cardiovascular grave.
+Análisis farmacológico
+El cuadro requiere un fármaco que proporcione sedación profunda y analgesia, reduciendo la respuesta al estrés y al dolor. La estimulación de los receptores ?2 presinápticos disminuye la liberación de noradrenalina, produciendo sedación, analgesia y reducción del tono simpático.
+Conducta terapéutica
+Se selecciona un agonista ?2, como xilazina o medetomidina, administrado por vía intravenosa o intramuscular. En el equino, estos fármacos permiten un manejo seguro y eficaz, siempre ajustando la dosis a la especie y al estado del paciente.
+Comentario clínico
+Debe considerarse el riesgo de bradicardia y alteraciones hemodinámicas, por lo que se recomienda monitoreo cardiovascular durante el procedimiento. En rumiantes, la dosis debe reducirse significativamente debido a su mayor sensibilidad a los agonistas ?2.
+
+Ejemplo clínico 2 – Agonistas ? (emergencia respiratoria y cardiovascular)
+Caso clínico
+Un gato adulto con antecedentes de asma felino ingresa a la consulta con disnea aguda, respiración forzada y uso de musculatura accesoria. El examen clínico sugiere un episodio de broncoespasmo severo.
+Análisis farmacológico
+El broncoespasmo se explica por la contracción del músculo liso bronquial. La estimulación de los receptores ?2 produce broncodilatación rápida, reduciendo la resistencia de la vía aérea y mejorando la ventilación.
+Conducta terapéutica
+Se administra salbutamol por vía inhalatoria, aprovechando su alta selectividad ?2 y su rápido inicio de acción, con mínimos efectos sistémicos.
+Comentario clínico
+Este caso ilustra la ventaja del uso local e inhalatorio de simpaticomiméticos ?2 en pequeños animales, especialmente en pacientes con riesgo cardiovascular, donde se busca evitar la estimulación ?1 sistémica.
+
+Ejemplo clínico 3 – Agonistas ?1/?1 en cuidados intensivos
+Caso clínico
+Un perro hospitalizado en cuidados intensivos presenta hipotensión persistente a pesar de la reposición adecuada de fluidos. El cuadro es compatible con shock distributivo.
+Análisis farmacológico
+La hipotensión se debe a una disminución del tono vascular periférico. La estimulación de receptores ?1 permite aumentar la resistencia vascular sistémica, mejorando la presión arterial.
+Conducta terapéutica
+Se inicia una infusión continua de noradrenalina, ajustando la dosis según respuesta hemodinámica.
+Comentario clínico
+El uso de vasopresores debe realizarse bajo monitoreo continuo, evaluando perfusión periférica y evitando la vasoconstricción excesiva.
+
+b. Antagonistas Adrenérgicos (Simpaticolíticos)
+Los simpaticolíticos son fármacos que bloquean los receptores adrenérgicos ? y/o ?, antagonizando los efectos del sistema nervioso simpático. Su acción clínica se traduce en una disminución del tono simpático, con efectos cardiovasculares, vasculares y viscerales.
+Desde el punto de vista farmacológico, se clasifican en:
+* Bloqueantes alfa (?)
+* Bloqueantes beta (?)
+La respuesta clínica depende en gran medida del tono simpático basal del paciente, el cual suele encontrarse aumentado en situaciones de dolor, estrés, shock o anestesia ligera. Por este motivo, los efectos de estos fármacos pueden ser más marcados en pacientes críticos o hipovolémicos.
+
+Consideraciones interespecíficas relevantes
+En equinos, el bloqueo de receptores ?1 puede provocar una disminución significativa de la presión arterial, especialmente en animales deshidratados o con compromiso hemodinámico. En este contexto, el uso de fármacos con acción alfa bloqueante debe realizarse con precaución.
+En pequeños animales, los ?-bloqueantes se utilizan principalmente para el manejo de arritmias supraventriculares y otras patologías cardíacas. La selectividad ?1 de algunos fármacos reduce el riesgo de broncoconstricción asociado al bloqueo de receptores ?2, lo que resulta especialmente importante en pacientes con enfermedad respiratoria concurrente.
+
+Antagonistas adrenérgicos ??
+El bloqueo de los receptores ?1 produce vasodilatación periférica y disminución del tono del músculo liso vascular y genitourinario. Su efecto principal es la reducción de la resistencia vascular sistémica y de la resistencia uretral.
+Prazosin
+El prazosin es un antagonista ?1 selectivo, con acción predominante a nivel del músculo liso vascular y del tracto genitourinario.
+Aspectos farmacológicos y vías
+* Vía: oral.
+* Inicio de acción: relativamente rápido.
+* Efecto principal: vasodilatación periférica por bloqueo ?1.
+Usos clínicos
+* Caninos y felinos:
+o Tratamiento de la hipertensión arterial.
+o Manejo de la obstrucción urinaria funcional y de los espasmos uretrales, especialmente en gatos con obstrucción uretral recurrente.
+* Reducción de la resistencia uretral en patologías del tracto urinario inferior.
+Precauciones
+* Riesgo de hipotensión, especialmente tras la primera dosis (“efecto de primera dosis”).
+* Ajustar dosis y monitorear presión arterial.
+
+Antagonistas adrenérgicos ??
+Los antagonistas ?2 bloquean receptores presinápticos involucrados en la retroalimentación negativa de la liberación de noradrenalina. En clínica veterinaria se utilizan principalmente como reversores farmacológicos de agonistas ?2.
+Yohimbina
+La yohimbina es un antagonista ?2, utilizado principalmente como reversor farmacológico de agonistas ?2.
+* Vía: IV.
+Usos clínicos
+* Antídoto específico de xilazina, revirtiendo sedación, bradicardia y depresión respiratoria.
+Precauciones
+* Puede inducir excitación, taquicardia o hipertensión si se administra en exceso o rápidamente.
+Atipamezol
+El atipamezol es un antagonista ?2 altamente selectivo, con un perfil de reversión más predecible y seguro.
+* Vías: IM (preferida), IV.
+Usos clínicos
+* Reversión de dexmedetomidina y medetomidina en pequeños animales.
+Ventajas
+* Reversión más completa y menor incidencia de efectos adversos en comparación con yohimbina.
+
+Antagonistas adrenérgicos ??
+El bloqueo de los receptores ?1 se manifiesta principalmente a nivel cardíaco, con disminución de la frecuencia cardíaca, la contractilidad y la conducción auriculoventricular.
+Atenolol
+El atenolol es un ?-bloqueante cardioselectivo (?1).
+* Vía: oral.
+Usos clínicos
+* Taquicardias supraventriculares.
+* Arritmias.
+* Cardiomiopatía hipertrófica felina, reduciendo la frecuencia cardíaca y el consumo de oxígeno miocárdico.
+Precauciones
+* Bradicardia excesiva.
+* Hipotensión.
+* Descompensación cardíaca en pacientes hemodinámicamente inestables.
+
+Antagonistas adrenérgicos ?1 (no selectivo)
+El bloqueo de receptores ?2 no suele ser deseable en clínica veterinaria, ya que puede provocar broncoconstricción y vasoconstricción periférica. Estos efectos se observan principalmente con ?-bloqueantes no selectivos.
+Propranolol
+El propranolol es un ?-bloqueante no selectivo (?1 + ?2).
+* Vías: oral, IV.
+Usos clínicos
+* Antiarrítmico Clase II (uso cada vez más limitado).
+Limitaciones
+* Riesgo de broncoconstricción por bloqueo ?2.
+* Atraviesa la barrera hematoencefálica, con posibles efectos centrales.
+
+Alerta clínica general
+Los simpaticolíticos pueden producir hipotensión, bradicardia y colapso cardiovascular si se administran sin considerar el tono simpático basal y el estado hemodinámico del paciente. Su uso requiere una adecuada evaluación clínica y monitoreo.
+
+Tabla resumen – Simpaticolíticos
+FármacoReceptor bloqueadoEspeciesVíaUso clínico principalYohimbina?2TodasIVReversor de xilazinaAtipamezol?2 selectivoPequeños animalesIM, IVReversor de dexmedetomidinaPrazosin?1Caninos / FelinosOralHipertensión, espasmo uretralAtenolol?1Caninos / FelinosOralArritmias, CMH felinaPropranolol?1 + ?2CaninosOral, IVAntiarrítmico (uso limitado)
+Ejemplo clínico 1 – Antagonistas ?2 (reversión de sedación)
+Caso clínico
+Un perro adulto fue sedado con dexmedetomidina para la realización de un procedimiento diagnóstico. Finalizado el estudio, el paciente presenta bradicardia marcada, hipotermia leve y recuperación lenta, sin necesidad de mantener la sedación.
+Análisis farmacológico
+La sedación y la bradicardia se explican por la estimulación de los receptores ?2, que reducen la liberación de noradrenalina y el tono simpático central y periférico. En este contexto, resulta apropiado revertir farmacológicamente los efectos del agonista ?2.
+Conducta terapéutica
+Se administra atipamezol por vía intramuscular, antagonizando de forma específica los receptores ?2. La reversión es rápida y controlada, con normalización progresiva de la frecuencia cardíaca y del estado de alerta.
+Comentario clínico
+Este caso ilustra el uso racional de antagonistas ?2 como reversores específicos, permitiendo acortar los tiempos de recuperación y reducir efectos adversos cardiovasculares.
+
+Ejemplo clínico 2 – Antagonistas ?1 (prazosin)
+Caso clínico
+Un gato macho presenta un episodio de obstrucción uretral, que es resuelto mediante sondaje. Tras la desobstrucción, el animal mantiene disuria y espasmo uretral, sin evidencia de obstrucción mecánica persistente.
+Análisis farmacológico
+El espasmo uretral se asocia a la contracción del músculo liso mediada por receptores ?1 en el tracto urinario inferior. El bloqueo selectivo de estos receptores reduce la resistencia uretral y facilita la micción.
+Conducta terapéutica
+Se indica prazosin por vía oral, como antagonista ?1 selectivo, con el objetivo de disminuir el tono uretral y prevenir la recurrencia inmediata de la obstrucción funcional.
+Comentario clínico
+Debe considerarse el riesgo de hipotensión, especialmente tras la primera dosis, por lo que se recomienda iniciar con dosis bajas y monitorear al paciente. Este caso ejemplifica el uso clínico del bloqueo ?1 fuera del ámbito cardiovascular.
+
+Ejemplo clínico 3 – Antagonistas ? (atenolol)
+Caso clínico
+Un gato diagnosticado con cardiomiopatía hipertrófica presenta episodios recurrentes de taquicardia y signos de intolerancia al ejercicio, sin insuficiencia cardíaca congestiva.
+Análisis farmacológico
+El aumento de la frecuencia cardíaca se encuentra mediado por la estimulación de los receptores ?1 cardíacos, lo que incrementa el consumo de oxígeno del miocardio y empeora el cuadro clínico.
+Conducta terapéutica
+Se instaura tratamiento con atenolol por vía oral, bloqueante ?1 cardioselectivo, logrando una reducción de la frecuencia cardíaca y una mejora del llenado diastólico.
+Comentario clínico
+La selectividad ?1 del atenolol reduce el riesgo de broncoconstricción asociado al bloqueo ?2, lo que lo convierte en una opción más segura que los ?-bloqueantes no selectivos en pequeños animales.
+
+4. Integración clínica: "la lógica del receptor"
+Para no memorizar de más, recuerde dónde están los receptores clave en las especies domésticas:
+El Corazón (Beta 1 y M2)
+* Simpático (Beta 1): Acelera todo. Drogas: Adrenalina, Dobutamina.
+* Parasimpático (Muscarínico): Frena todo.
+o Maniobra: Si quiero acelerar el corazón puedo bloquear el Muscarínico (Atropina).
+El Pulmón (Beta 2 y M3)
+* Simpático (Beta 2): Dilata bronquios (necesito aire para correr). Drogas: Clenbuterol, Salbutamol.
+* Parasimpático (Muscarínico): Contrae bronquios y aumenta moco.
+o Patología: En el asma hay un predominio colinérgico/inflamatorio. Usamos agonistas Beta 2 para contrarrestarlo.
+El Rumen e Intestino
+* Parasimpático (M): Es el motor principal.
+o Pilocarpina/Neostigmina: Pisan el acelerador (Cuidado: riesgo de ruptura si hay obstrucción).
+o Butilescopolamina (Hioscina): Pisan el freno (Antiespasmódico para el dolor cólico).
+* Simpático (Alfa y Beta): Frena la motilidad (íleo paralítico por estrés/dolor).
+o Dato: La Xilacina (Alfa 2) detiene el ciego del caballo, predisponiendo a cólicos por impactación si se usa repetidamente sin ayuno.
+
+5. Actividades de autoevaluación
+Caso 1: El Equino con Cólico
+Llega un SPC con dolor abdominal severo (sudoración, pataleo). Frecuencia cardíaca 60 lpm.
+1. Usted decide administrar Butilescopolamina + Dipirona. ¿Cuál es el fundamento farmacológico para el componente de Butilescopolamina?
+2. ¿Por qué estaría contraindicado usar Neostigmina en este momento?
+Caso 2: La vaca caída
+Una vaca presenta atonía ruminal posparto sin obstrucción física.
+1. Usted indica Pilocarpina por vía subcutánea. Explique el mecanismo de acción a nivel del músculo liso ruminal.
+2. ¿Qué signos de "exceso colinérgico" (efectos adversos) debería monitorear en la vaca? (Piense en saliva y heces).
+Caso 3: Cesárea en Bulldog
+Está anestesiando una perra para cesárea. La frecuencia cardíaca baja peligrosamente.
+1. Debe elegir entre Atropina y Glicopirrolato.
+2. ¿Cuál elige para proteger a los cachorros de la taquicardia?
+
+6. Bibliografía y material de consulta:
+1. Riviere J.E & Papich M. Veterinary Pharmacology and Therapeutics (10th ed).
+2. Vademécum Veterinario Argentino: Para consulta de nombres comerciales y presentaciones (ej. Holliday, John Martin, Chinfield, Richmond, Over).
+
+7.?? Resumen en 10 puntos
+• Diferencias funcionales SNA
+• Ubicación de receptores
+• Acciones simpáticas vs parasimpáticas
+• Selectividad farmacológica
+• Importancia de especie
+• Aplicaciones clínicas
+• Agonistas y antagonistas
+• Interacciones con anestesia
+• Predicción de respuestas
+• Seguridad farmacológica
+
+8. ?? Errores clínicos frecuentes
+• Usar parasimpaticomiméticos en obstrucción GI
+• Atropina en íleo equino
+• Confundir selectividad alfa vs beta
+• No considerar especie en respuesta adrenérgica
+
+9. ?? Checklist de examen
+• ¿Identifica receptores?
+• ¿Predice efectos simpáticos/parasimpáticos?
+• ¿Conoce agonistas/antagonistas?
+• ¿Comprende selectividad?
+• ¿Aplica lógica clínica?
+
+
+
+?? TRABAJO PRÁCTICO Nº 2
+
+Carrera: Veterinaria
+Asignatura: Farmacología y terapéutica
+Semana: 4
+Tema: Sistema Nervioso Autónomo (SNA)
+Duración: 2–3 horas
+Modalidad: Presencial – trabajo grupal + discusión guiada
+
+I. Fundamentación del Trabajo Práctico
+El Sistema Nervioso Autónomo regula funciones vitales como la frecuencia cardíaca, la motilidad gastrointestinal, el tono vascular y la secreción glandular.
+En medicina veterinaria, numerosos fármacos actúan modulando receptores autonómicos, por lo que comprender la fisiología del SNA y su farmacología resulta esencial para una prescripción racional y segura.
+Este trabajo práctico tiene como objetivo que el estudiante integre la organización del SNA, los receptores involucrados y la acción de fármacos simpaticomiméticos, simpaticolíticos y parasimpaticomiméticos, aplicando estos conocimientos a situaciones clínicas reales en distintas especies.
+
+II. Objetivos
+Objetivo general
+• Aplicar los principios de la farmacología del Sistema Nervioso Autónomo al razonamiento clínico veterinario.
+Objetivos específicos
+Al finalizar el trabajo práctico, el estudiante será capaz de:
+• Reconocer la organización funcional del SNA.
+• Diferenciar receptores adrenérgicos y colinérgicos y sus efectos.
+• Relacionar fármacos con su mecanismo de acción autonómico.
+• Seleccionar racionalmente fármacos según especie y contexto clínico.
+• Identificar riesgos asociados a la modulación farmacológica del SNA.
+
+III. Contenidos involucrados
+• Organización del Sistema Nervioso Autónomo.
+• Sistema simpático y parasimpático.
+• Receptores adrenérgicos (? y ?).
+• Receptores colinérgicos (muscarínicos y nicotínicos).
+• Agonistas y antagonistas autonómicos.
+• Consideraciones interespecíficas.
+• Aplicación clínica del SNA en medicina veterinaria.
+
+IV. Actividades prácticas
+
+Problemas
+1) Te llaman para pedir ayuda con la siguiente situación: Una vaca que parió ayer ha estado débil y letárgica, y hoy ha sufrido una caída y no puede ponerse en pie. Al examinarla, observas que la vaca tiene una disminución del tono muscular, atonía ruminal y debilidad generalizada. Además, presenta frecuencias cardíaca y respiratoria incrementadas. Después de examinarla, llegas a la conclusión de que la vaca sufre de síndrome de vaca caída. ¿Cuál es el tratamiento más adecuado para la vaca? Busca en internet un medicamento que contenga el principio activo que consideres de utilidad en esta situación, y realiza el cálculo de dosis del volumen a administrar, teniendo en cuenta que la vaca tiene un peso aproximado de 500 kgs.
+2) Un canino presenta la siguiente sintomatología: salivación leve, defecación, vómitos y temblores musculares generalizados. El propietario manifiesta que fumigó el jardín con productos organofosforados. Para un tratamiento de emergencia: ¿Qué droga/s utilizaría? Indique dosis, vía y frecuencia de administración. Indique el mecanismo de acción de cada droga y relaciónelo con el cese de los síntomas clínicos.
+3) Un equino presenta los siguientes síntomas: tos frecuente, disnea respiratoria incluso en reposo, frecuencia respiratoria elevada y dificultad espiratoria manifiesta que se evidencia por un esfuerzo abdominal suplementario. La sintomatología tiene carácter estacional y se agrava en respuesta a la exposición a alérgenos. El veterinario diagnostica Enfermedad Pulmonar Obstructiva Crónica (EPOC). ¿Con qué drogas se podría tratar esta patología?
+4) Un canino recibe accidentalmente una sobredosis de un depresor del sistema nervioso central denominado Xilacina (agonista alfa 2). Para revertir el efecto ¿Qué droga usaría?
+
+5) Un perro con bradicardia necesita un medicamento para corregir la disminución de la frecuencia cardíaca causada por el uso de Xilacina. Busque uno en internet, elija una dosis apropiada y calcule el volumen que debería administrarle teniendo en cuenta que el animal tiene un peso de 25 kgs.
+6) Un propietario de un perro de raza boxer acude a tu consulta con su mascota debido a que ha notado que el perro presenta síntomas de hipertensión arterial. Durante el examen físico, confirmas que la presión arterial del perro está elevada. Desde el punto de vista farmacológico, y en relación a lo que es el control del sistema cardiovascular por parte del sistema nervioso autónomo, mencione qué drogas podríamos emplear para reducir la presión arterial en caninos. Seleccione una de ellas y busque en internet algún medicamento que contenga el principio activo seleccionado. Realice el cálculo de dosis correspondiente, considerando que el perro tiene un peso de 25 kgs.
+7) Un productor te llama para que le ayudes con uno de sus bovinos, que presenta enrojecimiento y secreción ocular. Después de realizar un examen ocular, confirmas que el animal tiene una infección ocular leve y que hay signos de congestión en la conjuntiva ocular. El productor te pregunta si hay algún tratamiento que pueda ayudar a aliviar los síntomas del animal y acelerar su recuperación. Menciona algún posible principio activo, busca un medicamento que lo contenga, y describe su posología, vías de administración y cualquier otro dato que consideres relevante.
+8) Un propietario de un caballo te llama debido a que ha notado que el animal presenta síntomas de cólico abdominal, como dolor, sudoración, inquietud y pérdida de apetito. Después de realizar un examen físico y algunas pruebas diagnósticas, confirmas que el caballo sufre de cólico abdominal espasmódico. ¿Qué alternativas terapéuticas tenemos para el abordaje de esta situación? Explique sus mecanismos de acción, efectos colaterales y vías de administración. Seleccione un principio activo, busque en internet un medicamento que lo contenga, y calcule la dosis para este animal, considerando un peso de 450 kgs.
+
+GUÍA DE ESTUDIO FARMACOLOGÍA Y TERAPÉUTICA
+Fernando Mañas 
+-2026-
+
+2
+
+

@@ -1,0 +1,899 @@
+
+	
+
+
+Contenido
+SEMANA 4- MÓDULO 2. Farmacología del Sistema Nervioso. Tercera parte: Farmacología del Dolor	3
+1. Introducción: Importancia del control del dolor en medicina veterinaria	3
+2. Grupo 1: Analgésicos Opioides	4
+Agonistas puros	7
+Agonistas parciales	9
+Agonistas mixtos o agonistas/antagonistas	10
+Antagonistas	11
+3. Grupo 2: Anti Inflamatorios No Esteroides (AINEs)	12
+?? AINEs NO SELECTIVOS (COX-1 y COX-2)	14
+?? AINEs COX-2 PREFERENCIALES	16
+?? AINEs COX-2 ALTAMENTE SELECTIVOS (COXIBs)	18
+4. Grupo 3: Anestésicos locales	23
+5. ?? Esquema integrador	28
+6. Actividades de autoevaluación	30
+?? 7. Resumen en 10 puntos	30
+?? 8. Errores clínicos frecuentes	31
+?? 9. Checklist de examen	31
+?? 10. Bibliografía recomendada	31
+
+
+
+SEMANA 4- MÓDULO 2. Farmacología del Sistema Nervioso. Tercera parte: Farmacología del Dolor 
+Tema: Manejo del Dolor (Analgesia): Opioides, AINEs y Anestésicos Locales.
+Semana: 4
+
+1. Introducción: Importancia del control del dolor en medicina veterinaria
+El dolor es una experiencia sensorial y emocional compleja que, cuando no es tratado adecuadamente, incrementa la morbilidad, retrasa la cicatrización, deprime la respuesta inmune y empeora el pronóstico clínico. En medicina veterinaria moderna, el control del dolor no constituye un aspecto opcional del tratamiento, sino un imperativo ético y terapéutico, estrechamente vinculado al bienestar animal y a la calidad de la atención clínica.
+Los animales no solo experimentan dolor de manera comparable a los humanos, sino que además presentan limitaciones para expresarlo de forma evidente, lo que obliga al profesional veterinario a anticiparse, evaluarlo activamente y tratarlo de manera adecuada. La falta de analgesia adecuada se asocia con mayor estrés, alteraciones fisiológicas sistémicas y una recuperación clínica más lenta.
+Por este motivo, el manejo racional del dolor debe formar parte integral de cualquier abordaje diagnóstico y terapéutico, tanto en el contexto quirúrgico como médico, agudo o crónico.
+
+Fisiopatología del dolor: bases para el abordaje farmacológico
+El dolor es un proceso dinámico y secuencial que involucra múltiples niveles del sistema nervioso. Comprender su fisiopatología resulta fundamental para interpretar cómo y dónde actúan los distintos grupos farmacológicos utilizados en analgesia veterinaria.
+Desde un punto de vista funcional, la vía nociceptiva puede dividirse en cuatro etapas principales:
+Transducción
+Consiste en la conversión del estímulo nocivo (inflamación, lesión tisular, isquemia) en una señal eléctrica a nivel de los nociceptores periféricos. En esta etapa intervienen mediadores químicos como prostaglandinas, bradicinina y citoquinas, responsables de la sensibilización periférica.
+Transmisión
+Corresponde a la propagación del impulso nervioso desde los nociceptores periféricos hacia la médula espinal y estructuras superiores del sistema nervioso central, a través de fibras nerviosas aferentes y del asta dorsal medular.
+Modulación
+Se produce a nivel medular y supramedular, donde la señal nociceptiva puede ser amplificada o inhibida por sistemas descendentes facilitadores o inhibitorios. La estimulación persistente puede generar sensibilización central (“wind-up”), fenómeno clave en el desarrollo de hiperalgesia y dolor crónico.
+Percepción
+Es la integración cortical de la información nociceptiva y la experiencia consciente del dolor, que incluye componentes sensoriales, emocionales y autonómicos.
+La comprensión de estas etapas permite identificar los distintos puntos de intervención farmacológica y constituye la base conceptual para el uso racional de los analgésicos en medicina veterinaria.
+
+Desarrollo de los grupos farmacológicos
+(Opioides, AINEs y anestésicos locales)
+A lo largo de este capítulo se abordarán los principales grupos de fármacos utilizados en el manejo del dolor, analizando su mecanismo de acción, efectos terapéuticos, efectos adversos y particularidades interespecíficas, haciendo referencia constante a la etapa de la vía del dolor sobre la que actúan predominantemente.
+
+2. Grupo 1: Analgésicos Opioides
+Los analgésicos opioides constituyen el pilar fundamental del tratamiento del dolor moderado a severo en medicina veterinaria, especialmente en el contexto quirúrgico, traumático y oncológico. Su principal sitio de acción es el sistema nervioso central, aunque también existen efectos periféricos relevantes.
+Actúan uniéndose a receptores opioides específicos —? (mu), ? (kappa) y ? (delta)— localizados en la médula espinal, tronco encefálico, tálamo y corteza, así como en terminaciones nerviosas periféricas.
+
+Receptores opioides y correlato clínico
+* Receptor ? (mu):
+o Analgesia potente (somática y visceral)
+o Sedación
+o Euforia o disforia (según especie)
+o Depresión respiratoria dosis-dependiente
+o ?? Es el receptor más importante desde el punto de vista clínico.
+* Receptor ? (kappa):
+o Analgesia visceral moderada
+o Sedación
+o Menor depresión respiratoria
+o Efecto techo analgésico
+* Receptor ? (delta):
+o Rol modulador
+o Menor relevancia clínica directa
+
+Mecanismo de acción (integrador)
+Los opioides producen analgesia mediante varios mecanismos complementarios:
+* Inhibición presináptica de la liberación de neurotransmisores excitatorios (sustancia P, glutamato).
+* Hiperpolarización postsináptica de neuronas nociceptivas.
+* Activación de vías descendentes inhibitorias del dolor.
+?? Resultado final: disminución de la transmisión nociceptiva a nivel medular y supramedular, reduciendo tanto la intensidad como la percepción consciente del dolor.
+
+Clasificación clínica de los opioides
+Desde un punto de vista práctico, los opioides se agrupan en:
+1. Agonistas ? puros ? analgesia intensa, sin techo.
+2. Agonistas parciales ? ? analgesia prolongada, efecto limitado.
+3. Agonistas ? / antagonistas ? ? analgesia moderada con fuerte sedación.
+4. Antagonistas opioides ? reversión de efectos.
+Esta clasificación es clave para elegir el fármaco adecuado según la intensidad del dolor y el contexto clínico.
+
+Consideraciones interespecíficas relevantes
+* Caninos: buena respuesta a agonistas ? puros; respuesta variable a tramadol.
+* Felinos: excelente respuesta a buprenorfina y tramadol; mayor sensibilidad a efectos centrales.
+* Equinos: opioides pueden causar excitación si se usan solos; suelen combinarse con ?2.
+?? Perla clínica: en muchas especies, los opioides funcionan mejor como parte de un esquema de analgesia multimodal, no como monoterapia.
+Efectos terapéuticos y adversos de los opioides (visión integradora)
+?? Sistema Nervioso Central
+* Analgesia (principalmente vía receptores ?).
+* Sedación (variable según droga y especie).
+* Euforia o disforia (muy especie-dependiente).
+* Depresión del reflejo tusígeno (antitusivos).
+
+?? Sistema Respiratorio
+* Depresión respiratoria dosis-dependiente.
+* Disminución de la respuesta al CO?.
+* Más marcada con agonistas ? puros.
+?? Riesgo mayor en:
+* infusión continua,
+* combinación con otros depresores del SNC,
+* pacientes críticos.
+
+?? Sistema Cardiovascular
+* Generalmente estables hemodinámicamente.
+* Bradicardia vagal frecuente.
+* Hipotensión por liberación de histamina (morfina).
+?? Por eso son preferidos en pacientes cardiológicos (bien usados).
+
+??? Tracto Gastrointestinal
+* Disminución de la motilidad intestinal.
+* Estreñimiento.
+* En equinos: riesgo de íleo ? uso con precaución.
+
+?? Sistema Urinario
+* Aumento del tono del esfínter vesical.
+* Retención urinaria (especialmente en machos).
+
+?? Centro del vómito
+* Estimulación del centro emético (especialmente morfina).
+* Más frecuente en perros que en gatos.
+
+?? Tolerancia y dependencia
+* Uso repetido ? tolerancia.
+* Relevante en tratamientos prolongados.
+
+Agonistas puros
+?? MORFINA
+Grupo farmacológico
+* Agonista ? (mu) puro
+Potencia relativa
+* Referencia estándar (1×)
+* Todas las demás se comparan con ella.
+Farmacodinamia
+* Analgesia potente somática y visceral.
+* Sedación moderada.
+* No presenta techo analgésico.
+* Actúa a nivel medular y supramedular.
+Farmacocinética clínica
+* Inicio relativamente lento comparado con opioides sintéticos.
+* Duración intermedia (3–4 h).
+* Metabolismo hepático.
+* Puede liberar histamina ? vasodilatación.
+Especies y usos
+* Caninos: analgesia perioperatoria y postoperatoria.
+* Felinos: uso posible, pero con mayor riesgo de excitación.
+* Equinos: uso limitado; suele combinarse con ?2 para evitar excitación.
+Perlas clínicas
+?? Riesgos principales:
+* vómitos (especialmente en perros),
+* hipotensión por liberación de histamina,
+* depresión respiratoria dosis-dependiente.
+?? Nunca usar sola como sedante para procedimientos dolorosos.
+
+?? FENTANILO
+Grupo farmacológico
+* Agonista ? puro
+Potencia relativa
+* ? 100 veces más potente que la morfina
+Farmacodinamia
+* Analgesia extremadamente potente.
+* Sedación marcada.
+* Bradicardia vagal frecuente.
+* Depresión respiratoria pronunciada.
+Farmacocinética clínica
+* Inicio ultrarrápido.
+* Duración muy corta (20–30 min).
+* Ideal para infusión continua (CRI).
+* Parches transdérmicos: liberación sostenida (variabilidad individual).
+Especies y usos
+* Caninos y felinos: analgesia intraoperatoria y en UTI.
+* Uso central en anestesia balanceada.
+Perlas clínicas
+?? Excelente para titulación precisa del dolor. 
+?? Suspender bruscamente CRI ? dolor rebote.
+
+?? TRAMADOL
+Grupo farmacológico
+* Opioide atípico
+* Agonista ? débil + inhibidor de recaptación de serotonina y noradrenalina.
+Potencia relativa
+* Muy inferior a morfina (difícil comparación directa).
+Farmacodinamia
+* Analgesia leve a moderada.
+* Efecto más “neuromodulador” que opioide puro.
+Farmacocinética clínica
+* Requiere conversión hepática a M1 (O-desmetiltramadol).
+* La eficacia depende del metabolismo de la especie.
+Especies y usos
+* Perros: eficacia limitada (pobre conversión a M1).
+* Gatos: mejor eficacia analgésica.
+* Uso ambulatorio en dolor leve–moderado.
+Perlas clínicas
+?? No debe considerarse equivalente a opioides ? puros.
+?? Riesgo de síndrome serotoninérgico si se combina con otros fármacos serotoninérgicos.
+
+Agonistas parciales
+?? BUPRENORFINA
+Grupo farmacológico
+* Agonista parcial ?
+Potencia relativa
+* Potente, pero con efecto techo.
+Farmacodinamia
+* Analgesia moderada–intensa.
+* Alta afinidad por el receptor ?.
+* Desplaza a agonistas ? puros.
+Farmacocinética clínica
+* Inicio relativamente lento.
+* Duración prolongada (6–8 h).
+* Difícil reversión con naloxona.
+Especies y usos
+* Felinos: fármaco de elección para dolor postoperatorio.
+* Se absorbe por mucosa oral en gatos.
+* Caninos: uso frecuente en dolor moderado.
+Perlas clínicas
+?? Ideal para manejo domiciliario en gatos.
+?? Si se administra tras morfina/fentanilo puede reducir la analgesia.
+
+Agonistas mixtos o agonistas/antagonistas
+?? NALBUFINA
+Grupo farmacológico
+* Agonista ? / antagonista ?
+Potencia relativa
+* Analgesia menor que morfina.
+* Presenta techo analgésico.
+Farmacodinamia
+* Analgesia visceral moderada.
+* Sedación leve.
+* Menor depresión respiratoria.
+Farmacocinética clínica
+* Inicio rápido.
+* Duración intermedia.
+Especies y usos
+* Caninos y felinos.
+* Útil para revertir depresión respiratoria por agonistas ? manteniendo algo de analgesia.
+Perlas clínicas
+?? No indicada para dolor intenso.
+?? Puede antagonizar morfina o fentanilo.
+
+?? BUTORFANOL
+Grupo farmacológico
+* Agonista ? / antagonista ?
+Potencia relativa
+* Analgesia baja.
+* Efecto techo muy marcado.
+Farmacodinamia
+* Sedación potente.
+* Analgesia visceral limitada.
+* Excelente antitusivo.
+Farmacocinética clínica
+* Inicio rápido.
+* Duración corta–intermedia.
+Especies y usos
+* Caninos, felinos y equinos.
+* Muy usado como sedante más que como analgésico.
+Perlas clínicas
+?? Sedante ? analgésico.
+?? Inadecuado para cirugías dolorosas como único analgésico.
+
+Antagonistas
+?? NALOXONA
+Grupo farmacológico
+* Antagonista opioide puro
+Farmacodinamia
+* Revierte:
+o analgesia,
+o sedación,
+o depresión respiratoria.
+Farmacocinética clínica
+* Inicio rápido.
+* Duración corta (puede requerir redosis).
+Especies y usos
+* Todas las especies.
+* Antídoto en sobredosis o depresión respiratoria severa.
+Perlas clínicas
+?? Revierte también la analgesia, generando dolor agudo.
+
+
+FármacoGrupo farmacológicoPotencia relativa (vs Morfina)Duración aproximadaAdvertencias claveMorfinaAgonista ? puro1× (referencia)3–4 hVómitos, liberación de histamina, hipotensión, depresión respiratoriaFentaniloAgonista ? puro?100×20–30 min (bolo)Bradicardia, depresión respiratoria, dolor rebote al suspender CRITramadolOpioide atípico (? débil + ISRS/IRN)?1×4–6 hBaja eficacia en perros, riesgo serotoninérgicoBuprenorfinaAgonista parcial ??25–50× (con techo)6–8 hDifícil reversión, puede antagonizar agonistas ? purosNalbufinaAgonista ? / Antagonista ?< morfina2–4 hEfecto techo, antagoniza morfina/fentaniloButorfanolAgonista ? / Antagonista ?? morfina1–3 hAnalgesia pobre, más sedante que analgésicoNaloxonaAntagonista opioide puro—30–90 minRevierte analgesia ? dolor agudo
+3. Grupo 2: Anti Inflamatorios No Esteroides (AINEs)
+Los antiinflamatorios no esteroides (AINEs) constituyen un pilar fundamental del manejo del dolor inflamatorio, especialmente en patologías musculoesqueléticas, traumatológicas y viscerales. Su principal sitio de acción es el nivel de la transducción del dolor, es decir, la etapa en la que el estímulo nocivo se genera en el tejido lesionado.
+A diferencia de los opioides, los AINEs no actúan principalmente en el SNC, sino que reducen la producción de mediadores inflamatorios periféricos responsables de la sensibilización nociceptiva.
+
+Mecanismo de acción general
+Los AINEs inhiben la enzima ciclooxigenasa (COX), responsable de la conversión del ácido araquidónico en prostaglandinas y tromboxanos.
+Existen dos isoformas principales:
+* COX-1 (constitutiva):
+o Protección de la mucosa gástrica
+o Mantenimiento del flujo renal
+o Agregación plaquetaria
+* COX-2 (inducible):
+o Inflamación
+o Dolor
+o Fiebre
+?? Clave farmacológica:
+El efecto analgésico y antiinflamatorio deseado se asocia a la inhibición de COX-2, mientras que muchos efectos adversos se relacionan con la inhibición de COX-1.
+
+Efectos terapéuticos de los AINEs
+* Analgesia periférica (dolor inflamatorio)
+* Antiinflamatorio
+* Antipirético
+* Antiespasmódico
+* (Algunos) antiendotóxico
+
+Efectos adversos generales (dependientes de COX-1)
+* Toxicidad gastrointestinal (úlceras, hemorragias)
+* Toxicidad renal (reducción del flujo renal)
+* Alteraciones de la coagulación
+* Hepatotoxicidad (idiosincrásica en algunas drogas)
+?? Regla de oro clínica:
+Nunca combinar dos AINEs ni AINEs con corticoides.
+
+?? AINEs NO SELECTIVOS (COX-1 y COX-2)
+
+?? KETOPROFENO
+Perfil farmacológico
+• No selectivo (COX-1 y COX-2)
+Farmacodinamia
+• Analgésico y antipirético potente
+• Antiinflamatorio eficaz
+Farmacocinética clínica
+• Vida media corta
+• Uso preferentemente agudo
+Especies y usos
+• Perros, gatos, equinos, bovinos
+• Dolor postquirúrgico y procesos inflamatorios agudos
+Perlas clínicas
+?? Mayor riesgo gastrointestinal que los COX-2 preferenciales.
+?? No indicado para tratamientos prolongados.
+
+?? FLUNIXIN MEGLUMINA
+Perfil farmacológico
+• No selectivo – muy potente
+Farmacodinamia
+• Analgesia visceral intensa
+• Marcado efecto antiendotóxico
+• Antiespasmódico
+Farmacocinética clínica
+• Alta potencia
+• Margen terapéutico estrecho
+Especies y usos
+• Equinos: droga de elección en cólico
+• Bovinos: endotoxemia, mastitis
+• ? Perros: extremadamente tóxico
+Perlas clínicas
+?? Ulcerogénico severo.
+?? No usar en pequeños animales.
+
+?? FENILBUTAZONA
+Perfil farmacológico
+• No selectivo
+Farmacodinamia
+• Analgesia musculoesquelética potente
+Farmacocinética clínica
+• Vida media prolongada
+• Acumulación tisular
+Especies y usos
+• Equinos: cojeras y procesos ortopédicos
+• Uso histórico en caninos (hoy desaconsejado)
+Perlas clínicas
+?? Riesgos graves:
+• Necrosis tisular por extravasación
+• Aplasia medular (humanos y perros)
+?? Uso casi exclusivo en equinos.
+
+?? ASPIRINA (Ácido acetilsalicílico)
+Perfil farmacológico
+• Inhibidor irreversible COX-1
+Farmacodinamia
+• Analgésico leve
+• Antipirético
+• Antiagregante plaquetario
+Farmacocinética clínica
+• Inhibición plaquetaria prolongada
+• Eliminación lenta en felinos
+Especies y usos
+• Caninos: uso limitado
+• Felinos: alto riesgo tóxico
+Perlas clínicas
+?? Muy ulcerogénica.
+?? En gatos: intoxicación por vida media extremadamente prolongada.
+
+?? DIPIRONA (Metamizol)
+Perfil farmacológico
+• Débil antiinflamatorio
+• Analgésico y antipirético potente
+• Antiespasmódico
+Farmacodinamia
+• Excelente analgesia visceral
+• Marcado efecto espasmolítico
+Farmacocinética clínica
+• Inicio rápido
+• Buena tolerancia general
+Especies y usos
+• Todas las especies
+• Cólico, dolor visceral, fiebre
+Perlas clínicas
+?? No reemplaza AINEs clásicos en inflamación crónica.
+?? Ideal como coadyuvante analgésico.
+
+?? AINEs COX-2 PREFERENCIALES
+
+?? MELOXICAM
+Perfil farmacológico
+• Preferencial COX-2
+Farmacodinamia
+• Excelente analgesia antiinflamatoria
+• Buen perfil gastrointestinal y renal
+Farmacocinética clínica
+• Vida media prolongada
+• Dosificación 1 vez/día
+• Buena biodisponibilidad oral
+Especies y usos
+• Perros: artrosis, dolor crónico, postoperatorio
+• Gatos: dosis bajas y precaución
+• Bovinos: analgesia y control inflamatorio
+Perlas clínicas
+?? Uno de los AINEs más seguros disponibles.
+
+?? CARPROFENO
+Perfil farmacológico
+• Preferencial COX-2
+Farmacodinamia
+• Analgesia antiinflamatoria eficaz
+• Ideal para dolor musculoesquelético
+Farmacocinética clínica
+• Vida media intermedia
+• Buena biodisponibilidad oral
+• Metabolismo hepático
+Especies y usos
+• Perros: estándar en traumatología y ortopedia
+• Uso crónico en artrosis
+Perlas clínicas
+?? Hepatotoxicidad idiosincrásica rara pero grave.
+?? Monitorear enzimas hepáticas en tratamientos prolongados.
+
+?? AINEs COX-2 ALTAMENTE SELECTIVOS (COXIBs)
+
+?? ROBENACOXIB
+Perfil farmacológico
+• COX-2 altamente selectivo
+Farmacodinamia
+• Analgésico y antiinflamatorio potente
+• Mínima inhibición COX-1
+Farmacocinética clínica
+• Vida media plasmática corta
+• Persistencia en tejidos inflamados
+• Buena biodisponibilidad oral y SC
+Especies y usos
+• Perros: dolor postoperatorio y agudo
+• Gatos: uno de los pocos AINEs aprobados
+Perlas clínicas
+?? Excelente perfil gastrointestinal.
+?? Precaución en pacientes deshidratados o hipotensos.
+
+?? FIROCOXIB
+Perfil farmacológico
+• COX-2 altamente selectivo
+Farmacodinamia
+• Analgesia y antiinflamación sostenidas
+• Escasa interferencia con COX-1
+Farmacocinética clínica
+• Vida media prolongada
+• Buena biodisponibilidad oral
+Especies y usos
+• Perros: osteoartrosis, dolor crónico
+• Equinos: dolor musculoesquelético
+Perlas clínicas
+?? Muy utilizado en ortopedia veterinaria.
+?? Riesgo renal persiste en pacientes hipovolémicos.
+
+?? MAVACOXIB
+Perfil farmacológico
+• COX-2 altamente selectivo
+• AINE de acción ultralarga
+Farmacodinamia
+• Analgesia crónica sostenida
+Farmacocinética clínica
+• Vida media de semanas
+• Dosificación mensual
+• Acumulación tisular marcada
+Especies y usos
+• Perros: osteoartrosis crónica
+• ? No indicado en gatos
+Perlas clínicas
+?? Clave de examen:
+• No permite ajuste rápido
+• Efectos adversos no reversibles rápidamente
+?? Usar solo en pacientes cuidadosamente seleccionados.
+
+?? ROFECOXIB
+Perfil farmacológico
+• COX-2 selectivo
+Farmacodinamia
+• Potente analgésico y antiinflamatorio
+Farmacocinética clínica
+• Vida media prolongada
+Especies y usos
+• Uso histórico en veterinaria
+Perlas clínicas
+?? Valor docente:
+• Retirado en humanos por riesgo cardiovascular
+?? Importante para farmacología comparada, no de elección actual.
+
+FármacoSelectividad COXPotencia AnalgésicaUso PrincipalEspecies ClaveVentajasRiesgos / Alertas de ExamenKetoprofenoNo selectivo (COX-1/COX-2)Alta (aguda)Dolor agudo, postoperatorioPerro, gato, equino, bovinoInicio rápidoUlcerogénico, no usar crónicoFlunixin megluminaNo selectivo (muy potente)Muy alta (visceral)Cólico, endotoxemiaEquino, bovinoAntiendotóxico? Tóxico en perros, úlceras severasFenilbutazonaNo selectivoAlta (musculoesquelética)CojerasEquinoEficaz en ortopediaAplasia medular, necrosis por extravasaciónAspirinaCOX-1 irreversibleBajaAnalgesia leve, antiagreganteCanino (limitado)AntiagreganteMuy ulcerogénica, ? gatosDipironaCOX central / débil periféricoAlta (visceral)Cólico, fiebreTodasAntiespasmódicaNo sirve sola en inflamación crónicaMeloxicamPreferencial COX-2AltaDolor crónico, artrosisPerro, gato*, bovinoMuy buen perfil de seguridadPrecaución renal (gatos dosis bajas)CarprofenoPreferencial COX-2AltaOrtopediaPerroExcelente analgesiaHepatotoxicidad idiosincrásicaRobenacoxibCOX-2 selectivoAltaDolor agudoPerro, gatoSeguro en gatosRiesgo renal si hipovolémicoFirocoxibCOX-2 selectivoAltaArtrosisPerro, equinoUso crónico seguroPrecaución renalMavacoxibCOX-2 selectivoAlta y sostenidaArtrosis crónicaPerroDosificación mensual?? Vida media muy largaRofecoxibCOX-2 selectivoAltaUso histórico—Valor docenteRetirado por riesgo CV
+Focus: Metabolización en felinos y vida media
+El gato no es un perro pequeño. Presenta particularidades metabólicas que modifican de manera significativa la farmacocinética de numerosos fármacos, en especial de los antiinflamatorios no esteroides (AINEs). Estas diferencias explican por qué drogas seguras en otras especies pueden resultar altamente tóxicas en felinos.
+
+?? A. El defecto metabólico felino (Fase II)
+Los felinos presentan una deficiencia marcada de la enzima glucuronil-transferasa, responsable de una de las principales reacciones de conjugación (Fase II) del metabolismo hepático.
+* En condiciones normales, esta enzima une ácido glucurónico a fármacos como:
+o fenoles,
+o alcoholes,
+o ácidos carboxílicos, haciéndolos más hidrosolubles y facilitando su eliminación renal o biliar.
+* En el gato, esta vía está severamente limitada, por lo que muchos fármacos:
+o no se conjugan eficazmente,
+o se acumulan,
+o y alcanzan concentraciones tóxicas con dosis que en el perro serían seguras.
+??Consecuencia farmacocinética clave: Aumento marcado de la vida media (t½) y riesgo elevado de toxicidad por acumulación.
+
+?? B. El caso paradigmático de la Aspirina
+(Ácido acetilsalicílico)
+La aspirina depende en gran medida de la glucuronidación hepática para su eliminación.
+* Vida media (t½) en perros: ? 8 horas ? dosificación cada 12 h.
+* Vida media (t½) en gatos: ? 38–40 horas.
+??Implicancia clínica: Administrar aspirina a un gato cada 8 o 12 horas produce acumulación progresiva, con alto riesgo de ulceración gastrointestinal, sangrado y muerte.
+* Dosis felina considerada segura (excepcional): 10 mg/kg cada 48–72 horas (cada 2–3 días).
+?? Aun así, su uso en gatos es limitado y desaconsejado frente a la disponibilidad de alternativas más seguras.
+
+?? C. El caso del Paracetamol
+(Acetaminofeno)
+En el gato, la incapacidad de glucuronidación desvía el metabolismo del paracetamol hacia una vía oxidativa altamente tóxica, generando metabolitos reactivos que producen:
+* metahemoglobinemia (sangre color “chocolate”),
+* daño hepático severo,
+* edema facial,
+* y muerte.
+?? Regla absoluta:
+El paracetamol está CONTRAINDICADO en gatos. Un solo comprimido puede ser letal.
+
+FármacoDependencia de glucuronidaciónMetabolismo en felinosVida media en gatosSeguridad relativaUso recomendadoAspirina (AAS)?? Muy altaGlucuronidación deficiente ? acumulaciónMuy prolongada (hasta 48–72 h)? Muy baja? DesaconsejadoKetoprofeno?? ModeradaMetabolismo mixto (no exclusivamente glucurónido)Intermedia?? Relativamente mejor?? Uso corto (1–3 días)Meloxicam?? ModeradaMetabolismo hepático con menor carga glucurónidaProlongada?? Dosis muy bajas?? Uso muy cautelosoRobenacoxib?? BajaEliminación rápida, alta selectividad COX-2Corta? Alta?? PreferidoCarprofeno?? AltaGlucuronidación predominanteProlongada? Baja? No recomendadoFlunixin meglumina?? AltaMetabolismo hepático complejoProlongada? Muy baja? ContraindicadoFenilbutazona?? AltaAcumulación tisular + glucuronidaciónMuy prolongada?? Muy peligrosa?? ProhibidaDipirona (Metamizol)?? BajaMetabolismo no dependiente de glucurónidosCorta?? Aceptable?? Analgesia puntual
+
+?? Mensaje clínico integrador
+En felinos, la farmacocinética —y no solo la dosis— define la seguridad de un fármaco.
+Ignorar la vida media y el metabolismo puede convertir una droga común en un veneno.
+
+4. Grupo 3: Anestésicos locales
+Los anestésicos locales son fármacos que producen una pérdida reversible de la sensibilidad en una región determinada del cuerpo, sin afectar el estado de conciencia. Constituyen un pilar fundamental de la analgesia multimodal, ya que actúan bloqueando la transmisión del dolor en la etapa de transmisión, tanto a nivel periférico como medular.
+Su correcta utilización permite:
+* reducir drásticamente el dolor intra y postoperatorio,
+* disminuir los requerimientos de anestésicos generales y opioides,
+* mejorar la recuperación del paciente.
+
+1. Mecanismo de acción
+Los anestésicos locales bloquean los canales de sodio (Na?) dependientes de voltaje ubicados en la membrana de las fibras nerviosas.
+?? Fisiología normal (sin droga)
+* Un estímulo nocivo despolariza la membrana neuronal.
+* Se abren canales de Na?.
+* Ingresa Na? ? se genera el potencial de acción.
+* El impulso se propaga a lo largo del nervio.
+?? Con anestésico local
+* El fármaco se une al canal de Na? desde el interior de la neurona.
+* Impide la entrada de Na?.
+* No se alcanza el umbral.
+* El potencial de acción no se genera ni se propaga.
+?? Resultado final: bloqueo reversible de la conducción nerviosa.
+
+2. Ionización, pH y eficacia clínica (CONCEPTO CLAVE)
+Los anestésicos locales son bases débiles, que existen en equilibrio entre dos formas:
+* Forma no ionizada (liposoluble) ? atraviesa la membrana neuronal
+* Forma ionizada (hidrosoluble) ? se une al canal de Na? y bloquea
+?? ¿Por qué importa el pH?
+* En pH fisiológico, existe suficiente fracción no ionizada para que la droga entre al nervio.
+* En tejidos inflamados (pH ácido):
+o la droga se ioniza excesivamente,
+o no puede atravesar la membrana,
+o el bloqueo es incompleto o falla.
+?? Implicancia clínica clásica:
+“Los anestésicos locales no funcionan bien en tejidos inflamados o infectados”.
+
+3. Conceptos farmacológicos clave
+?? Latencia (inicio de acción)
+Tiempo que tarda en aparecer el bloqueo.
+* Depende de:
+o pKa de la droga,
+o fracción no ionizada.
+* Menor pKa ? inicio más rápido.
+
+?? Potencia
+Relacionada con la liposolubilidad.
+* Más liposoluble ? más potente.
+* Suele correlacionarse con mayor toxicidad.
+
+? Duración de acción
+Depende de:
+* unión a proteínas,
+* redistribución tisular,
+* metabolismo.
+Mayor unión proteica ? bloqueo más prolongado.
+
+4. Clasificación de los anestésicos locales
+Según duración de acción
+* Corta: Procaína
+* Intermedia: Lidocaína, Mepivacaína
+* Larga: Bupivacaína
+
+Según potencia (aproximada)
+Procaína < Lidocaína ? Mepivacaína < Bupivacaína
+
+5. Desarrollo individual de las principales drogas
+
+?? LIDOCAÍNA
+* Duración: intermedia (60–90 min)
+* Inicio: rápido (2–5 min)
+* Usos:
+o infiltración local,
+o bloqueos regionales,
+o epidural,
+o antiarrítmico IV (Clase Ib).
+* Particularidad: efecto analgésico sistémico en infusión IV.
+* Felinos: mayor sensibilidad a efectos neurológicos y cardíacos.
+
+?? MEPIVACAÍNA
+* Similar a lidocaína.
+* Menor vasodilatación, algo más prolongada.
+* Muy utilizada en equinos (bloqueos regionales).
+* Menor irritación tisular.
+
+?? BUPIVACAÍNA
+* Alta potencia.
+* Duración larga (4–6 h).
+* Ideal para:
+o bloqueos regionales,
+o epidurales,
+o analgesia postoperatoria prolongada.
+?? Advertencia mayor:
+?? Cardiotoxicidad severa si se inyecta IV accidentalmente.
+Nunca administrar por vía intravenosa.
+
+?? PROCAÍNA
+* Duración corta.
+* Potencia baja.
+* Uso histórico en infiltración y anestesia regional.
+* Rápidamente metabolizada por esterasas plasmáticas.
+* Menor toxicidad sistémica.
+
+?? PROPARACAÍNA
+* Uso exclusivamente tópico ocular.
+* Anestesia de córnea y conjuntiva.
+* Inicio muy rápido.
+* No usar en forma repetida (daño epitelial).
+
+?? BENZOCAÍNA
+* Uso tópico (mucosas).
+* Muy liposoluble.
+* No se utiliza por vía inyectable.
+* Riesgo de metahemoglobinemia (especialmente en felinos).
+
+6. Vías y formas de administración
+* Infiltración local
+* Bloqueos nerviosos periféricos
+* Epidural
+* Tópica (ocular, mucosas)
+* Intravenosa (solo lidocaína, con indicación específica)
+
+7. Toxicidad de los anestésicos locales 
+La toxicidad aparece por absorción sistémica excesiva o inyección intravascular accidental.
+?? SNC
+* excitación,
+* temblores,
+* convulsiones.
+?? Cardiovascular
+* arritmias,
+* depresión miocárdica,
+* colapso cardiovascular (bupivacaína).
+?? Regla de oro: aspirar siempre antes de inyectar.
+
+?? Mensaje integrador final
+Los anestésicos locales son una de las herramientas más potentes para controlar el dolor, pero exigen conocer fisiología, farmacología y técnica para ser seguros y eficaces.
+FármacoInicioDuraciónToxicidad y UsosLidocaínaRápido (2-5 min)Corta (60-90 min)Infiltración, Epidural, Antiarrítmico IV. Gatos sensibles a efectos cardíacos.BupivacaínaLento (20 min)Larga (4-6 h)Bloqueos regionales. CARDIOTÓXICA severa si va IV. Nunca inyectar en vena.
+5. ?? Esquema integrador
+Analgesia multimodal
+La analgesia multimodal constituye el enfoque de referencia actual para el manejo del dolor en medicina veterinaria. Se basa en la administración combinada de fármacos con distintos mecanismos de acción y sitios de intervención dentro de la vía nociceptiva, con el objetivo de lograr un control analgésico más eficaz, sostenido y seguro.
+En lugar de depender de una única droga a dosis elevadas —con el consiguiente aumento del riesgo de efectos adversos— la analgesia multimodal permite utilizar dosis menores de cada fármaco, potenciando sus efectos mediante sinergia farmacológica. Este enfoque resulta especialmente relevante en pacientes quirúrgicos, politraumatizados, críticos o con dolor intenso, en los que el control inadecuado del dolor impacta negativamente en la evolución clínica.
+Una de las principales ventajas de este enfoque es su capacidad para prevenir el desarrollo de hiperalgesia y dolor crónico, al interrumpir de manera temprana y sostenida la cascada nociceptiva. Asimismo, la analgesia multimodal favorece una recuperación postoperatoria más rápida, reduce el estrés y mejora el bienestar del paciente.
+En la práctica clínica, la elección de los fármacos debe basarse en la especie, el tipo e intensidad del dolor, el estado fisiológico del paciente y el contexto clínico, integrando los distintos grupos farmacológicos de manera racional. La analgesia multimodal no es una receta fija, sino una estrategia dinámica que debe ajustarse y reevaluarse de forma continua.
+
+La vía del dolor y los puntos de intervención farmacológica
+El dolor es un proceso secuencial y dinámico que puede ser abordado terapéuticamente en múltiples niveles. La analgesia multimodal se basa en intervenir simultáneamente en más de una etapa, logrando un efecto sinérgico superior y reduciendo la toxicidad individual.
+
+1?? Transducción
+(Generación del estímulo doloroso en el tejido lesionado)
+Qué ocurre
+* Lesión tisular ? liberación de prostaglandinas, bradicinina, citoquinas.
+* Activación de nociceptores periféricos.
+Fármacos que actúan aquí
+* AINEs (meloxicam, carprofeno, flunixin, etc.)
+* Anestésicos locales (infiltración local)
+Efecto clínico
+* Disminuyen la generación del estímulo doloroso.
+* Reducen la sensibilización periférica.
+
+2?? Transmisión
+(Conducción del impulso nervioso hacia la médula espinal)
+Qué ocurre
+* El potencial de acción viaja por fibras nerviosas periféricas.
+* Entrada al asta dorsal de la médula.
+Fármacos que actúan aquí
+* Anestésicos locales (bloqueos nerviosos, epidural, infiltración)
+* Opioides (acción medular)
+Efecto clínico
+* El impulso doloroso no llega al SNC.
+
+3?? Modulación
+(Amplificación o inhibición del estímulo a nivel medular y supramedular)
+Qué ocurre
+* Sistemas inhibitorios descendentes pueden frenar el dolor.
+* Si el estímulo es persistente ? wind-up (sensibilización central).
+Fármacos que actúan aquí
+* Opioides (morfina, fentanilo, buprenorfina)
+* Agonistas ?2 (xilacina, dexmedetomidina)
+* Ketamina (bloqueo NMDA)
+Efecto clínico
+* Disminuyen la amplificación central del dolor.
+* Previenen hiperalgesia y dolor crónico.
+
+4?? Percepción
+(Integración cortical y experiencia consciente del dolor)
+Qué ocurre
+* El dolor se hace consciente.
+* Se asocia a estrés, respuesta autonómica y emocional.
+Fármacos que actúan aquí
+* Opioides
+* Anestésicos generales (inyectables e inhalatorios)
+* Tranquilizantes / sedantes (como coadyuvantes)
+Efecto clínico
+* Disminución de la percepción consciente del dolor.
+* Reducción del estrés y la respuesta neuroendocrina.
+
+6. Actividades de autoevaluación
+Caso 1: El Caballo Deportivo
+Un caballo de salto presenta claudicación. Usted indica Fenilbutazona IV. El propietario, inexperto, aplica la inyección y parte del líquido queda fuera de la vena yugular.
+1. ¿Qué consecuencia local grave espera ver en los próximos días?
+2. ¿Por qué la Fenilbutazona es tan popular en equinos a pesar de ser un fármaco antiguo?
+
+Caso 2: Reversión Parcial
+Un perro pre-medicado con Morfina pura presenta apnea durante la cirugía. Usted quiere que vuelva a respirar, pero no quiere que se despierte gritando de dolor (quitarle toda la analgesia).
+1. ¿Elegiría Naloxona o Nalbufina? Justifique basándose en la clasificación de agonista/antagonista.
+
+?? 7. Resumen en 10 puntos 
+> El dolor no tratado empeora evolución clínica y prolonga internación.
+> La analgesia multimodal mejora resultados con menos efectos adversos.
+> Los opioides Mu puros son los más potentes (morfina, fentanilo).
+> Los opioides producen depresión respiratoria.
+> Los agonistas parciales pueden tener “techo analgésico”.
+> Los AINEs requieren seleccionar especie–droga cuidadosamente.
+> Los AINEs pueden generar gastritis, daño renal y fallas de agregación plaquetaria
+> Los AINEs tienen vidas medias más prolongadas en felinos que en otras especies.
+> Los anestésicos locales bloquean canales de sodio con riesgo cardiotóxico.
+> La evaluación del dolor debe ser continua, no solo al inicio.
+
+?? 8. Errores clínicos frecuentes
+?? Usar AINEs en deshidratados o pacientes con insuficiencia renal.
+?? Elegir Tramadol para cirugías dolorosas (analgesia insuficiente).
+?? Administrar morfina IV rápida (liberación de histamina).
+?? Usar AINEs + corticosteroides simultáneamente.
+?? Aplicar fenilbutazona perivascular en caballos.
+?? Usar bupivacaína IV por error.
+
+?? 9. Checklist de examen
+?? ¿Puedo diferenciar agonistas puros vs mixtos vs parciales?
+?? ¿Conozco las diferencias entre COX-1 y COX-2?
+?? ¿Sé por qué los gatos metabolizan lento AINEs?
+?? ¿Puedo elegir un AINE seguro según especie?
+?? ¿Reconozco signos de toxicidad por opioides?
+?? ¿Qué anestésico local NO usaría jamás IV?
+?? ¿Qué droga es el antídoto universal de opioides?
+?? ¿Cómo prevenir daño perivascular por fenilbutazona?
+
+?? 10. Bibliografía recomendada
+• Boothe, D. M. (2012). Small Animal Clinical Pharmacology and Therapeutics. Elsevier.
+• Papich, M. G. (2021). Saunders Handbook of Veterinary Drugs (5th ed.). Elsevier.
+• Riviere, J. E., & Papich, M. G. (2018). Veterinary Pharmacology and Therapeutics (10th ed.). Wiley-Blackwell.
+• Grimm, K. A., Lamont, L. A., Tranquilli, W. J., Greene, S. A., & Robertson, S. A. (2015). Veterinary Anesthesia and Analgesia (5th ed.). Wiley-Blackwell.
+• Hellyer, P., & Robertson, S. (2003). Pain Management in Veterinary Practice. Elsevier.
+• Lascelles, B. D. X. (2010). “Pain and analgesia in cats.” Journal of Feline Medicine and Surgery, 12(4), 307–314.
+• Steagall, P. V., Benito, J., & Monteiro, B. (2017). Analgesia en perros y gatos. Manual BSAVA.
+• Robertson, S. A., & Taylor, P. M. (2004). “Pain management in cats – past, present and future.” Journal of Feline Medicine and Surgery, 6(5), 321–333.
+• KuKanich, B. (2012). “Opioids for dogs and cats.” Vet Clin North Am Small Anim Pract, 42(4), 969–980.
+• Giannuzzi, C. M., & Lascelles, B. D. X. (2012). “NSAIDs in cats: knowns and unknowns.” Journal of Feline Medicine and Surgery, 14(4), 216–217.
+
+
+?? TRABAJO PRÁCTICO Nº 4
+Farmacología Veterinaria
+Carrera: Medicina Veterinaria
+Asignatura: Farmacología y terapéutica
+Semana: 4
+Tema: Manejo del dolor y analgesia en medicina veterinaria
+Duración: 2–3 horas
+Modalidad: Presencial – trabajo grupal + discusión guiada
+
+I. Fundamentación
+El dolor es una experiencia sensorial y emocional compleja que involucra mecanismos periféricos y centrales. En medicina veterinaria, su reconocimiento y tratamiento adecuado constituyen una responsabilidad ética y profesional.
+El manejo racional del dolor requiere comprender:
+• Fisiopatología de la nocicepción
+• Sensibilización periférica y central
+• Diferencias entre dolor agudo y crónico
+• Mecanismos de acción de los analgésicos
+• Principio de analgesia multimodal
+• Rol de los anestésicos locales en el control del dolor
+Este trabajo práctico busca que el estudiante diseñe estrategias analgésicas fundamentadas, integrando farmacodinamia, especie y situación clínica.
+
+II. Objetivos
+Objetivo general
+• Diseñar esquemas racionales de analgesia en distintas especies animales.
+Objetivos específicos
+Al finalizar el trabajo práctico, el estudiante será capaz de:
+• Diferenciar nocicepción y dolor.
+• Explicar la sensibilización periférica y central.
+• Clasificar analgésicos según mecanismo de acción.
+• Integrar anestésicos locales en esquemas multimodales.
+• Diseñar protocolos analgésicos perioperatorios.
+
+III. Contenidos involucrados
+• Fisiopatología del dolor
+• Sensibilización periférica y central
+• AINEs
+• Opioides
+• Agonistas ??
+• Ketamina a dosis analgésica
+• Anestésicos locales
+• Analgesia multimodal
+
+IV. Actividades prácticas
+
+?? Actividad 1 – Bases fisiopatológicas
+Responda:
+a) ¿Qué diferencia existe entre nocicepción y dolor?
+b) ¿Qué es la sensibilización periférica?
+c) ¿Qué es la sensibilización central?
+d) ¿Por qué es importante tratar el dolor antes del estímulo quirúrgico (analgesia preventiva)?
+
+?? Actividad 2 – Clasificación farmacológica
+Indique el mecanismo principal de:
+• AINEs
+• Opioides
+• Agonistas ??
+• Ketamina (dosis subanestésica)
+• Anestésicos locales
+Consigna integradora:
+?? Explique cómo cada grupo actúa en diferentes niveles de la vía nociceptiva.
+
+V. Situaciones problema clínicas
+
+?? CASO 1 – Esplenectomía
+Canino de 30 kg sometido a esplenectomía.
+Consignas:
+a) Diseñe analgesia intraoperatoria.
+b) Diseñe analgesia postoperatoria (72 h).
+c) Integre anestésicos locales en el esquema.
+d) Justifique la estrategia multimodal.
+
+?? CASO 2 – Ovariohisterectomía electiva
+Felino sano, 1 año, 4 kg.
+Consignas:
+a) ¿Es necesaria analgesia multimodal en cirugía electiva?
+b) Diseñe esquema perioperatorio incluyendo anestesia local.
+c) Indique precauciones farmacológicas en felinos.
+
+?? CASO 3 – Castración en equino
+Equino adulto sano.
+Consignas:
+a) Diseñe analgesia intraoperatoria.
+b) Diseñe analgesia postoperatoria.
+c) Indique el rol de los anestésicos locales en esta especie.
+d) Analice riesgos gastrointestinales asociados al uso de AINEs.
+
+VI. Consigna integradora avanzada
+Explique:
+Cómo la analgesia multimodal, incluyendo anestésicos locales, reduce la sensibilización central y disminuye el requerimiento de anestésicos generales.
+
+VII. Criterios de evaluación
+? Integración fisiopatológica
+? Justificación farmacológica
+? Uso racional de anestésicos locales
+? Enfoque interespecífico
+? Coherencia clínica
+
+GUÍA DE ESTUDIO FARMACOLOGÍA Y TERAPÉUTICA
+Fernando Mañas 
+-2026-
+
+2
+
+

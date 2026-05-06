@@ -1,0 +1,406 @@
+
+	
+
+
+Contenido
+Glucocorticoides, Antihistamínicos e Inmunomoduladores	3
+2. Glucocorticoides	4
+3. Antihistamínicos H1	8
+4. Inmunomoduladores modernos	9
+PERLAS FARMACOLÓGICAS CLÍNICAS	11
+?? TRABAJO PRÁCTICO Nº 5	12
+
+
+
+
+
+Glucocorticoides, Antihistamínicos e Inmunomoduladores
+Farmacología y terapéutica
+
+1. Inflamación, alergia e inmunomodulación: bases fisiopatológicas
+La inflamación es una respuesta biológica compleja cuyo objetivo es eliminar agentes nocivos y restaurar la homeostasis tisular. Este proceso implica la activación coordinada de células inmunológicas y la liberación de numerosos mediadores químicos.
+En medicina veterinaria, muchas patologías frecuentes —como dermatitis alérgica, asma felina, enfermedades autoinmunes o procesos inflamatorios crónicos— dependen de estos mecanismos.
+Desde el punto de vista farmacológico, el tratamiento consiste en intervenir en distintos puntos de la cascada inflamatoria.
+
+1.1 Activación de mediadores inflamatorios
+Los estímulos nocivos (trauma, infección, alérgenos o autoinmunidad) activan células inmunológicas como:
+* mastocitos
+* macrófagos
+* neutrófilos
+* eosinófilos
+* linfocitos T.
+Estas células liberan mediadores que amplifican la respuesta inflamatoria.
+Entre los principales mediadores se encuentran:
+Mediadores preformados
+* histamina
+* serotonina
+* proteasas mastocitarias
+Mediadores lipídicos
+* prostaglandinas
+* tromboxanos
+* leucotrienos
+Citocinas
+* IL-1
+* IL-6
+* TNF-?
+* IL-31 (principal citocina asociada al prurito alérgico)
+
+1.2 Cascada del ácido araquidónico
+Muchos mediadores inflamatorios derivan del ácido araquidónico, liberado desde los fosfolípidos de membrana por la enzima fosfolipasa A?.
+El ácido araquidónico puede seguir dos vías metabólicas principales:
+Vía ciclooxigenasa (COX)
+produce:
+* prostaglandinas
+* tromboxanos
+Vía lipooxigenasa
+produce:
+* leucotrienos.
+Este punto de la cascada inflamatoria es fundamental para comprender la acción de los antiinflamatorios:
+Grupo farmacológicoSitio de acciónAINEsinhibición de COXGlucocorticoidesinhibición de liberación de ácido araquidónicoPor esta razón los glucocorticoides producen una inhibición inflamatoria más amplia que los AINEs.
+
+2. Glucocorticoides
+Los glucocorticoides son análogos sintéticos del cortisol, hormona producida por la corteza adrenal.
+Constituyen los antiinflamatorios e inmunosupresores más potentes disponibles en medicina veterinaria, pero su uso implica importantes efectos metabólicos y endocrinos.
+Por este motivo deben utilizarse con criterio farmacológico y clínico riguroso.
+
+2.1 Mecanismo de acción
+Los glucocorticoides actúan mediante dos mecanismos principales:
+2.1.1 Acción genómica
+Es el mecanismo predominante y explica la mayor parte de sus efectos terapéuticos.
+El proceso ocurre en varias etapas:
+1. El glucocorticoide atraviesa la membrana celular.
+2. Se une a un receptor citoplasmático.
+3. El complejo fármaco-receptor migra al núcleo.
+4. Regula la transcripción de múltiples genes.
+Consecuencias:
+Disminución de mediadores inflamatorios:
+* IL-1
+* IL-6
+* TNF-?
+* COX-2
+Aumento de proteínas antiinflamatorias:
+Lipocortina-1 (anexina-1)
+Esta proteína inhibe la fosfolipasa A?, evitando la liberación de ácido araquidónico.
+Como consecuencia disminuye la producción de:
+* prostaglandinas
+* tromboxanos
+* leucotrienos.
+Este mecanismo explica la enorme potencia antiinflamatoria de los glucocorticoides.
+
+Tiempo de acción
+La acción genómica depende de síntesis proteica, por lo que su efecto aparece después de varias horas.
+
+2.1.2 Acción no genómica
+Algunos efectos ocurren rápidamente, sin intervención directa del ADN.
+Incluyen:
+* estabilización de membranas celulares
+* reducción de permeabilidad vascular
+* inhibición de degranulación mastocitaria.
+Estos efectos explican su utilidad en situaciones agudas como:
+* reacciones alérgicas graves
+* edema cerebral
+* shock anafiláctico.
+
+2.2 Clasificación por potencia y duración
+FármacoDuraciónPotencia antiinflamatoriaActividad mineralocorticoideHidrocortisonacortabajaaltaPrednisonaintermediamoderadalevePrednisolonaintermediamoderadaleveTriamcinolonaintermedia-largaaltanulaDexametasonalargamuy altanulaBetametasonalargamuy altanula
+Consideraciones clínicas
+Los glucocorticoides de acción prolongada producen mayor supresión del eje hipotálamo-hipófiso-adrenal.
+Por ello, en tratamientos crónicos suelen preferirse glucocorticoides de acción intermedia.
+
+2.3 Dosis y efecto clínico
+Los efectos farmacológicos dependen de la dosis.
+Dosis fisiológica
+Indicada en:
+insuficiencia adrenal primaria
+(enfermedad de Addison)
+
+Dosis antiinflamatoria
+Indicada en:
+* dermatitis alérgica
+* inflamación
+* prurito.
+Ejemplo:
+Prednisolona
+0,5–1 mg/kg/día.
+
+Dosis inmunosupresora
+Indicada en:
+* anemia hemolítica inmunomediada
+* lupus eritematoso sistémico
+* trombocitopenia inmunomediada.
+Ejemplo:
+Prednisolona
+2–4 mg/kg/día.
+
+2.4 Efectos adversos
+El uso prolongado puede producir síndrome de Cushing iatrogénico.
+Signos clásicos:
+* poliuria
+* polidipsia
+* polifagia
+* panteo
+* abdomen péndulo.
+Otros efectos incluyen:
+* inmunosupresión
+* debilidad muscular
+* retraso de cicatrización
+* hiperglucemia
+* diabetes mellitus secundaria
+* úlceras gastrointestinales.
+El riesgo de ulceración gastrointestinal aumenta significativamente cuando se combinan con AINEs.
+
+2.5 Supresión del eje hipotálamo-hipófiso-adrenal
+La administración prolongada de glucocorticoides produce retroalimentación negativa sobre el eje HHA:
+? ACTH
+? estimulación adrenal
+atrofia cortical.
+La suspensión brusca puede provocar una crisis Addisoniana aguda, por lo que se recomienda retiro progresivo (tapering).
+
+2.6 Consideraciones interespecíficas
+El gato y la prednisona
+La prednisona es un profármaco que debe convertirse en prednisolona en el hígado.
+Los gatos tienen menor capacidad para realizar esta conversión.
+Por ello:
+en gatos debe utilizarse prednisolona en lugar de prednisona.
+
+3. Antihistamínicos H1
+La histamina es uno de los mediadores principales de las reacciones alérgicas inmediatas.
+Se libera principalmente desde mastocitos y basófilos durante reacciones de hipersensibilidad tipo I.
+Produce:
+* vasodilatación
+* aumento de permeabilidad vascular
+* prurito
+* broncoconstricción.
+Los antihistamínicos H1 bloquean competitivamente estos receptores.
+
+3.1 Antihistamínicos de primera generación
+Ejemplos:
+* difenhidramina
+* clorfeniramina
+* hidroxicina.
+Características:
+* atraviesan la barrera hematoencefálica
+* producen sedación
+* tienen efectos anticolinérgicos.
+
+3.2 Antihistamínicos de segunda generación
+Ejemplos:
+* loratadina
+* cetirizina.
+Características:
+* mayor selectividad periférica
+* menor sedación
+* mayor duración de acción.
+
+3.3 Uso clínico
+Son útiles en:
+* urticaria
+* reacciones alérgicas agudas
+* prurito leve.
+Sin embargo tienen eficacia limitada en:
+* dermatitis atópica
+* asma felina crónica.
+Esto ocurre porque en estas enfermedades participan múltiples mediadores además de la histamina.
+
+4. Inmunomoduladores modernos
+La medicina veterinaria moderna ha incorporado terapias inmunológicas más específicas.
+
+4.1 Oclacitinib
+Inhibidor selectivo de JAK1.
+Las JAK transmiten señales de múltiples citocinas.
+Oclacitinib bloquea especialmente la señalización de IL-31, citocina clave en el prurito.
+Indicaciones:
+* dermatitis atópica
+* prurito alérgico canino.
+Ventajas:
+* inicio rápido (horas)
+* menor efecto metabólico que corticoides.
+
+4.2 Lokivetmab
+Anticuerpo monoclonal dirigido contra IL-31.
+Características:
+* alta especificidad
+* administración mensual
+* muy baja toxicidad sistémica.
+Uso principal:
+dermatitis atópica canina.
+
+4.3 Ciclosporina
+Inhibe la enzima calcineurina, necesaria para la activación de linfocitos T.
+Consecuencia:
+? producción de IL-2
+? proliferación linfocitaria.
+Usos:
+* dermatitis atópica
+* enfermedades autoinmunes.
+Limitación principal:
+inicio de acción lento (3–4 semanas).
+
+4.4 Tacrolimus
+También inhibe la calcineurina, pero se utiliza principalmente de forma tópica.
+Indicaciones:
+* lupus discoide
+* dermatitis localizada
+* enfermedades autoinmunes cutáneas.
+
+PERLAS FARMACOLÓGICAS CLÍNICAS
+1
+Los glucocorticoides no inhiben directamente la fosfolipasa A?.
+La inhibición ocurre indirectamente mediante la síntesis de lipocortina.
+
+2
+Los glucocorticoides son más potentes que los AINEs porque bloquean toda la cascada del ácido araquidónico, no solo COX.
+
+3
+La combinación AINE + glucocorticoide aumenta dramáticamente el riesgo de úlcera gastrointestinal y perforación.
+
+4
+En gatos siempre preferir prednisolona sobre prednisona.
+
+5
+El oclacitinib controla el prurito mucho más rápido que la ciclosporina.
+
+6
+Los antihistamínicos suelen ser mucho menos eficaces en dermatitis atópica canina que los glucocorticoides o los inmunomoduladores modernos.
+
+7
+Lokivetmab es uno de los pocos tratamientos biológicos altamente específicos disponibles en medicina veterinaria.
+
+8
+Los glucocorticoides deben administrarse preferentemente por la mañana, imitando el ritmo circadiano del cortisol.
+
+9
+En tratamientos prolongados es útil la estrategia de dosis en días alternos para reducir la supresión adrenal.
+
+10
+El uso prolongado de glucocorticoides puede enmascarar infecciones bacterianas o micóticas, lo que obliga a evaluar siempre la causa primaria del proceso inflamatorio.
+
+?? TRABAJO PRÁCTICO Nº 5
+Carrera: Medicina Veterinaria
+Asignatura: Farmacología y terapéutica
+Tema: Glucocorticoides, antihistamínicos e inmunomoduladores
+Duración: 2–3 horas
+Modalidad: resolución grupal + discusión guiada
+
+I. Fundamentación
+Las enfermedades inflamatorias, alérgicas y autoinmunes constituyen una parte importante de la práctica clínica veterinaria. El tratamiento farmacológico de estas condiciones requiere comprender los mecanismos inmunológicos involucrados y el modo en que diferentes fármacos modulan la respuesta inflamatoria.
+Los glucocorticoides son los antiinflamatorios más potentes disponibles en medicina veterinaria, pero su uso debe ser racional debido a sus múltiples efectos adversos.
+Los antihistamínicos actúan sobre mediadores tempranos de la reacción alérgica y tienen un rol variable según la especie.
+Los inmunomoduladores permiten controlar enfermedades inmunomediadas o inflamatorias crónicas con menor toxicidad que los glucocorticoides a largo plazo.
+El veterinario debe evaluar cuidadosamente:
+* intensidad del proceso inflamatorio
+* naturaleza inmunológica de la enfermedad
+* especie animal
+* duración del tratamiento
+* riesgo-beneficio terapéutico.
+
+II. Objetivos
+Objetivo general
+Diseñar estrategias farmacológicas racionales para el manejo de enfermedades inflamatorias, alérgicas e inmunomediadas.
+
+Objetivos específicos
+Al finalizar el trabajo práctico el estudiante será capaz de:
+• explicar el mecanismo antiinflamatorio de los glucocorticoides
+• diferenciar antihistamínicos de primera y segunda generación
+• identificar situaciones clínicas donde los antihistamínicos son útiles
+• reconocer efectos adversos del uso prolongado de corticoides
+• comparar glucocorticoides con otros inmunomoduladores
+• diseñar estrategias terapéuticas seguras a corto y largo plazo.
+
+III. Contenidos involucrados
+* fisiopatología de la inflamación
+* mediadores alérgicos
+* glucocorticoides
+* antihistamínicos
+* inmunomoduladores veterinarios
+Ejemplos relevantes:
+Glucocorticoides
+* prednisolona
+* dexametasona
+* metilprednisolona
+Antihistamínicos
+* difenhidramina
+* clorfeniramina
+* hidroxicina
+* cetirizina
+Inmunomoduladores
+* ciclosporina
+* oclacitinib
+* lokivetmab
+* azatioprina.
+
+IV. Actividades prácticas
+
+?? Actividad 1 – Inflamación y mediadores
+Responda:
+a) ¿Qué mediadores participan en una reacción alérgica aguda?
+b) ¿Qué efectos produce la histamina en los tejidos?
+c) ¿Por qué los glucocorticoides son más potentes que los antihistamínicos para controlar procesos inflamatorios?
+d) ¿Qué diferencia existe entre antiinflamatorio e inmunosupresor?
+
+?? Actividad 2 – Clasificación farmacológica
+Complete la tabla:
+Grupo farmacológicoMecanismo principalEjemplosGlucocorticoidesAntihistamínicos H1InmunomoduladoresConsigna integradora:
+?? Explique en qué nivel de la cascada inflamatoria actúa cada grupo farmacológico.
+
+?? Actividad 3 – Efectos adversos de glucocorticoides
+Identifique cuáles de los siguientes efectos adversos pueden aparecer con uso prolongado de glucocorticoides:
+* poliuria y polidipsia
+* inmunosupresión
+* diabetes mellitus
+* retraso en cicatrización
+* úlceras gastrointestinales
+* hiperadrenocorticismo iatrogénico.
+Explique el mecanismo fisiopatológico de al menos tres de ellos.
+
+V. Situaciones problema clínicas
+
+?? CASO 1 – Dermatitis alérgica en perro
+Canino de 4 años con prurito intenso y lesiones cutáneas compatibles con dermatitis alérgica.
+Consignas:
+a) Diseñe tratamiento inicial.
+b) ¿Qué rol pueden tener los antihistamínicos?
+c) ¿Qué alternativa terapéutica podría utilizarse si se requiere tratamiento prolongado?
+d) Compare:
+* glucocorticoides
+* oclacitinib
+* ciclosporina.
+
+?? CASO 2 – Asma felina
+Felino con diagnóstico de asma bronquial.
+Consignas:
+a) ¿Qué grupo farmacológico es más eficaz para controlar la inflamación bronquial?
+b) ¿Por qué los antihistamínicos tienen eficacia limitada en esta enfermedad?
+c) ¿Qué ventajas presenta la administración inhalatoria de glucocorticoides?
+
+?? CASO 3 – Enfermedad autoinmune
+Canino con diagnóstico de anemia hemolítica inmunomediada.
+Consignas:
+a) ¿Cuál es el tratamiento farmacológico inicial?
+b) ¿Por qué se utilizan dosis inmunosupresoras de glucocorticoides?
+c) ¿Qué inmunomodulador podría agregarse si el paciente no responde adecuadamente?
+d) ¿Qué riesgos presenta la inmunosupresión prolongada?
+
+VI. Actividad integradora avanzada
+Discuta:
+¿Por qué el uso prolongado de glucocorticoides debe evitarse cuando existen alternativas terapéuticas como ciclosporina u oclacitinib?
+Considere:
+* efectos adversos
+* costo
+* tiempo de respuesta
+* seguridad a largo plazo.
+
+VII. Criterios de evaluación
+? Integración fisiopatológica
+? Justificación farmacológica
+? Evaluación riesgo-beneficio
+? Selección racional de terapias
+? Consideración de especie animal.
+
+GUÍA DE ESTUDIO FARMACOLOGÍA Y TERAPÉUTICA
+Fernando Mañas 
+-2026-
+
+2
+
+

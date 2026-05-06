@@ -1,0 +1,321 @@
+
+	
+
+
+Contenido
+SEMANA 9- MÓDULO 4: Farmacología de Sistemas: Sistema digestivo	3
+1. Introducción y objetivos	3
+2. Antiácidos	3
+A. Antiácidos Neutralizantes	3
+B. Antiácidos Antisecretores	3
+Bloqueantes H2 (Histamina)	3
+Inhibidores de la Bomba de Protones (IBP)	4
+3. Control del vómito (emesis)	4
+A. Antieméticos	4
+B. Eméticos	4
+4. Laxantes o evacuantes	5
+5. Antiespasmódicos y antidiarreicos	6
+6. Farmacología hepática	6
+7. Farmacología ruminal	7
+8. Farmacología pancreática exocrina	8
+7. Actividades de autoevaluación	8
+?? 8. Resumen en 10 puntos	9
+?? 9. Errores clínicos frecuentes	9
+?? 10. Checklist de examen	10
+?? 11. Bibliografía recomendada	10
+?? TRABAJO PRÁCTICO Nº 9	11
+
+
+SEMANA 9- MÓDULO 4: Farmacología de Sistemas: Sistema digestivo
+Tema: Farmacología del Aparato Digestivo: Antiácidos, Antieméticos, Moduladores de la Motilidad, Farmacología ruminal, hepática y pancreática.
+Semana: 11
+
+1. Introducción y objetivos
+El aparato digestivo es la puerta de entrada de nutrientes y una barrera defensiva fundamental. El vómito y la diarrea son mecanismos de defensa, mientras que el hígado actúa como el principal órgano de biotransformación y detoxificación. La farmacología digestiva busca modular estos procesos sin interferir negativamente con la fisiología.
+Objetivos:
+1. Identificar los receptores del centro del vómito y de la ZQG (zona quimiorreceptora gatillo).
+2. Diferenciar antiácidos neutralizantes y antisecretores.
+3. Conocer antieméticos, eméticos y moduladores de la motilidad.
+4. Comprender la farmacología hepática y ruminal.
+5. Introducir la farmacología pancreática exocrina.
+
+2. Antiácidos
+ A. Antiácidos Neutralizantes
+Neutralizan químicamente el ácido gástrico. Uso sintomático.
+• Bicarbonato de sodio: Acción rápida. Riesgo de alcalosis sistémica.
+• Carbonato de calcio: Neutraliza ácido y estimula secreción ácida de rebote.
+• Hidróxido de aluminio: Más lento. Puede causar constipación.
+• Hidróxido de magnesio: Más rápido. Puede causar diarrea.
+Vía: Oral.
+
+B. Antiácidos Antisecretores
+Bloqueantes H2 (Histamina)
+Disminuyen la secreción ácida basal.
+FármacoVíasPotenciaNotasCimetidinaOral, IVBajaInhibe CYP450 (interacciones)RanitidinaOral, IV
+SCMediaTambién leve procinéticoFamotidinaOral, IVAltaMás potente y segura
+Inhibidores de la Bomba de Protones (IBP)
+Bloqueo irreversible de la H+/K+ ATPasa.
+FármacoVíasNotasOmeprazolOral, IVMáxima potencia. Efecto pleno a los 2–3 días
+3. Control del vómito (emesis)
+El vómito es coordinado por el centro del vómito y la ZQG (zona quimiorreceptora gatillo).
+A. Antieméticos
+FármacoMecanismoVíaEspeciesNotasMetoclopramidaAntagonista D2 y 5HT3 (ZQG). Agonista 5HT4 Oral, IV, SCP, GProcinético. NO usar en obstrucciónDomperidonaAntagonista D2 (ZQG)OralPMenor efecto centralOndansetrónAntagonista 5-HT3Oral, IVP, GQuimioterapia, vómitos severosMaropitantAntagonista NK1 (Sustancia P)SC, OralP, GGold standard. Central y periférico
+B. Eméticos
+Indicados solo dentro de las primeras 1–2 horas post ingestión del tóxico.
+Eméticos Periféricos
+• Cloruro de sodio
+• Agua oxigenada (3%)
+• Sulfato de zinc
+Eméticos Centrales
+• Apomorfina: Perros. Agonista dopaminérgico.
+• Xilazina: Gatos. Agonista ?2.
+4. Laxantes o evacuantes
+Clasificación
+?? 1. Laxantes formadores de masa (fibras)
+Aumentan el volumen del bolo fecal ? estimulan peristaltismo.
+* Fibras naturales
+* Celulosa y derivados como la carboximetilcelulosa
+?? Fisiológicos, seguros, lentos
+
+?? 2. Laxantes ablandadores / humectantes
+?? Facilitan la entrada de agua y grasa en la materia fecal
+* Docusato de sodio
+?? Disminuyen la tensión superficial de las heces
+?? Previenen esfuerzo defecatorio
+?? NO estimulan directamente el intestino
+
+?? 3. Laxantes osmóticos (purgantes salinos)
+Retienen agua en la luz intestinal por efecto osmótico.
+* Manitol
+* Sulfato de magnesio
+* Hidróxido de magnesio
+?? Efecto más rápido
+?? Riesgo de deshidratación y alteraciones electrolíticas
+
+?? 4. Laxantes estimulantes o irritantes
+?? Estimulan directamente el plexo mientérico
+?? Aumentan motilidad y secreción
+Ejemplos:
+* Bisacodilo ?
+* Aceite de ricino
+?? Actúan sobre colon
+?? Pueden generar cólicos
+?? Uso corto, NO crónico
+
+5. Antiespasmódicos y antidiarreicos
+FármacoMecanismoNotasEscopolaminaAnticolinérgicoEspasmos GIButilescopolaminaAnticolinérgico periféricoMenos SNCLoperamidaOpioide ?NO en infecciosas. MDR1DifenoxilatoOpioideSimilar a loperamida
+6. Farmacología hepática
+A. Coleréticos y Colagogos
+?? Coleréticos
+Definición:
+?? Fármacos que aumentan la producción de bilis por el hepatocito (más volumen de bilis).
+?? Actúan a nivel hepático, no sobre la vesícula.
+Ejemplo clásico:
+* Ácido ursodesoxicólico (UDCA)
+* Aumenta el flujo biliar
+* Vuelve la bilis más hidrofílica y menos tóxica
+* Protege al hepatocito y al colangiocito
+?? Útil en colestasis funcional, barro biliar, hepatitis crónica
+?? Contraindicación: obstrucción biliar completa
+
+?? Colagogos
+Definición:
+?? Fármacos que estimulan la contracción de la vesícula biliar y facilitan la expulsión de bilis ya formada hacia el duodeno.
+?? Actúan sobre la vesícula y el esfínter de Oddi, no sobre el hepatocito.
+Ejemplo clásico:
+* Sulfato de magnesio (uso histórico / más teórico que práctico en pequeños animales)
+?? Pueden provocar dolor tipo cólico si hay obstrucción
+?? Uso veterinario actual limitado
+
+B. Protectores Hepáticos
+FármacoMecanismoNotasSAMePrecursor de glutatiónDar en ayunasSilimarinaAntioxidante directoAmanitaN-acetilcisteínaPrecursor glutatiónAntídoto paracetamolVitamina EAntioxidanteCoadyuvante
+7. Farmacología ruminal 
+A. Ruminatorios
+Parasimpaticomiméticos (uso prudente).
+B. Antiespumantes
+• Poloxaleno
+• Simeticona (Dimetilpolisiloxano)
+C. Alcalinizantes del Rumen
+• Bicarbonato de sodio
+• Óxido de magnesio
+D. Acidificantes del Rumen
+Uso limitado (ácido acético).
+E. Ionóforos – Monensina
+• Vía: Oral (alimento)
+• Mecanismo: Ionóforo que transporta Na+ y K+ a través de la membrana bacteriana ? colapso del gradiente iónico ? muerte de bacterias Gram +.
+• Efectos:
+* ? ácido láctico
+* ? acidosis ruminal
+* ? propionato
+* ? metano
+* ? eficiencia alimentaria
+?? Extremadamente tóxica en equinos (miocardiopatía fatal).
+
+8. Farmacología pancreática exocrina
+• Pancreatina / Enzimas pancreáticas: Lipasa, amilasa y proteasas.
+• Vía: Oral (con alimento).
+• Uso: Insuficiencia pancreática exocrina (IPE).
+
+?? CIERRE
+La farmacología digestiva requiere interpretar cuándo intervenir y cuándo respetar los mecanismos defensivos del organismo. Un uso racional evita complicaciones graves y mejora el pronóstico clínico.
+
+7. Actividades de autoevaluación
+?? Caso 1: El Gato Intoxicado
+Un gato ingiere medio comprimido de Paracetamol y llega con mucosas cianóticas/marrones (Metahemoglobinemia).
+1. ¿Por qué el hígado del gato no pudo procesar la droga? 
+2. ¿Qué fármaco hepatoprotector debe administrar de urgencia por vía endovenosa para reponer el Glutatión?
+?? Caso 2: Megacolon Felino
+Un gato constipado crónico no responde a la dieta.
+1. Usted decide usar Cisapride. ¿Cuál es el mecanismo de acción?
+2. ¿Qué pasaría si usa Loperamida en este paciente?
+?? Caso 3: Colestasis
+Un perro tiene "barro biliar" en la vesícula y enzimas hepáticas elevadas. No hay obstrucción.
+1. ¿Por qué indicaría Ácido Ursodesoxicólico? ¿Qué efecto espera sobre la fluidez de la bilis?
+?? Caso 4: Úlcera Sangrante
+Perro con vómitos con sangre por úlcera gástrica severa.
+1. ¿Por qué elige Omeprazol sobre Ranitidina?
+2. Si agrega Sucralfato, ¿cómo organiza los horarios de toma respecto al Omeprazol y la comida?
+
+?? 8. Resumen en 10 puntos
+• La motilidad gastrointestinal depende de regulación nerviosa y hormonal.
+• Los antieméticos actúan sobre receptores dopaminérgicos, serotoninérgicos y NK-1.
+• Los procinéticos aumentan motilidad por vías colinérgicas o serotoninérgicas.
+• Los antiácidos gástricos incluyen neutralizantes, bloqueantes H2 e inhibidores de bomba.
+• La metoclopramida tiene efecto procinético y antiemético central.
+• Los antagonistas NK-1 como maropitant son altamente eficaces.
+• Los protectores de mucosa como sucralfato crean barrera física.
+• Los hepatoprotectores incluyen silimarina, SAMe y ácido tióctico.
+• El diagnóstico correcto guía el uso racional de GI/hepatoprotectores.
+• El uso inapropiado puede ocultar patologías graves.
+
+?? 9. Errores clínicos frecuentes
+• Usar metoclopramida en obstrucción mecánica.
+• Dar antiácidos sin diagnóstico claro.
+• Confundir protectores gástricos con protectores de mucosa.
+• Usar maropitant como único tratamiento de vómito sin buscar causa.
+• Dar sucralfato junto con otros fármacos sin separar horarios.
+• No considerar efectos extrapiramidales de metoclopramida.
+• Usar hepatoprotectores sin diagnóstico hepático.
+• Combinar IBP y H2 sin motivo clínico.
+• No ajustar dosis en pacientes hepatópatas.
+• Administrar procinéticos en cuerpos extraños.
+
+?? 10. Checklist de examen
+• ¿Diferencio antieméticos dopaminérgicos, serotoninérgicos y NK-1?
+• ¿Comprendo mecanismo procinético de metoclopramida?
+• ¿Sé cuándo NO usar metoclopramida?
+• ¿Conozco diferencias entre antiácidos H2 e IBP?
+• ¿Puedo indicar sucralfato correctamente?
+• ¿Sé cuándo usar maropitant?
+• ¿Comprendo mecanismo de silimarina y SAMe?
+• ¿Puedo identificar signos de hepatopatía?
+• ¿Sé diferenciar diarrea osmótica vs secretora?
+• ¿Puedo formular un plan terapéutico GI completo?
+
+?? 11. Bibliografía recomendada
+• Feldman & Zawie. Gastrointestinal Disorders in Small Animals.
+• Willard & Twedt. Gastrointestinal Pharmacology (Vet Clin Small Anim).
+• Papich MG. Saunders Handbook of Veterinary Drugs.
+• Washabau RJ. Canine and Feline Gastroenterology.
+• Center SA. Hepatology in Small Animal Practice.
+
+
+?? TRABAJO PRÁCTICO Nº 9
+Farmacología del Aparato Digestivo
+Carrera: Veterinaria
+Asignatura: Farmacología y terapéutica
+Semana: 9
+Duración: 3 horas
+Modalidad: Trabajo grupal + discusión guiada
+
+I. Fundamentación
+Las alteraciones digestivas representan uno de los motivos de consulta más frecuentes en medicina veterinaria. El manejo farmacológico incluye múltiples grupos terapéuticos que actúan sobre distintos mecanismos fisiológicos:
+* control del vómito
+* regulación de la motilidad gastrointestinal
+* manejo racional de la diarrea
+* protección gástrica
+* tratamiento farmacológico en rumiantes
+* manejo inicial de intoxicaciones digestivas
+El objetivo del trabajo práctico es integrar estos conceptos con situaciones clínicas reales, fomentando la toma de decisiones terapéuticas racionales.
+
+II. Objetivos
+Al finalizar el trabajo práctico el estudiante será capaz de:
+• Seleccionar antieméticos según mecanismo de acción y especie
+• Evaluar el uso racional de antidiarreicos
+• Reconocer situaciones donde inducir el vómito está indicado o contraindicado
+• Seleccionar protectores gástricos según fisiopatología
+• Analizar errores frecuentes en el manejo farmacológico digestivo
+• Integrar conceptos farmacológicos con situaciones clínicas reales
+
+III. Actividad 1 – Comparación de antieméticos
+Complete el siguiente cuadro comparativo.
+FármacoMecanismo de acciónSitio de acción principalUso clínicoMetoclopramidaMaropitantOndansetrónLuego responda:
+a) ¿Qué antiemético sería más eficaz frente a vómitos de origen central?
+b) ¿Cuál es más útil en vómitos asociados a quimioterapia o gastroenteritis severa?
+c) ¿Qué diferencias existen entre perros y gatos en la elección de antieméticos?
+
+IV. Actividad 2 – Uso de eméticos en intoxicaciones
+Indique si la inducción del vómito estaría indicada en los siguientes casos:
+a) Perro que ingirió chocolate hace 30 minutos.
+b) Perro que ingirió ácido corrosivo.
+c) Gato que ingirió una planta tóxica hace 20 minutos.
+d) Perro inconsciente con sospecha de ingestión de tóxico.
+Responda además:
+• ¿Qué fármacos pueden utilizarse como eméticos en medicina veterinaria?
+• ¿En qué situaciones está contraindicado inducir el vómito?
+
+V. Actividad 3 – Antidiarreicos
+Clasifique los siguientes fármacos según su mecanismo de acción.
+FármacoClasificaciónMecanismoLoperamidaBismuto subsalicilatoCaolín-pectinaCarbón activadoLuego responda:
+a) ¿Por qué los antidiarreicos antimotilidad pueden ser perjudiciales en infecciones intestinales?
+b) ¿En qué tipo de diarreas podría ser razonable utilizarlos?
+
+VI. Actividad 4 – Errores frecuentes en el tratamiento de la diarrea
+Analice las siguientes situaciones clínicas.
+Caso A
+Perro con diarrea aguda febril y leucocitosis.
+Se prescribe loperamida.
+Preguntas
+1. ¿Es apropiado el tratamiento?
+2. ¿Qué riesgo implica disminuir la motilidad intestinal en este caso?
+
+Caso B
+Perro con diarrea leve autolimitada.
+Se administran antibióticos de amplio espectro.
+Preguntas
+1. ¿Está justificado el uso de antibióticos?
+2. ¿Qué consecuencias puede tener sobre la microbiota intestinal?
+
+Caso C
+Perro con intoxicación reciente recibe carbón activado.
+Preguntas
+1. ¿Cuál es el mecanismo de acción del carbón activado?
+2. ¿En qué momento es más eficaz administrarlo?
+
+VII. Actividad 5 – Protectores gástricos y AINEs
+Responda:
+a) ¿Por qué los AINEs pueden provocar lesiones gástricas?
+b) Compare los siguientes grupos farmacológicos:
+GrupoMecanismoEjemploAntiácidosAntagonistas H?Inhibidores bomba protonesc) ¿Cuál sería la estrategia farmacológica más eficaz para prevenir gastropatía inducida por AINEs?
+
+VIII. Caso clínico en rumiantes
+?? Bovino con acidosis ruminal
+Vaca lechera con disminución de motilidad ruminal, anorexia y distensión abdominal.
+Responda:
+a) ¿Qué fármacos pueden estimular la motilidad ruminal?
+b) ¿Qué medidas farmacológicas pueden ayudar a corregir la acidosis?
+c) ¿Qué rol tiene la fluidoterapia en este cuadro?
+
+IX. Discusión final integradora
+Explique por qué en farmacología digestiva:
+• no siempre es conveniente suprimir los síntomas (vómito o diarrea)
+• la elección del fármaco debe basarse en la fisiopatología del cuadro
+• muchas terapias digestivas son principalmente de soporte
+
+GUÍA DE ESTUDIO FARMACOLOGÍA Y TERAPÉUTICA
+Fernando Mañas 
+-2026-
+
+2
+
+

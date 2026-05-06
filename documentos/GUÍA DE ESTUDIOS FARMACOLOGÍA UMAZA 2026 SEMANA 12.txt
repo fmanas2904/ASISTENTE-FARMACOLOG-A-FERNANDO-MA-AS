@@ -1,0 +1,778 @@
+
+	
+
+
+Contenido
+SEMANA 11- MÓDULO 4: Farmacología de Sistemas: Respiratorio, piel, ojo y oído	4
+1. Introducción y objetivos	4
+2. Farmacología respiratoria	4
+Broncodilatadores	5
+Corticoides	7
+Antihistamínicos H1	8
+Oxígeno como gas terapéutico	9
+Manejo de la tos y secreciones	9
+Antitusivos (solo para tos seca)	11
+Resumen respiratorio en 10 puntos	12
+3. Farmacología de la piel (Dermatología)	12
+Control del prurito	13
+?? a. Antihistamínicos H1	13
+?? b. Corticoides	13
+?? c. Oclacitinib	14
+?? d. Lokivetmab	14
+?? e. Ciclosporina	14
+Control de inflamación cutánea	15
+?? Tacrolimus	15
+Control de infecciones secundarias	15
+Restauración de barrera cutánea	16
+4. Farmacología oftalmológica (ojo)	16
+Fármacos que disminuyen la presión intraocular	17
+a. Inhibidores de producción de humor acuoso	17
+b. Fármacos que aumentan drenaje	18
+Fármacos que modifican el diámetro pupilar	18
+Inmunomoduladores tópicos	19
+Antiinflamatorios oftálmicos	20
+Antibióticos tópicos	21
+Conceptos farmacológicos clave	21
+5. Farmacología del oído (otológica)	21
+Ceruminolíticos y limpiadores	22
+Antibióticos tópicos	23
+Antimicóticos tópicos	24
+Corticoides tópicos	25
+Tratamiento sistémico (cuando está indicado)	25
+Formulaciones combinadas	25
+6. Actividades de autoevaluación	25
+?? 7. Resumen en 10 puntos	26
+?? 8. Errores clínicos frecuentes	27
+?? 9. Checklist de examen	27
+?? 10. Bibliografía recomendada	27
+
+
+
+SEMANA 11- MÓDULO 4: Farmacología de Sistemas: Respiratorio, piel, ojo y oído
+
+1. Introducción y objetivos
+En esta semana abordamos patologías que afectan directamente la calidad de vida del paciente:
+* ??? Disnea
+* ?? Prurito
+* ??? Dolor ocular
+* ?? Otitis
+En dermatología, la farmacología ha evolucionado notablemente en la última década, desplazando el uso crónico de corticoides hacia terapias dirigidas como inhibidores de JAK (Oclacitinib) y anticuerpos monoclonales (Lokivetmab).
+En oftalmología, el ojo funciona como un órgano “santuario”, con barreras anatómicas que limitan la penetración farmacológica. Un error terapéutico puede comprometer la visión en pocas horas.
+
+?? Objetivos de la semana
+1. Diferenciar tos productiva de tos seca y elegir tratamiento adecuado.
+2. Comprender el uso racional de broncodilatadores.
+3. Entender la inmunomodulación moderna en dermatitis atópica.
+4. Manejar farmacológicamente glaucoma y ojo seco.
+5. Reconocer la contraindicación absoluta de corticoides en úlcera corneal.
+6. Comprender la estrategia integral en otitis externas.
+
+2. Farmacología respiratoria
+?? Objetivos terapéuticos
+* Mejorar ventilación
+* Disminuir broncoconstricción
+* Optimizar intercambio gaseoso
+* Manejar secreciones
+* Controlar la tos cuando sea necesario
+
+Enfoque clínico inicial
+Antes de medicar, diferenciar:
+?? Enfermedad obstructiva alta
+Ejemplos:
+* Colapso traqueal
+* Edema laríngeo
+* Parálisis laríngea
+Signos:
+* Estridor inspiratorio
+* Tos seca, “de ganso”
+* Aumento del esfuerzo inspiratorio
+
+?? Enfermedad obstructiva baja
+Ejemplos:
+* Asma felino
+* Bronquitis crónica
+* RAO equino
+Signos:
+* Espiración prolongada
+* Sibilancias
+* Patrón espiratorio forzado
+?? Esta diferenciación define el tratamiento.
+
+Broncodilatadores
+Indicados en broncoconstricción (obstrucción baja).
+
+?? a. Agonistas ?? adrenérgicos
+Salbutamol
+* Vía: Inhalatoria (aerocámara)
+* Acción rápida (rescate)
+* Duración corta
+Mecanismo:
+Estimula receptor ?? ? ? AMPc ? relajación del músculo liso bronquial.
+Indicación:
+Crisis asmática felina.
+
+Clenbuterol
+* Vía: Oral / IV
+* Más prolongado
+* Muy usado en equinos
+Efecto adicional:
+Mejora aclaramiento mucociliar.
+
+?? Adrenalina (epinefrina)
+No es broncodilatador crónico.
+Mecanismo:
+* ?? ? broncodilatación
+* ?? ? vasoconstricción mucosa (? edema)
+Indicaciones:
+* Anafilaxia
+* Edema laríngeo
+* Emergencia obstructiva alta
+Uso:
+IM o nebulizada en emergencias.
+
+?? b. Anticolinérgicos
+Ipratropio
+Grupo:
+Antagonista muscarínico (M3)
+Mecanismo:
+Bloquea broncoconstricción vagal.
+Vía:
+Inhalatoria.
+Uso:
+* Asma felino
+* Bronquitis crónica
+* Terapia combinada con ??
+Ventaja:
+Actúa por vía diferente ? efecto aditivo.
+
+?? c. Metilxantinas
+Teofilina / Aminofilina
+Mecanismo:
+* Inhiben fosfodiesterasa ? ? AMPc
+* Antagonizan adenosina
+* Estimulan centro respiratorio
+Vía:
+Oral / IV lenta
+Precaución:
+Margen terapéutico estrecho.
+Taquicardia, excitación.
+Uso actual más limitado.
+
+Corticoides 
+(No broncodilatan directamente)
+El asma es inflamatorio, no solo broncospástico.
+
+Corticoides sistémicos
+Indicados en:
+• Asma felino
+• Bronquitis inflamatoria
+• Crisis moderada–grave
+Disminuyen:
+• Edema
+• Infiltrado eosinofílico
+• Hiperreactividad bronquial
+
+?? Corticoides inhalados en asma felino
+Fluticasona (inhalatoria)
+Mecanismo:
+Glucocorticoide tópico potente ? inhibe inflamación bronquial.
+Ventaja:
+• Actúa localmente
+• Mínimos efectos sistémicos
+• Uso crónico seguro
+Estrategia moderna:
+Fluticasona (control crónico)
+Salbutamol (rescate)
+Representa el estándar actual en asma felino.
+
+Antihistamínicos H1
+(No son broncodilatadores directos)
+La histamina participa en broncoconstricción y edema, pero no es el único mediador en asma crónico.
+
+?? Primera generación
+• Difenhidramina
+• Clorfeniramina
+Características:
+• Sedantes
+• Anticolinérgicos
+• Cruzan BHE
+
+?? Segunda generación
+• Loratadina
+• Cetirizina
+Características:
+• Más selectivos periféricos
+• Menos sedación
+
+Uso clínico:
+Útiles en:
+• Reacciones alérgicas agudas
+• Broncoespasmo mediado por histamina
+Limitados en:
+• Asma crónico
+• Bronquitis inflamatoria persistente
+
+Oxígeno como gas terapéutico
+El oxígeno es un fármaco.
+Indicaciones:
+* Hipoxemia
+* Edema pulmonar
+* Crisis asmática
+* Neumonía grave
+* Shock
+Vías:
+* Cámara
+* Catéter nasal
+* Mascarilla
+* Jaula enriquecida
+Concepto clave:
+No trata la causa.
+Mantiene oxigenación mientras se corrige el problema.
+Riesgo:
+Toxicidad por O? a concentraciones altas prolongadas.
+
+Manejo de la tos y secreciones
+La tos es un reflejo protector.
+
+?? Tos Productiva (NO suprimir)
+Acetilcisteína
+Es mucolítico.
+Rompe puentes disulfuro ? ? viscosidad.
+Vía:
+Nebulización.
+
+Bromhexina
+Es mucolítico y expectorante.
+? secreción acuosa.
+Mejora penetración antibiótica.
+
+Guayfenesina (Éter gliceril guayacolato)
+Es expectorante.
+Mecanismo:
+Estimula secreción traqueobronquial ? fluidifica moco.
+Uso:
+* Expectorante clásico
+* Más relevante en equinos
+* En pequeños animales hoy poco usado
+Nota:
+En equinos es más conocido como relajante muscular en anestesia.
+
+FármacoGrupo farmacológicoMecanismo principalEfecto sobre el
+mocoVía habitualComentarios clínicosAcetilcisteínaMucolítico químicoRompe puentes disulfuro de las mucoproteínasDisminuye fuertemente la viscosidadNebulizaciónMuy potente. Puede irritar vía aérea. También es antídoto de paracetamol y antioxidante.BromhexinaMucolítico–secretolíticoDespolimeriza mucopolisacáridos + estimula secreción serosa? viscosidad + ? componente acuosoOralMejora transporte mucociliar. Más “fisiológica” que acetilcisteína.Guayfenesina (Éter gliceril guayacolato)ExpectoranteEstimula secreción traqueobronquial reflejaAumenta volumen de secreción, la fluidificaOral (expectorante)Uso limitado en pequeños animales. En equinos se usa más como relajante muscular central en anestesia.
+Antitusivos (solo para tos seca)
+Codeína / Hidrocodona
+Opioides.
+Depresión del centro bulbar de la tos.
+Uso:
+Colapso traqueal
+Traqueobronquitis irritativa
+
+Butorfanol
+Opioide agonista-antagonista.
+Antitusivo inyectable potente.
+
+Rol de Maropitant en Tos
+Maropitant:
+Antagonista NK-1 (sustancia P).
+Aunque es antiemético, la sustancia P participa en el reflejo tusígeno.
+Uso:
+Puede reducir tos asociada a irritación traqueal crónica.
+No es antitusivo clásico.
+Se considera opción complementaria en colapso traqueal.
+
+Crisis asmática vs colapso traqueal
+CaracterísticaCrisis Asmática (Baja)Colapso Traqueal (Alta)Tipo de obstrucciónBronquial distalTraqueal proximalSonidoSibilanciasTos “de ganso”Fase afectadaEspiración prolongadaInspiración (frecuente)Tratamiento principalBroncodilatadores + corticoidesAntitusivos + control pesoUso de ??SíNo es claveOxígenoFrecuenteEn crisis graveAntitusivosNoSí
+Resumen respiratorio en 10 puntos
+• Diferenciar obstrucción alta vs baja es clave terapéutica.
+• El asma felino es inflamatorio + broncospástico.
+• Salbutamol es fármaco de rescate.
+• Fluticasona es control crónico en asma felino.
+• Ipratropio bloquea tono vagal bronquial.
+• Teofilina tiene margen estrecho.
+• No suprimir tos productiva.
+• Opioides son antitusivos centrales.
+• El oxígeno es un fármaco, no un complemento.
+• La adrenalina es para emergencia, no mantenimiento.
+
+3. Farmacología de la piel (Dermatología)
+?? Objetivos terapéuticos
+• Controlar inflamación
+• Disminuir prurito
+• Restaurar barrera cutánea
+• Controlar infección secundaria
+• Modular respuesta inmune
+• Eliminar agentes etiológicos (parásitos, hongos, bacterias)
+
+Control del prurito
+El prurito puede ser:
+• Histaminérgico
+• Mediado por IL-31
+• Neuroinflamatorio
+• Secundario a infección
+• Autoinmune
+
+?? a. Antihistamínicos H1
+No son los más potentes en perros.
+Primera generación
+• Difenhidramina
+• Clorfeniramina
+Cruzan BHE ? sedación
+Efecto anticolinérgico
+Segunda generación
+• Loratadina
+• Cetirizina
+Más selectivos periféricos
+Menos sedantes
+?? Funcionan mejor en:
+• Urticaria aguda
+• Reacciones alérgicas inmediatas
+Limitados en:
+• Dermatitis atópica crónica
+
+?? b. Corticoides
+Prednisolona / Dexametasona
+Potentes antipruriginosos.
+Mecanismo:
+• Inhiben fosfolipasa A2
+• ? prostaglandinas y leucotrienos
+• ? citocinas inflamatorias
+Uso:
+• Crisis aguda
+• Dermatitis alérgica severa
+• Enfermedades autoinmunes
+? Efectos adversos:
+• PU/PD
+• Inmunosupresión
+• Atrofia cutánea crónica
+
+?? c. Oclacitinib
+Inhibidor JAK1.
+Bloquea señalización de IL-31 (principal citocina del prurito).
+Inicio rápido (horas).
+Uso:
+• Dermatitis atópica
+• Prurito alérgico
+Ventaja:
+No es corticoide.
+Menos efectos sistémicos.
+
+?? d. Lokivetmab
+Anticuerpo monoclonal anti-IL-31.
+Uso:
+• Dermatitis atópica canina
+Ventaja:
+• Muy específico
+• Aplicación mensual
+• Mínimos efectos sistémicos
+
+?? e. Ciclosporina
+Inhibe calcineurina ? ? activación linfocitos T.
+Uso:
+• Dermatitis atópica crónica
+• Enfermedades inmunomediadas
+Inicio lento (3–4 semanas).
+
+Control de inflamación cutánea
+Incluye:
+• Corticoides sistémicos
+• Corticoides tópicos
+• Tacrolimus tópico
+
+?? Tacrolimus
+Inhibidor calcineurina tópico.
+Uso:
+• Lupus discoide
+• Dermatitis localizada
+• Alternativa a corticoides crónicos
+
+Control de infecciones secundarias
+Muy frecuentes en dermatitis alérgica.
+
+?? Piodermas bacterianas
+Principal agente:
+Staphylococcus pseudintermedius.
+Tratamiento:
+Sistémico:
+• Cefalexina
+• Amoxicilina-clavulánico
+• Clindamicina
+Tópico:
+• Clorhexidina
+
+?? Siempre tratar mínimo 7–14 días después de resolución clínica.
+
+?? Dermatitis por Malassezia
+Tratamiento:
+• Ketoconazol
+• Itraconazol
+• Champús con miconazol
+
+Restauración de barrera cutánea
+Concepto moderno clave en atopia.
+Incluye:
+• Ácidos grasos esenciales (?3, ?6)
+• Emolientes tópicos
+• Champús humectantes
+• Ceramidas
+No reemplazan antiinflamatorios, pero reducen recaídas.
+
+?? RESUMEN EN 10 PUNTOS
+• El prurito no siempre es histamínico.
+• IL-31 es clave en dermatitis atópica.
+• Corticoides son los más potentes, pero no siempre los más seguros.
+• Oclacitinib actúa rápido.
+• Lokivetmab es altamente específico.
+• Infección secundaria perpetúa prurito.
+• No tratar pioderma es fracasar terapéuticamente.
+• Isoxazolinas revolucionaron el manejo de sarnas.
+• Barrera cutánea es parte del tratamiento, no cosmética.
+• Dermatología es manejo crónico, no solución instantánea.
+
+4. Farmacología oftalmológica (ojo)
+
+Particularidades farmacocinéticas del ojo
+El ojo presenta barreras que condicionan la farmacología:
+• Epitelio corneal (lipofílico)
+• Barrera hemato-acuosa
+• Barrera hemato-retiniana
+• Lavado lagrimal constante
+?? Implicancia farmacológica:
+* La vía tópica es la principal.
+* La absorción sistémica puede ocurrir vía conducto nasolagrimal.
+* La integridad epitelial modifica penetración (una úlcera aumenta absorción).
+
+?? Objetivos farmacológicos en oftalmología
+• Disminuir presión intraocular
+• Modificar diámetro pupilar
+• Controlar inflamación
+• Modular respuesta inmune local
+• Prevenir infección secundaria
+• Controlar dolor ocular
+
+Fármacos que disminuyen la presión intraocular
+a. Inhibidores de producción de humor acuoso
+?? Inhibidores de Anhidrasa Carbónica (tópicos)
+Dorzolamida
+Mecanismo:
+Inhibe anhidrasa carbónica en procesos ciliares ? ? formación de bicarbonato ? ? secreción de humor acuoso.
+Ventaja:
+Menos efectos sistémicos que los inhibidores orales.
+Uso clínico:
+Glaucoma (especialmente en gatos).
+
+?? Beta-bloqueantes
+Timolol
+Mecanismo:
+Bloquea receptores ? en cuerpo ciliar ? ? producción de humor acuoso.
+Advertencia:
+Puede absorberse sistémicamente ? bradicardia, hipotensión.
+
+b. Fármacos que aumentan drenaje
+?? Análogos de Prostaglandina F2?
+Latanoprost
+Mecanismo:
+Aumenta drenaje por vía uveoescleral + induce miosis intensa.
+Uso clínico:
+Muy eficaz en urgencias en perros.
+Eficacia limitada en gatos.
+
+?? Parasimpaticomiméticos
+Pilocarpina
+Mecanismo:
+Agonista muscarínico ? contracción esfínter del iris ? miosis ? apertura mecánica del ángulo iridocorneal.
+Hoy menos usada que prostaglandinas.
+
+Fármacos que modifican el diámetro pupilar
+
+?? Midriáticos / Cicloplejicos
+
+Atropina
+Antagonista muscarínico potente y de acción prolongada.
+Efectos:
+• Midriasis intensa
+• Cicloplejia marcada y prolongada
+Duración:
+• Midriasis: varios días
+• Cicloplejia: 24–72 h o más
+Aplicación farmacológica:
+• Disminuye dolor por espasmo del cuerpo ciliar
+• Útil en inflamación intraocular (uveítis)
+• Previene sinequias posteriores
+Precaución:
+• Puede aumentar presión intraocular
+• Contraindicada en glaucoma
+
+Tropicamida
+Antagonista muscarínico de acción corta.
+Efectos:
+• Midriasis rápida
+• Cicloplejia leve y breve
+Duración:
+• 4–8 horas (mucho más corta que atropina)
+Aplicación farmacológica:
+• Exploración diagnóstica del fondo de ojo
+• Dilatación pupilar transitoria
+Ventaja sobre atropina:
+• Recuperación más rápida
+• Menor duración de alteración visual
+Limitación:
+• No es adecuada para control de dolor en inflamación intraocular (cicloplejia insuficiente).
+
+?? Mióticos
+
+Pilocarpina (ya mencionada)
+Uso limitado actual.
+
+Inmunomoduladores tópicos
+Actúan sobre inflamación crónica mediada por linfocitos T.
+
+Ciclosporina A
+Tacrolimus
+Mecanismo:
+Inhibición de calcineurina ? ? activación linfocitaria ? ? citocinas.
+Aplicación clínica:
+Queratoconjuntivitis seca autoinmune.
+Importante:
+Uso crónico.
+Efecto progresivo.
+
+Antiinflamatorios oftálmicos
+
+?? Corticoides tópicos
+Ejemplos:
+• Dexametasona
+• Betametasona
+Mecanismo:
+Inhibición fosfolipasa A2 ? ? mediadores inflamatorios.
+Indicaciones:
+Inflamación ocular sin lesión corneal.
+
+? Contraindicación farmacológica crítica:
+Si hay defecto epitelial corneal:
+Los corticoides:
+• Inhiben cicatrización
+• Aumentan colagenasas
+• Favorecen perforación
+Regla farmacológica:
+Siempre test de fluoresceína antes de indicar corticoide.
+
+?? AINEs oftálmicos
+Menor potencia que corticoides.
+Útiles en inflamación leve o postquirúrgica.
+
+Antibióticos tópicos
+Indicados ante alteración de barrera corneal.
+Opciones:
+• Tobramicina
+• Ciprofloxacina
+• Cloranfenicol (excelente penetración)
+Principio farmacológico:
+Prevención de colonización bacteriana secundaria.
+
+Conceptos farmacológicos clave
+• La mayoría de fármacos oftálmicos son tópicos.
+• La absorción sistémica es posible.
+• El estado del epitelio corneal modifica la farmacocinética.
+• Disminuir PIO implica ? producción o ? drenaje.
+• Midriasis y miosis tienen implicancias terapéuticas opuestas.
+• Los corticoides están contraindicados ante lesión epitelial.
+• Los inmunomoduladores actúan sobre base inmunológica crónica.
+
+5. Farmacología del oído (otológica)
+
+PARTICULARIDADES FARMACOLÓGICAS DEL OÍDO EXTERNO
+El conducto auditivo externo:
+• Es húmedo y cerrado
+• Tiene epitelio queratinizado
+• Produce cerumen (mezcla lipídica + descamación)
+• Tiene pH levemente ácido
+Factores que afectan la farmacología:
+* Presencia de pus o cerumen (inactiva antibióticos)
+* Integridad del tímpano
+* Estenosis o hiperplasia crónica
+* Biofilm bacteriano
+?? La vía tópica es la regla en otitis externa.
+
+?? OBJETIVOS FARMACOLÓGICOS
+• Remover detritos y cerumen
+• Restaurar pH fisiológico
+• Controlar infección bacteriana
+• Controlar infección fúngica
+• Disminuir inflamación y dolor
+• Evitar daño ototóxico
+
+Ceruminolíticos y limpiadores
+Primera etapa obligatoria.
+El cerumen y el exudado:
+• Inactivan antibióticos
+• Disminuyen penetración
+• Favorecen biofilm
+
+?? Ácido Salicílico
+• Ceruminolítico
+• Queratorregulador
+• Leve efecto antiinflamatorio
+
+?? Ácido Láctico
+• Acidificante
+• Inhibe crecimiento bacteriano
+
+?? Propilenglicol
+• Solvente
+• Mejora penetración
+• Humectante
+
+Importancia del pH
+Muchas bacterias patógenas (ej. Pseudomonas) proliferan mejor en pH neutro-alcalino.
+La acidificación:
+? Disminuye crecimiento bacteriano
+? Mejora eficacia antibiótica
+
+Concepto crítico: ototoxicidad
+Si el tímpano está perforado, ciertos fármacos pueden alcanzar oído medio/interno.
+Pueden dañar:
+• Células ciliadas cocleares
+• Nervio vestibulococlear
+Consecuencias:
+• Sordera
+• Ataxia
+• Nistagmo
+
+Fármacos potencialmente ototóxicos
+• Aminoglucósidos (Gentamicina, Neomicina)
+• Clorhexidina concentrada
+• Alcohol
+?? Siempre evaluar integridad timpánica antes de usar.
+
+Antibióticos tópicos
+Indicados ante infección bacteriana.
+Principales agentes en otitis externa:
+• Staphylococcus pseudintermedius
+• Pseudomonas aeruginosa
+
+?? Gentamicina (Aminoglucósido)
+Mecanismo:
+Inhibe síntesis proteica (30S).
+Eficaz contra:
+Gram negativos y algunos Gram positivos.
+Precaución:
+Ototóxica si tímpano roto.
+
+?? Enrofloxacina
+Fluoroquinolona.
+Mecanismo:
+Inhibe ADN girasa.
+Ventaja:
+Activa contra Pseudomonas.
+
+?? Polimixina B
+Actúa sobre membrana bacteriana (Gram negativos).
+Frecuente en combinaciones.
+
+Antimicóticos tópicos
+Frecuentes en otitis por Malassezia pachydermatis.
+
+?? Clotrimazol
+?? Miconazol
+Azoles.
+Mecanismo:
+Inhiben síntesis de ergosterol en membrana fúngica.
+
+?? Nistatina
+Se une a ergosterol ? altera permeabilidad.
+Uso frecuente en combinaciones.
+
+Corticoides tópicos
+Componentes clave en gotas compuestas.
+Ejemplos:
+• Dexametasona
+• Betametasona
+• Mometasona
+?? Objetivos farmacológicos
+• ? Edema
+• ? Prurito
+• ? Dolor
+• ? Hiperplasia epitelial
+Ventaja:
+Mejoran penetración antibiótica al reducir inflamación.
+
+Tratamiento sistémico (cuando está indicado)
+No toda otitis externa requiere antibiótico sistémico.
+Indicaciones:
+• Otitis media
+• Celulitis peri-auricular
+• Fiebre
+• Fracaso de terapia tópica
+
+Formulaciones combinadas
+La mayoría de los preparados comerciales contienen:
+? Antibiótico
+? Antimicótico
+? Corticoide
+Estrategia lógica para otitis mixtas.
+
+6. Actividades de autoevaluación
+?? Caso 1: El Perro que Tose
+Un Caniche geronte tiene tos seca, "de ganso", fuerte, cada vez que se excita. Diagnóstico: Colapso Traqueal. No hay infección.
+1. ¿Indicaría un mucolítico o un antitusivo?
+2. Si elige Codeína o Butorfanol, ¿cuál es el mecanismo por el cual el perro deja de toser?
+?? Caso 2: El Gato que se rasca
+Un gato tiene lesiones en el cuello por rascado intenso. Diagnóstico: Dermatitis Atópica Felina.
+1. Usted sabe que los gatos resisten bien los corticoides, pero el dueño quiere algo más moderno y seguro a largo plazo. ¿Qué opción inmunomoduladora oral (líquida) o sistémica podría ofrecerle?
+2. ¿Por qué los antihistamínicos suelen fracasar en este caso?
+?? Caso 3: Ojo Rojo
+Llega un perro con el ojo cerrado, dolor y córnea azulada (edema).
+1. El dueño tiene en casa un colirio de "Dexametasona con Neomicina". Le pregunta si puede ponérselo.
+2. ¿Qué prueba diagnóstica obligatoria debe hacer usted antes de responderle? Justifique.
+?? Caso 4: Otitis Purulenta
+Un Cocker tiene el oído lleno de pus.
+1. ¿Por qué aplicar las gotas antibióticas directamente sobre el pus es un desperdicio de dinero?
+2. ¿Qué paso previo es fundamental para el éxito del tratamiento?
+
+?? 7. Resumen en 10 puntos
+• Los fármacos respiratorios incluyen antitusivos, mucolíticos y broncodilatadores.
+• Es fundamental diferenciar tos seca de tos productiva antes de tratar.
+• Los antihistamínicos tienen eficacia variable en dermatología canina.
+• Los glucocorticoides siguen siendo pilares en alergias moderadas.
+• Apoquel y Cytopoint revolucionaron el tratamiento del prurito.
+• Los otológicos combinados deben usarse con diagnóstico preciso.
+• En oftalmología, nunca usar corticoides en úlcera corneal.
+• Las infecciones mixtas requieren terapias integradas.
+• El uso racional evita resistencia y complicaciones.
+• El examen físico orienta todo el tratamiento farmacológico.
+?? 8. Errores clínicos frecuentes
+• Tratar tos productiva con antitusivos.
+• Usar corticoides tópicos en úlcera corneal.
+• Aplicar otológicos sin examinar el tímpano.
+• Confundir alergia ambiental con alimentaria.
+• No considerar efectos secundarios sistémicos.
+• Usar broncodilatadores sin causa broncoconstrictiva.
+• Combinar demasiados productos tópicos sin criterio.
+• No revisar progresos en otitis crónicas.
+• Usar antihistamínicos como monoterapia en alergias severas.
+• Saltarse la citología en lesiones dérmicas.
+
+?? 9. Checklist de examen
+• ¿Diferencio tos seca de productiva?
+• ¿Comprendo riesgo de corticoides en úlcera corneal?
+• ¿Sé elegir broncodilatador adecuado?
+• ¿Conozco diferencias entre Oclacitinib y Lokivetmab?
+• ¿Sé cuándo usar mucolíticos?
+• ¿Conozco protocolos básicos respiratorios?
+• ¿Comprendo riesgos por abuso de corticoides?
+
+?? 10. Bibliografía recomendada
+• Papich MG. Saunders Handbook of Veterinary Drugs.
+• Miller & Griffin. Muller & Kirk's Small Animal Dermatology.
+• King LG. Respiratory Pharmacology in Small Animals.
+• Gelatt KN. Veterinary Ophthalmology.
+• Riviere & Papich. Veterinary Pharmacology and Therapeutics.
+
+
+GUÍA DE ESTUDIO FARMACOLOGÍA Y TERAPÉUTICA
+Fernando Mañas 
+-2026-
+
+2
+
+
