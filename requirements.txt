@@ -2,5 +2,6 @@ streamlit
 groq
 sentence-transformers
 faiss-cpu
-pdfplumber
 numpy
+torch
+torchvision
