@@ -39,35 +39,42 @@ else:
     st.error("No se encontraron guías en la carpeta 'documentos'.")
 
 # --- BUSCADOR Y CONSULTA ---
-pregunta = st.text_input("Escribe tu duda técnica (ej: glucocorticoides):")
+# --- BUSCADOR Y CONSULTA MEJORADO ---
+pregunta = st.text_input("Escribe tu duda técnica:")
 
 if pregunta and material:
-    with st.spinner("Buscando en las guías..."):
-        # Buscador de palabras clave ultra-rápido
-        palabras_clave = pregunta.lower().split()
+    with st.spinner("Buscando en todas las guías..."):
+        # Buscamos coincidencias de forma más amplia
+        palabras_pregunta = pregunta.lower().replace("?", "").split()
         contexto_relevante = ""
-        encontrados = 0
         
+        # Ordenamos fragmentos por relevancia (cuántas palabras coinciden)
+        puntuados = []
         for f in material:
-            if any(palabra in f["texto"].lower() for palabra in palabras_clave):
-                contexto_relevante += f"\n--- De {f['fuente']} ---\n{f['texto']}\n"
-                encontrados += 1
-            if encontrados > 8: break # Límite para no saturar la conexión
+            coincidencias = sum(1 for p in palabras_pregunta if p in f["texto"].lower())
+            if coincidencias > 0:
+                puntuados.append((coincidencias, f))
+        
+        puntuados.sort(key=lambda x: x[0], reverse=True)
+        
+        # Tomamos los 10 mejores fragmentos de cualquier guía
+        for _, f in puntuados[:10]:
+            contexto_relevante += f"\n--- De {f['fuente']} ---\n{f['texto']}\n"
 
         if not contexto_relevante:
-            # Si no hay coincidencia exacta, mandamos una muestra general
+            # Si no hay nada, mandamos un resumen de las primeras guías
             contexto_relevante = "\n".join([f["texto"] for f in material[:5]])
 
         try:
             res = client.chat.completions.create(
                 model="llama-3.1-8b-instant",
                 messages=[
-                    {"role": "system", "content": "Eres Profesor de Farmacología. Responde usando exclusivamente el material de cátedra provisto. Sé técnico y preciso."},
-                    {"role": "user", "content": f"MATERIAL DE CÁTEDRA:\n{contexto_relevante}\n\nPREGUNTA: {pregunta}"}
+                    {"role": "system", "content": "Eres Profesor de Farmacología Veterinaria. Tu respuesta debe ser técnica, basada en las guías y NO dar respuestas genéricas como 'consulte a su veterinario'."},
+                    {"role": "user", "content": f"MATERIAL DISPONIBLE:\n{contexto_relevante}\n\nPREGUNTA DEL ALUMNO: {pregunta}"}
                 ],
                 temperature=0.0
             )
             st.subheader("📌 Respuesta de la Cátedra:")
             st.write(res.choices[0].message.content)
-        except Exception as e:
-            st.error("La conexión con el servidor de IA falló. Por favor, intenta de nuevo.")
+        except:
+            st.error("Error de conexión. Intenta de nuevo.")
