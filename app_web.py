@@ -72,7 +72,7 @@ if pregunta and material:
                     {"role": "system", "content": "Eres Profesor de Farmacología Veterinaria. Responde usando SOLO el material provisto. Si la información no está en el material, indícalo."},
                     {"role": "user", "content": f"MATERIAL DE CÁTEDRA:\n{contexto_relevante}\n\nPREGUNTA DEL ALUMNO: {pregunta}"}
                 ],
-                temperature=0.0
+                temperature=0.1
             )
             
             # --- MOSTRAR RESPUESTA ---
