@@ -67,7 +67,7 @@ if pregunta and material:
 
         try:
             res = client.chat.completions.create(
-                model="model="llama-3.3-70b-versatile",
+                model="llama-3.3-70b-versatile",
                 messages=[
                     {"role": "system", "content": "Eres Profesor de Farmacología Veterinaria. Responde usando SOLO el material provisto. Si la información no está en el material, indícalo."},
                     {"role": "user", "content": f"MATERIAL DE CÁTEDRA:\n{contexto_relevante}\n\nPREGUNTA DEL ALUMNO: {pregunta}"}
