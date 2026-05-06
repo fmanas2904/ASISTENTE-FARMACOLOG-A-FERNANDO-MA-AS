@@ -21,9 +21,6 @@ def cargar_datos():
     chunks = []
     if os.path.exists("documentos"):
         archivos = [f for f in os.listdir("documentos") if f.endswith(".pdf")]
-        if not archivos:
-            return None, None
-            
         for archivo in archivos:
             try:
                 with pdfplumber.open(f"documentos/{archivo}") as pdf:
@@ -33,25 +30,21 @@ def cargar_datos():
                         if page_text:
                             texto_completo += page_text + "\n"
                 
-                if len(texto_completo.strip()) < 50:
-                    continue
+                if len(texto_completo.strip()) < 50: continue
 
+                # Fragmentos de 1000 caracteres para no perder contexto
                 partes = texto_completo.split("\n")
                 buffer = ""
                 for p in partes:
-                    if len(buffer) < 1500:
+                    if len(buffer) < 1000:
                         buffer += " " + p
                     else:
                         chunks.append({"texto": buffer.strip(), "doc": archivo})
                         buffer = p
-                if buffer:
-                    chunks.append({"texto": buffer.strip(), "doc": archivo})
-            except Exception:
-                continue
+                if buffer: chunks.append({"texto": buffer.strip(), "doc": archivo})
+            except Exception: continue
         
-        if not chunks:
-            return None, None
-
+        if not chunks: return None, None
         textos = [c["texto"] for c in chunks]
         embeddings = modelo.encode(textos, normalize_embeddings=True)
         index = faiss.IndexFlatIP(embeddings.shape[1])
@@ -62,50 +55,45 @@ def cargar_datos():
 index, chunks = cargar_datos()
 
 # --- INTERFAZ DE USUARIO ---
-# Una sola vez el input para evitar el error de DuplicateElementId
 pregunta = st.text_input("Escribe tu duda técnica aquí:")
 
 if pregunta and index:
-    with st.spinner("Analizando guías de cátedra..."):
+    with st.spinner("Buscando en las guías..."):
         q = modelo.encode([pregunta], normalize_embeddings=True)
-        scores, idx = index.search(np.array(q).astype("float32"), k=35)
+        # k=15 es el punto justo para no saturar la API
+        scores, idx = index.search(np.array(q).astype("float32"), k=15)
         
         contexto_lista = []
         for i, score in zip(idx[0], scores[0]):
+            # Filtro muy sensible para encontrar términos específicos
             if i != -1 and score > 0.05:
                 contexto_lista.append(f"ARCHIVO: {chunks[i]['doc']}\nCONTENIDO: {chunks[i]['texto']}")
         
         if contexto_lista:
             contexto_unido = "\n\n---\n\n".join(contexto_lista)
             
-            prompt_blindado = f"""
-            ESTRICTAMENTE PROHIBIDO USAR INFORMACIÓN EXTERNA.
-            RESPONDE ÚNICAMENTE USANDO EL CONTEXTO ABAJO.
-            
-            SI NO ESTÁ EN EL CONTEXTO:
-            Responde: "Lo siento, la información no está en las guías cargadas."
-            
+            prompt_estricto = f"""
+            Eres profesor de Farmacología Veterinaria. RESPONDE SOLO CON EL CONTEXTO.
             CONTEXTO:
             {contexto_unido}
-            
-            PREGUNTA:
-            {pregunta}
+            PREGUNTA: {pregunta}
             """
 
-            res = client.chat.completions.create(
-                model="llama-3.1-8b-instant",
-                messages=[
-                    {"role": "system", "content": "Eres un extractor de texto académico literal."},
-                    {"role": "user", "content": prompt_blindado}
-                ],
-                temperature=0.0  # Mínima creatividad, máxima precisión
-            )
-            
-            st.subheader("📌 Respuesta de la Cátedra:")
-            st.write(res.choices[0].message.content)
+            try:
+                res = client.chat.completions.create(
+                    model="llama-3.1-8b-instant",
+                    messages=[
+                        {"role": "system", "content": "Si la info no está en el contexto, di que no está en las guías."},
+                        {"role": "user", "content": prompt_estricto}
+                    ],
+                    temperature=0.0
+                )
+                st.subheader("📌 Respuesta:")
+                st.write(res.choices[0].message.content)
+            except Exception as e:
+                st.error("Error de conexión con el motor de IA. Intenta de nuevo en unos segundos.")
             
             with st.expander("🔍 Ver fragmentos analizados"):
-                for f in contexto_lista:
-                    st.markdown(f"**{f}**")
+                for f in contexto_lista: st.markdown(f"**{f}**")
         else:
-            st.warning("⚠️ No se encontró referencia a ese tema en los PDFs.")
+            st.warning("No se encontró referencia a ese tema en los PDFs.")
