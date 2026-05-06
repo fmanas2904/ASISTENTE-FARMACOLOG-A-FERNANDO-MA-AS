@@ -21,22 +21,48 @@ modelo = SentenceTransformer("all-MiniLM-L6-v2")
 def cargar_datos():
     chunks = []
     if os.path.exists("documentos"):
-        for archivo in os.listdir("documentos"):
-            if archivo.endswith(".pdf"):
+        archivos = [f for f in os.listdir("documentos") if f.endswith(".pdf")]
+        if not archivos:
+            st.error("No se encontraron archivos PDF en la carpeta 'documentos'.")
+            return None, None
+            
+        for archivo in archivos:
+            try:
                 with pdfplumber.open(f"documentos/{archivo}") as pdf:
-                    texto = "".join([p.extract_text() for p in pdf.pages if p.extract_text()])
+                    texto_completo = ""
+                    for page in pdf.pages:
+                        page_text = page.extract_text()
+                        if page_text:
+                            texto_completo += page_text + "\n"
                 
-                # Corte de texto con solapamiento
-                for i in range(0, len(texto), 600):
-                    chunks.append({"texto": texto[i:i+800], "doc": archivo})
+                # Si el PDF está vacío o es una imagen/escaneo, esto fallará
+                if len(texto_completo.strip()) < 50:
+                    st.warning(f"El archivo {archivo} parece no tener texto legible (¿es un escaneo?).")
+                    continue
+
+                # Corte de texto con solapamiento (Overlap)
+                partes = texto_completo.split("\n")
+                buffer = ""
+                for p in partes:
+                    if len(buffer) < 700:
+                        buffer += " " + p
+                    else:
+                        chunks.append({"texto": buffer.strip(), "doc": archivo})
+                        buffer = p
+                if buffer:
+                    chunks.append({"texto": buffer.strip(), "doc": archivo})
+            except Exception as e:
+                st.error(f"Error al leer {archivo}: {e}")
         
+        if not chunks:
+            return None, None
+
         textos = [c["texto"] for c in chunks]
         embeddings = modelo.encode(textos, normalize_embeddings=True)
         index = faiss.IndexFlatIP(embeddings.shape[1])
         index.add(np.array(embeddings).astype("float32"))
         return index, chunks
     return None, None
-
 index, chunks = cargar_datos()
 
 # --- INTERFAZ DE USUARIO ---
