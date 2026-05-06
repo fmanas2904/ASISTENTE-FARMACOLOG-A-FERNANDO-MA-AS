@@ -78,16 +78,30 @@ if pregunta:
             
             if contexto_lista:
                 contexto_unido = "\n\n---\n\n".join(contexto_lista)
-                prompt = f"Responde la duda del alumno usando solo este contexto:\n{contexto_unido}\n\nPregunta: {pregunta}"
+                
+                # Este prompt es mucho más agresivo para forzar el uso de tus guías
+                prompt = f"""
+                Eres el Profesor Titular de Farmacología Veterinaria. 
+                Tu misión es responder ÚNICAMENTE basándote en el CONTEXTO de las guías de la cátedra que se te proporciona abajo.
+                
+                REGLAS CRÍTICAS:
+                1. NO des consejos generales de "consulte a su veterinario".
+                2. Si el contexto menciona un "Caso Clínico", "Perla" o "Error Frecuente", úsalo para responder.
+                3. Usa un lenguaje académico y preciso.
+                4. Si la información exacta NO está en el contexto, di: "Ese detalle específico no figura en las guías de la cátedra".
+
+                CONTEXTO DE LAS GUÍAS:
+                {contexto_unido}
+                
+                PREGUNTA DEL ALUMNO:
+                {pregunta}
+                """
                 
                 res = client.chat.completions.create(
-                    model="llama-3.1-8b-instant",
-                    messages=[{"role": "user", "content": prompt}],
-                    temperature=0.0
+                    model="llama-3.1-8b-instant", # Podés probar con "llama-3.3-70b-specdec" si querés más potencia
+                    messages=[
+                        {"role": "system", "content": "Sos un extractor de datos técnicos para estudiantes de veterinaria. No des respuestas genéricas."},
+                        {"role": "user", "content": prompt}
+                    ],
+                    temperature=0.0 # Mantiene la respuesta pegada al texto
                 )
-                st.subheader("📌 Respuesta:")
-                st.write(res.choices[0].message.content)
-            else:
-                st.warning("No encontré información sobre eso en las guías.")
-    else:
-        st.error(mensaje_carga)
