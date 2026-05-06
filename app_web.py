@@ -63,47 +63,57 @@ index, chunks = cargar_datos()
 
 # --- INTERFAZ DE USUARIO ---
 pregunta = st.text_input("¿Qué quieres consultar?")
+# --- INTERFAZ DE USUARIO ---
+pregunta = st.text_input("¿Qué quieres consultar?")
 
 if pregunta and index:
-    with st.spinner("Buscando en los apuntes de la cátedra..."):
+    with st.spinner("Analizando guías de cátedra..."):
         q = modelo.encode([pregunta], normalize_embeddings=True)
         scores, idx = index.search(np.array(q).astype("float32"), k=12)
         
-        contexto = ""
+        contexto_lista = []
         for i, score in zip(idx[0], scores[0]):
-            # Bajamos el filtro a 0.20 para que sea más sensible
-            if i != -1 and score > 0.20:
-                contexto += f"DOC: {chunks[i]['doc']}\nTEXTO: {chunks[i]['texto']}\n\n"
+            # Umbral de seguridad: si el fragmento no se parece a la pregunta, se descarta
+            if i != -1 and score > 0.18:
+                contexto_lista.append(f"ARCHIVO: {chunks[i]['doc']}\nCONTENIDO: {chunks[i]['texto']}")
         
-        if contexto:
-            prompt_estricto = f"""
-            Actúa como un profesor de farmacología veterinaria. 
-            Responde ÚNICAMENTE usando el CONTEXTO proporcionado.
+        if contexto_lista:
+            contexto_unido = "\n\n---\n\n".join(contexto_lista)
             
-            REGLAS:
-            1. Si la respuesta no está en el CONTEXTO, di: "No encontré información en las guías de la cátedra."
-            2. No inventes ni uses info de internet.
-            3. Cita el nombre del archivo (DOC) al final de tu respuesta.
+            # PROMPT DE BLOQUEO TOTAL
+            prompt_blindado = f"""
+            ESTRICTAMENTE PROHIBIDO USAR INFORMACIÓN EXTERNA.
+            SOLO PUEDES RESPONDER USANDO EL 'CONTEXTO DE LAS GUÍAS' PROPORCIONADO ABAJO.
+            
+            SI LA RESPUESTA NO ESTÁ EXPLÍCITA EN EL CONTEXTO:
+            Responde exactamente: "Lo siento, la información solicitada no se encuentra en las guías de estudio cargadas actualmente."
+            
+            REGLAS DE ORO:
+            1. No menciones nada que no esté escrito en los fragmentos de abajo.
+            2. No corrijas ni añadidas datos de internet aunque creas que el contexto está incompleto.
+            3. Cita siempre el nombre del ARCHIVO al finalizar la respuesta.
 
-            CONTEXTO:
-            {contexto}
+            CONTEXTO DE LAS GUÍAS:
+            {contexto_unido}
             
-            PREGUNTA:
+            PREGUNTA DEL ALUMNO:
             {pregunta}
             """
 
             res = client.chat.completions.create(
                 model="llama-3.1-8b-instant",
                 messages=[
-                    {"role": "system", "content": "Eres un asistente académico estricto."},
-                    {"role": "user", "content": prompt_estricto}
+                    {"role": "system", "content": "Eres un extractor de texto literal. No tienes conocimientos generales, solo acceso a los documentos proporcionados."},
+                    {"role": "user", "content": prompt_blindado}
                 ],
-                temperature=0.1
+                temperature=0.0  # MÁXIMA PRECISIÓN, CERO INVENCIÓN
             )
-            st.subheader("📌 Respuesta:")
+            
+            st.subheader("📌 Respuesta de la Cátedra:")
             st.write(res.choices[0].message.content)
             
-            with st.expander("🔍 Ver fragmentos analizados"):
-                st.text(contexto)
+            with st.expander("🔍 Ver párrafos originales analizados"):
+                for fragmento in contexto_lista:
+                    st.markdown(f"**{fragmento}**")
         else:
-            st.warning("No encontré información relevante en los apuntes cargados.")
+            st.warning("⚠️ No se encontró ninguna referencia a ese tema en los PDFs de la carpeta 'documentos'.")
