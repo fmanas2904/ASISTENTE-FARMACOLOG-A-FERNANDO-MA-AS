@@ -62,9 +62,8 @@ def cargar_datos():
 index, chunks = cargar_datos()
 
 # --- INTERFAZ DE USUARIO ---
-pregunta = st.text_input("¿Qué quieres consultar?")
-# --- INTERFAZ DE USUARIO ---
-pregunta = st.text_input("¿Qué quieres consultar?")
+# Una sola vez el input para evitar el error de DuplicateElementId
+pregunta = st.text_input("Escribe tu duda técnica aquí:")
 
 if pregunta and index:
     with st.spinner("Analizando guías de cátedra..."):
@@ -73,47 +72,40 @@ if pregunta and index:
         
         contexto_lista = []
         for i, score in zip(idx[0], scores[0]):
-            # Umbral de seguridad: si el fragmento no se parece a la pregunta, se descarta
             if i != -1 and score > 0.18:
                 contexto_lista.append(f"ARCHIVO: {chunks[i]['doc']}\nCONTENIDO: {chunks[i]['texto']}")
         
         if contexto_lista:
             contexto_unido = "\n\n---\n\n".join(contexto_lista)
             
-            # PROMPT DE BLOQUEO TOTAL
             prompt_blindado = f"""
             ESTRICTAMENTE PROHIBIDO USAR INFORMACIÓN EXTERNA.
-            SOLO PUEDES RESPONDER USANDO EL 'CONTEXTO DE LAS GUÍAS' PROPORCIONADO ABAJO.
+            RESPONDE ÚNICAMENTE USANDO EL CONTEXTO ABAJO.
             
-            SI LA RESPUESTA NO ESTÁ EXPLÍCITA EN EL CONTEXTO:
-            Responde exactamente: "Lo siento, la información solicitada no se encuentra en las guías de estudio cargadas actualmente."
+            SI NO ESTÁ EN EL CONTEXTO:
+            Responde: "Lo siento, la información no está en las guías cargadas."
             
-            REGLAS DE ORO:
-            1. No menciones nada que no esté escrito en los fragmentos de abajo.
-            2. No corrijas ni añadidas datos de internet aunque creas que el contexto está incompleto.
-            3. Cita siempre el nombre del ARCHIVO al finalizar la respuesta.
-
-            CONTEXTO DE LAS GUÍAS:
+            CONTEXTO:
             {contexto_unido}
             
-            PREGUNTA DEL ALUMNO:
+            PREGUNTA:
             {pregunta}
             """
 
             res = client.chat.completions.create(
                 model="llama-3.1-8b-instant",
                 messages=[
-                    {"role": "system", "content": "Eres un extractor de texto literal. No tienes conocimientos generales, solo acceso a los documentos proporcionados."},
+                    {"role": "system", "content": "Eres un extractor de texto académico literal."},
                     {"role": "user", "content": prompt_blindado}
                 ],
-                temperature=0.0  # MÁXIMA PRECISIÓN, CERO INVENCIÓN
+                temperature=0.0  # Mínima creatividad, máxima precisión
             )
             
             st.subheader("📌 Respuesta de la Cátedra:")
             st.write(res.choices[0].message.content)
             
-            with st.expander("🔍 Ver párrafos originales analizados"):
-                for fragmento in contexto_lista:
-                    st.markdown(f"**{fragmento}**")
+            with st.expander("🔍 Ver fragmentos analizados"):
+                for f in contexto_lista:
+                    st.markdown(f"**{f}**")
         else:
-            st.warning("⚠️ No se encontró ninguna referencia a ese tema en los PDFs de la carpeta 'documentos'.")
+            st.warning("⚠️ No se encontró referencia a ese tema en los PDFs.")
