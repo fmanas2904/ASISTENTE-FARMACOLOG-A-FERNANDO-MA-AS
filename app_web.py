@@ -7,12 +7,11 @@ from sentence_transformers import SentenceTransformer
 import faiss
 
 # --- CONFIGURACIÓN DE PÁGINA ---
-st.set_page_config(page_title="Asistente Farmaco UNRC", page_icon="💊")
+st.set_page_config(page_title="Asistente Farmaco", page_icon="💊")
 st.title("🧠 Asistente de Farmacología")
 st.info("Consulta las guías de la cátedra mediante IA.")
 
 # --- LLAVE Y MODELOS ---
-# Nota: En la nube usaremos "Secrets" para no dejar la llave a la vista
 api_key = st.secrets["GROQ_API_KEY"] 
 client = Groq(api_key=api_key)
 modelo = SentenceTransformer("all-MiniLM-L6-v2")
@@ -23,7 +22,6 @@ def cargar_datos():
     if os.path.exists("documentos"):
         archivos = [f for f in os.listdir("documentos") if f.endswith(".pdf")]
         if not archivos:
-            st.error("No se encontraron archivos PDF en la carpeta 'documentos'.")
             return None, None
             
         for archivo in archivos:
@@ -35,12 +33,9 @@ def cargar_datos():
                         if page_text:
                             texto_completo += page_text + "\n"
                 
-                # Si el PDF está vacío o es una imagen/escaneo, esto fallará
                 if len(texto_completo.strip()) < 50:
-                    st.warning(f"El archivo {archivo} parece no tener texto legible (¿es un escaneo?).")
                     continue
 
-                # Corte de texto con solapamiento (Overlap)
                 partes = texto_completo.split("\n")
                 buffer = ""
                 for p in partes:
@@ -51,8 +46,8 @@ def cargar_datos():
                         buffer = p
                 if buffer:
                     chunks.append({"texto": buffer.strip(), "doc": archivo})
-            except Exception as e:
-                st.error(f"Error al leer {archivo}: {e}")
+            except Exception:
+                continue
         
         if not chunks:
             return None, None
@@ -63,54 +58,52 @@ def cargar_datos():
         index.add(np.array(embeddings).astype("float32"))
         return index, chunks
     return None, None
+
 index, chunks = cargar_datos()
 
 # --- INTERFAZ DE USUARIO ---
 pregunta = st.text_input("¿Qué quieres consultar?")
 
 if pregunta and index:
-    with st.spinner("Buscando en los apuntes..."):
+    with st.spinner("Buscando en los apuntes de la cátedra..."):
         q = modelo.encode([pregunta], normalize_embeddings=True)
-        scores, idx = index.search(np.array(q).astype("float32"), k=10)
+        scores, idx = index.search(np.array(q).astype("float32"), k=12)
         
         contexto = ""
         for i, score in zip(idx[0], scores[0]):
-            if i != -1 and score > 0.25:
+            # Bajamos el filtro a 0.20 para que sea más sensible
+            if i != -1 and score > 0.20:
                 contexto += f"DOC: {chunks[i]['doc']}\nTEXTO: {chunks[i]['texto']}\n\n"
         
-   if contexto:
-            # PROMPT MEJORADO: Obliga a la IA a usar solo tus documentos
+        if contexto:
             prompt_estricto = f"""
             Actúa como un profesor de farmacología veterinaria. 
-            Tu tarea es responder a la pregunta utilizando ÚNICAMENTE la información del CONTEXTO proporcionado abajo.
+            Responde ÚNICAMENTE usando el CONTEXTO proporcionado.
             
-            REGLAS CRÍTICAS:
-            1. Si la respuesta no está en el CONTEXTO, responde exactamente: "Lo siento, no encontré información específica sobre ese tema en los apuntes de la cátedra."
-            2. No utilices tus conocimientos previos de internet.
-            3. Si mencionas un fármaco, cita el nombre del documento (DOC) de donde salió la información.
-            4. Mantén un tono académico y preciso.
+            REGLAS:
+            1. Si la respuesta no está en el CONTEXTO, di: "No encontré información en las guías de la cátedra."
+            2. No inventes ni uses info de internet.
+            3. Cita el nombre del archivo (DOC) al final de tu respuesta.
 
-            CONTEXTO DE LAS GUÍAS:
+            CONTEXTO:
             {contexto}
-
-            PREGUNTA DEL ALUMNO:
+            
+            PREGUNTA:
             {pregunta}
             """
 
             res = client.chat.completions.create(
                 model="llama-3.1-8b-instant",
                 messages=[
-                    {"role": "system", "content": "Eres un asistente de cátedra que solo responde basándose en los documentos cargados."},
+                    {"role": "system", "content": "Eres un asistente académico estricto."},
                     {"role": "user", "content": prompt_estricto}
                 ],
-                temperature=0.1  # Baja temperatura = menos inventiva, más precisión
+                temperature=0.1
             )
-            
-            st.subheader("📌 Respuesta del Asistente:")
+            st.subheader("📌 Respuesta:")
             st.write(res.choices[0].message.content)
             
-            # Esto ayuda a verificar qué partes de la guía leyó
-            with st.expander("Ver fragmentos encontrados en las guías"):
+            with st.expander("🔍 Ver fragmentos analizados"):
                 st.text(contexto)
         else:
-            st.warning("No encontré información relevante en los apuntes cargados para esta consulta.")
+            st.warning("No encontré información relevante en los apuntes cargados.")
