@@ -1,74 +1,84 @@
 import streamlit as st
 import os
+import numpy as np
 from groq import Groq
+from sentence_transformers import SentenceTransformer
+import faiss
 
 # --- CONFIGURACIÓN ---
 st.set_page_config(page_title="Asistente Farmaco", page_icon="💊")
 st.title("🧠 Asistente de Farmacología")
 
-# --- CONEXIÓN ---
-try:
+@st.cache_resource
+def inicializar():
     client = Groq(api_key=st.secrets["GROQ_API_KEY"])
+    # Modelo pequeño y rápido
+    modelo = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
+    return client, modelo
+
+try:
+    client, modelo = inicializar()
 except:
-    st.error("Error: Revisa la Key en los Secrets de Streamlit.")
+    st.error("Revisa la API Key en los Secrets.")
     st.stop()
 
-# --- CARGA DE TEXTO DIRECTA ---
-def leer_todo():
-    texto_total = ""
+@st.cache_resource
+def cargar_datos():
+    chunks = []
     directorio = "documentos"
-    if not os.path.exists(directorio):
-        return None
+    if not os.path.exists(directorio): return None, "No existe carpeta documentos."
     
     archivos = [f for f in os.listdir(directorio) if f.lower().endswith(".txt")]
     for archivo in archivos:
-        ruta = os.path.join(directorio, archivo)
-        # Intentamos leer ignoreando errores de caracteres raros
-        for encoding in ["utf-8", "latin-1", "cp1252"]:
+        contenido = ""
+        for enc en ["utf-8", "latin-1", "cp1252"]:
             try:
-                with open(ruta, "r", encoding=encoding, errors="ignore") as f:
+                with open(os.path.join(directorio, archivo), "r", encoding=enc, errors="ignore") as f:
                     contenido = f.read()
-                    if len(contenido.strip()) > 10:
-                        texto_total += f"\n--- GUIA: {archivo} ---\n{contenido}\n"
-                        break
-            except:
-                continue
-    return texto_total
+                if len(contenido.strip()) > 10: break
+            except: continue
+        
+        if contenido:
+            # Cortamos en pedazos de 800 letras para no pasarnos de tokens
+            for i in range(0, len(contenido), 800):
+                chunks.append({"texto": contenido[i:i+1000], "doc": archivo})
+    
+    if not chunks: return None, "Archivos vacíos."
+    
+    textos = [c["texto"] for c in chunks]
+    embeddings = modelo.encode(textos, normalize_embeddings=True)
+    index = faiss.IndexFlatIP(embeddings.shape[1])
+    index.add(np.array(embeddings).astype("float32"))
+    return (index, chunks), f"✅ ¡Listo! {len(archivos)} guías operativas."
 
-with st.spinner("Cargando guías..."):
-    contexto_completo = leer_todo()
-
-if not contexto_completo:
-    st.error("No se pudo leer ninguna guía. Verifica que los archivos .txt tengan texto adentro.")
-else:
-    st.success("✅ Guías cargadas y listas para la clase.")
+resultado, mensaje = cargar_datos()
+st.sidebar.info(mensaje)
 
 # --- CONSULTA ---
 pregunta = st.text_input("Escribe tu duda técnica:")
 
-if pregunta and contexto_completo:
-    with st.spinner("El profesor está pensando..."):
-        # Le enviamos todo el bloque de texto directamente a Llama 3.3
-        # Este modelo tiene memoria suficiente para leer todas tus guías de una vez
-        prompt = f"""
-        Eres el Profesor Titular de Farmacología. 
-        Usa el siguiente material de la cátedra para responder la duda del alumno.
-        Si la respuesta no está en el material, di que no figura en las guías.
-
-        MATERIAL DE LA CÁTEDRA:
-        {contexto_completo}
-
-        PREGUNTA: {pregunta}
-        """
+if pregunta and resultado:
+    index, chunks = resultado
+    with st.spinner("Buscando en las guías..."):
+        # Buscamos solo los 5 fragmentos más relevantes
+        q = modelo.encode([pregunta], normalize_embeddings=True)
+        scores, idx = index.search(np.array(q).astype("float32"), k=5)
         
+        contexto = ""
+        for i in idx[0]:
+            if i != -1: contexto += f"\n{chunks[i]['texto']}\n"
+        
+        # Usamos el modelo 8b que es más rápido y tiene límites más amplios
         try:
             res = client.chat.completions.create(
-                model="llama-3.3-70b-versatile",
-                messages=[{"role": "system", "content": "Responde con rigor científico basado en el texto."},
-                          {"role": "user", "content": prompt}],
-                temperature=0.1
+                model="llama-3.1-8b-instant", 
+                messages=[
+                    {"role": "system", "content": "Eres Profesor de Farmacología Veterinaria. Responde breve y técnico usando el texto provisto."},
+                    {"role": "user", "content": f"Guías:\n{contexto}\n\nPregunta: {pregunta}"}
+                ],
+                temperature=0.0
             )
             st.subheader("📌 Respuesta:")
             st.write(res.choices[0].message.content)
         except Exception as e:
-            st.error(f"Error al conectar con la IA: {e}")
+            st.error(f"Error de conexión. Intenta de nuevo en unos segundos.")
