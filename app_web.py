@@ -8,103 +8,86 @@ import faiss
 # --- CONFIGURACIÓN DE PÁGINA ---
 st.set_page_config(page_title="Asistente Farmaco", page_icon="💊")
 st.title("🧠 Asistente de Farmacología")
-st.info("Consulta las guías de la cátedra mediante archivos de texto.")
 
 # --- LLAVE Y MODELOS ---
-api_key = st.secrets["GROQ_API_KEY"] 
-client = Groq(api_key=api_key)
+try:
+    api_key = st.secrets["GROQ_API_KEY"] 
+    client = Groq(api_key=api_key)
+except:
+    st.error("⚠️ Error: No se encontró la clave GROQ_API_KEY en los Secrets.")
+    st.stop()
+
 modelo = SentenceTransformer("all-MiniLM-L6-v2")
 
 @st.cache_resource
 def cargar_datos():
     chunks = []
-    # Buscamos en la carpeta 'documentos'
-    if os.path.exists("documentos"):
-        archivos = [f for f in os.listdir("documentos") if f.endswith(".txt")]
+    directorio = "documentos"
+    if os.path.exists(directorio):
+        # Aceptamos .txt y .TXT
+        archivos = [f for f in os.listdir(directorio) if f.lower().endswith(".txt")]
+        
         if not archivos:
-            return None, None
+            return None, "No se encontraron archivos .txt en la carpeta documentos."
             
         for archivo in archivos:
             try:
-                # Leemos el archivo TXT directamente
-                with open(f"documentos/{archivo}", "r", encoding="utf-8") as f:
+                with open(os.path.join(directorio, archivo), "r", encoding="utf-8") as f:
                     texto_completo = f.read()
                 
-                if len(texto_completo.strip()) < 10: continue
-
-                # Dividimos en fragmentos grandes para no perder la explicación
+                # Dividir en fragmentos
                 lineas = texto_completo.split("\n")
                 buffer = ""
                 for linea in lineas:
-                    if len(buffer) < 1500:
+                    if len(buffer) < 1200:
                         buffer += " " + linea
                     else:
                         chunks.append({"texto": buffer.strip(), "doc": archivo})
                         buffer = linea
                 if buffer:
                     chunks.append({"texto": buffer.strip(), "doc": archivo})
-            except Exception:
+            except Exception as e:
                 continue
         
-        if not chunks: return None, None
+        if not chunks: return None, "Los archivos están vacíos o no se pudieron leer."
 
         textos = [c["texto"] for c in chunks]
         embeddings = modelo.encode(textos, normalize_embeddings=True)
         index = faiss.IndexFlatIP(embeddings.shape[1])
         index.add(np.array(embeddings).astype("float32"))
-        return index, chunks
-    return None, None
+        return (index, chunks), f"✅ ¡Listo! Se cargaron {len(archivos)} guías correctamente."
+    return None, "No se encontró la carpeta 'documentos'."
 
-index, chunks = cargar_datos()
+resultado, mensaje_carga = cargar_datos()
+st.sidebar.write(mensaje_carga)
 
-# --- INTERFAZ DE USUARIO ---
-pregunta = st.text_input("Escribe tu duda técnica (ej: Ranitidina):")
+# --- INTERFAZ ---
+pregunta = st.text_input("Escribe tu duda técnica (ej: amoxicilina):")
 
-if pregunta and index:
-    with st.spinner("Buscando en las guías de texto..."):
-        q = modelo.encode([pregunta], normalize_embeddings=True)
-        # Traemos 20 fragmentos para asegurar que encuentre el tema
-        scores, idx = index.search(np.array(q).astype("float32"), k=20)
-        
-        contexto_lista = []
-        for i, score in zip(idx[0], scores[0]):
-            # Filtro de sensibilidad extrema para términos técnicos
-            if i != -1 and score > 0.05:
-                contexto_lista.append(f"ARCHIVO: {chunks[i]['doc']}\nCONTENIDO: {chunks[i]['texto']}")
-        
-        if contexto_lista:
-            contexto_unido = "\n\n---\n\n".join(contexto_lista)
+if pregunta:
+    if resultado:
+        index, chunks = resultado
+        with st.spinner("Buscando respuesta..."):
+            q = modelo.encode([pregunta], normalize_embeddings=True)
+            scores, idx = index.search(np.array(q).astype("float32"), k=15)
             
-            prompt_estricto = f"""
-            Eres el Asistente de Cátedra de Farmacología Veterinaria. 
-            Responde la duda del alumno usando EXCLUSIVAMENTE el CONTEXTO proporcionado.
+            contexto_lista = []
+            for i, score in zip(idx[0], scores[0]):
+                if i != -1 and score > 0.02:
+                    contexto_lista.append(f"ARCHIVO: {chunks[i]['doc']}\n{chunks[i]['texto']}")
             
-            REGLAS:
-            1. Si la respuesta no está en el CONTEXTO, di: "No encontré ese detalle en las guías".
-            2. Cita siempre el nombre del ARCHIVO al final.
-            3. Mantén la precisión técnica (ej. si es bactericida o bacteriostático).
-
-            CONTEXTO:
-            {contexto_unido}
-            
-            PREGUNTA: {pregunta}
-            """
-
-            try:
+            if contexto_lista:
+                contexto_unido = "\n\n---\n\n".join(contexto_lista)
+                prompt = f"Responde la duda del alumno usando solo este contexto:\n{contexto_unido}\n\nPregunta: {pregunta}"
+                
                 res = client.chat.completions.create(
                     model="llama-3.1-8b-instant",
-                    messages=[
-                        {"role": "system", "content": "Eres un extractor de información literal de guías académicas."},
-                        {"role": "user", "content": prompt_estricto}
-                    ],
+                    messages=[{"role": "user", "content": prompt}],
                     temperature=0.0
                 )
-                st.subheader("📌 Respuesta de la Cátedra:")
+                st.subheader("📌 Respuesta:")
                 st.write(res.choices[0].message.content)
-            except Exception:
-                st.error("Error temporal de conexión. Intenta de nuevo en unos segundos.")
-            
-            with st.expander("🔍 Ver texto analizado"):
-                for f in contexto_lista: st.markdown(f"**{f}**")
-        else:
-            st.warning("⚠️ No encontré ninguna referencia a ese tema en los archivos .txt")
+            else:
+                st.warning("No encontré información sobre eso en las guías.")
+    else:
+        st.error(mensaje_carga)
