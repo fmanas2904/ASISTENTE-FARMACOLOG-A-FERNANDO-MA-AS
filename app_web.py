@@ -58,7 +58,7 @@ if pregunta and material:
         puntuados.sort(key=lambda x: x[0], reverse=True)
         
         # Tomamos los 20 mejores fragmentos de cualquier guía
-        for _, f in puntuados[:20]:
+        for _, f in puntuados[:30]:
             contexto_relevante += f"\n--- De {f['fuente']} ---\n{f['texto']}\n"
 
         if not contexto_relevante:
