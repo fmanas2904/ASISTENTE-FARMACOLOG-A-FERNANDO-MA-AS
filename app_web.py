@@ -57,8 +57,8 @@ if pregunta and material:
         
         puntuados.sort(key=lambda x: x[0], reverse=True)
         
-        # Tomamos los 10 mejores fragmentos de cualquier guía
-        for _, f in puntuados[:10]:
+        # Tomamos los 20 mejores fragmentos de cualquier guía
+        for _, f in puntuados[:20]:
             contexto_relevante += f"\n--- De {f['fuente']} ---\n{f['texto']}\n"
 
         if not contexto_relevante:
@@ -67,7 +67,7 @@ if pregunta and material:
 
         try:
             res = client.chat.completions.create(
-                model="llama-3.1-8b-instant",
+                model="model="llama-3.3-70b-versatile",
                 messages=[
                     {"role": "system", "content": "Eres Profesor de Farmacología Veterinaria. Responde usando SOLO el material provisto. Si la información no está en el material, indícalo."},
                     {"role": "user", "content": f"MATERIAL DE CÁTEDRA:\n{contexto_relevante}\n\nPREGUNTA DEL ALUMNO: {pregunta}"}
